@@ -4,11 +4,11 @@ layout: default
 
 # Neighbors Helping Neighbors in Arlington, MA
 
-Welcome to our new site, designed to connect our neighbors with the many awesome volunteer groups here in Arlington, MA.  Volunteers needed to help coordinate, communicate, and code!
+Welcome to our new site, designed to connect our neighbors with the many awesome volunteer groups here in Arlington, MA.  [Volunteers needed](https://github.com/ShaneCurcuru/mutualaidarlington.org/blob/master/CONTRIBUTING.md) to help coordinate, communicate, and code this website!
 
 ## Quick Resources
 
-A temporary list of key local resources, all official or vetted sites.
+A temporary list of key local resources, all official or vetted sites - this will be expanded with links to all the major local volunteer groups soon, as well as guides for how to ask for help.
 
 | [Government Sites](#government-sites) | [Science Resources](#science-resources) |
 | [Facebook Groups](#facebook-groups) | [Need Your Help](#need-your-help)! |
@@ -35,7 +35,7 @@ There are several private [Facebook Groups with super-friendly and helpful Arlin
 
 ### Need Your Help
 
-I'm [actively looking for collaborators](https://menotomymatters.com/howto/covid-organize/) to help turn this site into a master jump-off point to better publicise the many different volunteer groups and efforts in Arlington.  Read about my [ideas for this site over on MenotomyMatters](https://menotomymatters.com/howto/covid-organize/), my Arlington-focused blog.
+I'm [actively looking for collaborators](https://menotomymatters.com/howto/covid-organize/) to help turn this site into a master jump-off point to better publicise the many different volunteer groups and efforts in Arlington.  Read about my [ideas for this site over on MenotomyMatters](https://menotomymatters.com/howto/covid-organize/), my Arlington-focused blog and [see the CONTRIBUTING guide](https://github.com/ShaneCurcuru/mutualaidarlington.org/blob/master/CONTRIBUTING.md).
 
 ## Credits
 
