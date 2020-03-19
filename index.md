@@ -41,7 +41,7 @@ I'm [actively looking for collaborators](https://menotomymatters.com/howto/covid
 
 Need someone to hold your hand while you install Zoom? Or suggestions about which software to use? Or just answering a quick question? The following folks have agreed to make themselves available to help with videoconferencing technology. 
 
-- [David Coletta](mailto:david@colettas.org)
+- [David Coletta](mailto:david@colettas.org): Zoom, FaceTime, BlueJeans, macOS
 
 ## Credits
 
