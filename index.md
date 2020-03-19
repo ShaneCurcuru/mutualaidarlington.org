@@ -37,6 +37,12 @@ There are several private [Facebook Groups with super-friendly and helpful Arlin
 
 I'm [actively looking for collaborators](https://menotomymatters.com/howto/covid-organize/) to help turn this site into a master jump-off point to better publicise the many different volunteer groups and efforts in Arlington.  Read about my [ideas for this site over on MenotomyMatters](https://menotomymatters.com/howto/covid-organize/), my Arlington-focused blog.
 
+### Technical Assistance
+
+Need someone to hold your hand while you install Zoom? Or suggestions about which software to use? Or just answering a quick question? The following folks have agreed to make themselves available to help with videoconferencing technology. 
+
+- [David Coletta](mailto:david@colettas.org)
+
 ## Credits
 
 Arlington has a number of great volunteer groups that have been self-organizing individual lists - of people able to drive, where to get supplies, or the like - so many thanks to those volunteering.  But we need a way to coordinate between them all.  This site takes inspiration from one just a town over from us, the [Mutual Aid Medford And Somerville Network](https://mutualaidmamas.com/).  Thanks to them for coming up with a structure and for suggestions on how to duplicate their framework!
