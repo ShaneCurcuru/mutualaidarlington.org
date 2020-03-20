@@ -10,8 +10,9 @@ Welcome to our new site, designed to connect our neighbors with the many awesome
 
 A temporary list of key local resources, all official or vetted sites - this will be expanded with links to all the major local volunteer groups soon, as well as guides for how to ask for help.
 
+| [**Get Help**](/gethelp) | [Volunteer To Help](/volunteer) |
 | [Government Sites](#government-sites) | [Science Resources](#science-resources) |
-| [Facebook Groups](#facebook-groups) | [Need Your Help](#need-your-help)! |
+| [Facebook Groups](#facebook-groups) | [We Need Your Help](#need-your-help)! |
 
 ### Government Sites
 
@@ -19,6 +20,7 @@ A temporary list of key local resources, all official or vetted sites - this wil
 - [Printable CDC Fact Sheets, including in Spanish and Chinese](https://www.cdc.gov/coronavirus/2019-ncov/communication/factsheets.html).
 - [Mass Department of Public Health information page](https://www.mass.gov/2019coronavirus) lists local state resources
 - [Arlington Town Government Updates](https://www.arlingtonma.gov/Home/Components/News/News/10023/1525?backlist=%2fdepartments%2fhealth-human-services%2fhealth-department), updated each afternoon, so check back.
+- [MassLive coverage of stores open/closed](https://www.masslive.com/coronavirus/2020/03/coronavirus-shutdowns-whats-open-whats-closed-in-massachusetts.html)
 
 ### Facebook Groups
 
@@ -35,7 +37,7 @@ There are several private [Facebook Groups with super-friendly and helpful Arlin
 
 ### Need Your Help
 
-I'm [actively looking for collaborators](https://menotomymatters.com/howto/covid-organize/) to help turn this site into a master jump-off point to better publicise the many different volunteer groups and efforts in Arlington.  Read about my [ideas for this site over on MenotomyMatters](https://menotomymatters.com/howto/covid-organize/), my Arlington-focused blog and [see the CONTRIBUTING guide](https://github.com/ShaneCurcuru/mutualaidarlington.org/blob/master/CONTRIBUTING.md).
+I'm [actively looking for collaborators](https://forms.gle/uwiPfacsSabgk9v67) to help turn this site into a master jump-off point to better publicise the many different volunteer groups and efforts in Arlington.  Read about my [ideas for this site over on MenotomyMatters](https://menotomymatters.com/howto/covid-organize/), my Arlington-focused blog and [see the CONTRIBUTING guide](https://github.com/ShaneCurcuru/mutualaidarlington.org/blob/master/CONTRIBUTING.md).
 
 ## Credits
 
