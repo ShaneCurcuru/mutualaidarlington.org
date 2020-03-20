@@ -4,7 +4,11 @@ layout: default
 
 # Neighbors Helping Neighbors in Arlington, MA
 
-Mutual Aid Arlington is here to connect neighbors with the many awesome volunteer groups here in Arlington, MA.  [Volunteers needed](/tech#volunteer-to-help) to help coordinate, communicate, and code this website!
+**Mutual Aid Arlington** is here to connect neighbors with the many awesome volunteer groups here in Arlington, MA while [many of us are sheltering at home](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information) much of the time.  [Volunteers are needed](/tech#volunteer-to-help) to help coordinate, communicate, and code this website!
+
+**TOWN ALERT 20-March** [Arlington now recommends residents stay home](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information) if possible:
+
+> Public health officials urge that regardless of your age, you follow their request to stay at home and away from non-family contacts at this time. Due to the lack of testing they do not believe they are able to adequately contain coronavirus through quarantining of cases at this time. It is critical that we work together as the caring community that we are and follow this crucial step to prevent widespread illness in Arlington.
 
 | [**Get Help**](/gethelp) | [**Volunteer**](/volunteer) | **Resources** |
 | --- | --- | --- | 
