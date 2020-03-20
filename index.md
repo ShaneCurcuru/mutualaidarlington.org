@@ -26,6 +26,8 @@ A temporary list of key local resources, all official or vetted sites - this wil
 
 There are several private [Facebook Groups with super-friendly and helpful Arlingtonians](https://menotomymatters.com/howto/covid-emergency/#resource-lists---where-to-get-help).  If you use Facebook, definitely sign up to join them!
 
+One resource is [Support Local Businesses Open In Arlington](https://docs.google.com/spreadsheets/d/1H8XgJ5soHNKMIpXmyrfP3BHs0nHHx2Rb9IVxCRqIl9g/edit?fbclid=IwAR3cC1Yv_uMDlcDeqt4FaIKLn2-mSLyAaVc1tKxt0ZKuPJcRu-0umLH5LJ0#gid=968014385) on Google Sheets for open/closed lists.
+
 ### Science Resources
 
 - The [Lancet's respected scientific journals](https://www.thelancet.com/coronavirus) coverage of COVID-19.
