@@ -6,7 +6,11 @@ layout: subpage
 
 Local volunteering is sometimes complicated when you don't know the people you're working with.  **Pods** are hyper-local volunteer groups that can say #WeGotOurBlock!  Medford and Somerville have a great [Guide To Setting Up Volunteer Pods](https://docs.google.com/document/d/1j8ADhLEuKNDZ1a_opmzudywJPKMXcNKu01V1xY2MiIA/preview)
 
-> As things get harder, we show up for our neighbors. As a neighborhood point person, you’d take on the responsibility of reaching out to your neighbors, checking in on what needs are arising on your block, coordinating a neighborhood group chat or phone tree, and staying in touch with the point people from other neighborhoods for resource pooling.
+> As things get harder, we show up for our neighbors. As a Neighborhood Point Person (NPP), you’d take on the responsibility of reaching out to your neighbors, checking in on what needs are arising on your block, coordinating a neighborhood group chat or phone tree, and staying in touch with the point people from other neighborhoods for resource pooling.
+
+**Want To Volunteer Your Pod Today?**
+
+Great!  Medford and Somerville already have a great pod system and map that includes some Arlington groups.  If you'd like to get setup in the MAMAS Pod system, [fill out Neighborhood Point Person volunteer form](https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLSdsdGeYXv0cH3TxrMQSBp9A0h9dghnVzl_FajnZdVVAUF2WVg/viewform?usp%3Dsf_link&sa=D&ust=1584156198286000) now!  They also have a [Pod Setup Toolkit document](https://www.google.com/url?q=https://docs.google.com/document/d/1j8ADhLEuKNDZ1a_opmzudywJPKMXcNKu01V1xY2MiIA/edit&sa=D&ust=1584156198286000) with ideas.
 
 ## Volunteers Needed!
 
