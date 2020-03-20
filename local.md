@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 ---
 
 # Mutual Aid Around Arlington 

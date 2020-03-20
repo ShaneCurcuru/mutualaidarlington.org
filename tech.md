@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 ---
 
 # How To Get Technology Help From Arlington Neighbors

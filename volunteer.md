@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: subpage
 ---
 
 # How To Volunteer To Help Neighbors
