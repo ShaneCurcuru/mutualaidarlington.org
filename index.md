@@ -8,7 +8,7 @@ Mutual Aid Arlington is here to connect neighbors with the many awesome voluntee
 
 | [**Get Help**](/gethelp) | [**Volunteer**](/volunteer) | **Resources** |
 | --- | --- | --- | 
-| [Get Help From Local Volunteers](/gethelp) | [Volunteer To Help Neigbors](/volunteer) | [Setup A Volunteer Pod](/pods) |
+| [Get Help From Local Volunteers](/gethelp) | [Volunteer To Help Neighbors](/volunteer) | [Setup A Volunteer Pod](/pods) |
 | [Facebook Groups Helping](#facebook-groups) | [Tech Help Needed](/tech#volunteer-to-help)! | [Government Resources](#government-sites) | 
 | [Neighboring Town Aid](/local) | [Open / Closed In Arlington List](https://docs.google.com/spreadsheets/d/1H8XgJ5soHNKMIpXmyrfP3BHs0nHHx2Rb9IVxCRqIl9g/edit?fbclid=IwAR3cC1Yv_uMDlcDeqt4FaIKLn2-mSLyAaVc1tKxt0ZKuPJcRu-0umLH5LJ0#gid=968014385) | [Science Resources](#science-sites) | 
 
