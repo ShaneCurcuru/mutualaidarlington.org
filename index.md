@@ -25,6 +25,7 @@ One resource is [Support Local Businesses Open In Arlington](https://docs.google
 - [Mass Department of Public Health information page](https://www.mass.gov/2019coronavirus) lists local state resources
 - [Arlington Town Government Updates](https://www.arlingtonma.gov/Home/Components/News/News/10023/1525?backlist=%2fdepartments%2fhealth-human-services%2fhealth-department), updated each afternoon, so check back.
 - [MassLive coverage of stores open/closed](https://www.masslive.com/coronavirus/2020/03/coronavirus-shutdowns-whats-open-whats-closed-in-massachusetts.html)
+- [Support Local Businesses Open In Arlington](https://docs.google.com/spreadsheets/d/1H8XgJ5soHNKMIpXmyrfP3BHs0nHHx2Rb9IVxCRqIl9g/edit?fbclid=IwAR3cC1Yv_uMDlcDeqt4FaIKLn2-mSLyAaVc1tKxt0ZKuPJcRu-0umLH5LJ0#gid=968014385) locally curated list of what's open/closed
 
 ### Science Resources
 
