@@ -18,7 +18,7 @@ Most towns around Arlington are also working on Mutual Aid groups - that is, sel
 - [Mutual Aid JP & Roxbury](https://bit.ly/jpmutualaid?fbclid=IwAR1sIc6mfwlXqohl61LcdSWZNTDjZoJFpYyC7WALIDX8u1yyBIPIbPdaV4o) (MAMAS style Google Docs)
 - [Mutual Aid Cambridge](https://docs.google.com/forms/d/e/1FAIpQLScescGf_Knel1KGJ8fq0MUMzWa-6-CdKHzr5QT8RId8OMU8HA/viewform?fbclid=IwAR2yNMsS2ovYC1j63COmp8c6CK8NOrdy2PJhFsMSHoBBXqjqknBXFidQsO0) (Google Form volunteer intake only)
 - [Mutual Aid Worcester](https://www.facebook.com/MutualAidWorcester/) (Facebook groups)
-- [South Boston Neighborhood Aid](https://caughtinsouthie.com/news-politics/south-boston-neighborhood-aid/)
+- [South Boston Neighborhood Aid](https://docs.google.com/document/d/1Euymcv4XnTdNSvUssvhF1-Chjou86MryF_oQin0dogE/edit)
 
 ## Mutual Aid Resources
 
@@ -34,8 +34,10 @@ Most towns around Arlington are also working on Mutual Aid groups - that is, sel
 - [Mutual Aid 101 #WeGotOurBlock comprehensive how-to guide](https://gdoc.pub/doc/e/2PACX-1vRMxV09kdojzMdyOfapJUOB6Ko2_1iAfIm8ELeIgma21wIt5HoTqP1QXadF01eZc0ySrPW6VtU_veyp)
 - [Giant list of technology and organizing resources](https://coronavirustechhandbook.com/) from the UK.
 
+Want to start your own hyper-local volunteer pod? Check out the [Arlington pods guide](/pods).
+
 ## Contact Site Admins 
 
-Propose a GitHub PR or email [menotomy@shanecurcuru.org](mailto:menotomy@shanecurcuru.org?Subject=MutualAidArlington Tech Suggestion) with your suggestions.
+Propose a GitHub PR or email [menotomy@shanecurcuru.org](mailto:menotomy@shanecurcuru.org?Subject=MutualAidArlington Local Suggestion) with your suggestions.
 
 **Thanks All Volunteers!**
