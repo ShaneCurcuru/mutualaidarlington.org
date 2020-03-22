@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// If you are a CSS/design guru, please volunteer to improve my cheezy design! -sc
+.techvolunteer {
+  border-top:1px solid #ffcc00;
+  margin-top: 5px;
+}
+.techperson {
+  display: flex;
+}
+.techname {
+  flex: 3 1 70%;
+}
+.techname h3 {
+  line-height: 18px;
+}
+.techphoto {
+  height: 100px;
+  width: 100px;
+  margin-left: 5%;
+}
+.techphoto img {
+  height: 100px;
+  width: 100px;
+  margin-left: 5%;
+}
