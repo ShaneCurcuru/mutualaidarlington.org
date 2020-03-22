@@ -10,7 +10,7 @@ plugins:
   - jekyll-sitemap
 
 # jekyll-seo-tag
-logo: /assets/images/logo.jpg
+logo: &logo /assets/images/logo.jpg
 twitter:
   username: AidArlington
   card: summary
@@ -21,3 +21,13 @@ facebook:
 social:
   links:
     - https://twitter.com/AidArlington
+    - https://www.facebook.com/Mutual-Aid-Arlington-105702997739732/
+    - https://github.com/ShaneCurcuru/
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: pages
+    values:
+      image: *logo
