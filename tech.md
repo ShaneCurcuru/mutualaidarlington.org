@@ -25,6 +25,12 @@ Once we have some volunteers, we'll make this page a searchable, categorized lis
 
 **NOTE:** Currently Shane is building this site, although I'm talking to a few other Arlingtonians about coordinating efforts.  If you want to help maintain this meta-coordination site, please [submit the Tech Volnteer Form](https://forms.gle/uwiPfacsSabgk9v67) and tick the box for site admin.
 
+## Proposed Work Plans
+
+- Turn available tech volunteers into CSV and display categorized listing with a _layout
+- Create a hardware donation / hardware needs matching service or docs
+- Add mapping to the pods page: see if we can do something easier to manage than MAMAS pod map (has a lot of manual maintenance)
+
 ## Contact Site Admins 
 
 Propose a GitHub PR or email [menotomy@shanecurcuru.org](mailto:menotomy@shanecurcuru.org?Subject=MutualAidArlington Tech Suggestion) with your suggestions.

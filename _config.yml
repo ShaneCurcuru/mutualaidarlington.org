@@ -1,6 +1,23 @@
 title: "Mutual Aid Arlington, MA"
+tagline: "Get help from your neighbors"
 description: "Resources connecting neighbors with local volunteers in Arlington, MA"
 theme: jekyll-theme-leap-day
 show_downloads: false
 google_analytics: UA-6070690-10
 
+url: "https://mutualaidarlington.org" # jekyll-sitemap
+plugins:
+  - jekyll-sitemap
+
+# jekyll-seo-tag
+logo: /assets/images/logo.jpg
+twitter:
+  username: AidArlington
+  card: summary
+
+facebook:
+  publisher: https://www.facebook.com/Mutual-Aid-Arlington-105702997739732/
+
+social:
+  links:
+    - https://twitter.com/AidArlington
