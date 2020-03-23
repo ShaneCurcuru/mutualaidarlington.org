@@ -8,17 +8,21 @@ Most towns around Arlington are also working on Mutual Aid groups - that is, sel
 
 ## Nearby Mutual Aid Groups
 
-- [Medford and Somerville's amazing MAMAS group](https://mutualaidmamas.com/) (Google Docs) includes instructions on how to replicate their structure for other groups. [Notes on how they map pods](https://docs.google.com/document/d/1qv54kkGwJVe3YawxcGc9XaTNRtGIIO3MtfldC8V4HWo/edit).
+- **Medford / Somerville** have an [amazing MAMAS group](https://mutualaidmamas.com/) (Google Docs) includes instructions on how to replicate their structure for other groups. [Notes on how they map pods](https://docs.google.com/document/d/1qv54kkGwJVe3YawxcGc9XaTNRtGIIO3MtfldC8V4HWo/edit).
+- **Lexingon** has [Welcome to Mutual Aid Lexington](https://docs.google.com/document/d/1n7Qre55HQ8fFYC9D3BLQ1x5NWXrilNapylo2FAbaXm4/edit) (Google Doc based on MAMAS)
+- **Waltham** has[ Welcome to Mutual Aid Waltham (MAW)](https://docs.google.com/document/d/1JO5HsAb2GYWxEJKkF9yj4aMTmosfBghPEMi_fgdnAUI/edit) (Google Doc based on MAMAS)
+- **Winchester** I haven't found a local group there yet
 - [Tufts University Students Mutual Aid](https://www.facebook.com/tuftsmutualaid) (Facebook group)
-- [Cambridge Mutual Aid](https://www.cambridgemutualaid.info) (website)
-- [Cambridge Neighborhood Aid Network](https://docs.google.com/document/d/1x_gLUobYEodWYI4VBAC1hhjv0imZvQiM-uEEDxyZ3oE/edit) (Google Doc)
+- **Cambridge**
+  - [Mutual Aid Cambridge](https://docs.google.com/forms/d/e/1FAIpQLScescGf_Knel1KGJ8fq0MUMzWa-6-CdKHzr5QT8RId8OMU8HA/viewform?fbclid=IwAR2yNMsS2ovYC1j63COmp8c6CK8NOrdy2PJhFsMSHoBBXqjqknBXFidQsO0) (Google Form volunteer intake only)
+  - [Cambridge Mutual Aid](https://www.cambridgemutualaid.info) (website)
+  - [Cambridge Neighborhood Aid Network](https://docs.google.com/document/d/1x_gLUobYEodWYI4VBAC1hhjv0imZvQiM-uEEDxyZ3oE/edit) (Google Doc)
 - [Brookline Mutual Aid](https://docs.google.com/document/d/18wyL-f2x2j-tFMCsbaxWW98PjY5bVUKfPluFibmX9u8/edit) (Google doc)
 - [Allston / Brighton Mutual Aid](https://docs.google.com/document/d/1elvhLVePZdLRpTWgNKNYKYacu9wI__7ILMerXPUZjSg/edit?fbclid=IwAR3-SuJl0vthhJfsHhhwhqwE0GPVYak6gl1o6TwfZuZF6QhfkWk5DhxSAi4) (Google Doc)
 - [Charles River Mutual Aid](https://crmutualaid.com/) (includes BU) (website)
 - [Mutual Aid JP & Roxbury](https://bit.ly/jpmutualaid?fbclid=IwAR1sIc6mfwlXqohl61LcdSWZNTDjZoJFpYyC7WALIDX8u1yyBIPIbPdaV4o) (MAMAS style Google Docs)
-- [Mutual Aid Cambridge](https://docs.google.com/forms/d/e/1FAIpQLScescGf_Knel1KGJ8fq0MUMzWa-6-CdKHzr5QT8RId8OMU8HA/viewform?fbclid=IwAR2yNMsS2ovYC1j63COmp8c6CK8NOrdy2PJhFsMSHoBBXqjqknBXFidQsO0) (Google Form volunteer intake only)
-- [Mutual Aid Worcester](https://www.facebook.com/MutualAidWorcester/) (Facebook groups)
-- [South Boston Neighborhood Aid](https://docs.google.com/document/d/1Euymcv4XnTdNSvUssvhF1-Chjou86MryF_oQin0dogE/edit)
+
+_For more eastern MA mutual aid finders, see below!_
 
 ## Mutual Aid Group Maps / Finders
 
@@ -34,8 +38,8 @@ Most towns around Arlington are also working on Mutual Aid groups - that is, sel
 
 ## Mutual Aid Group How-Tos And Resources
 
-- [Technical website tips for mutual aid groups](/setup)
-- [Mutual Aid 101 #WeGotOurBlock comprehensive how-to guide](https://gdoc.pub/doc/e/2PACX-1vRMxV09kdojzMdyOfapJUOB6Ko2_1iAfIm8ELeIgma21wIt5HoTqP1QXadF01eZc0ySrPW6VtU_veyp), based on [MAMAS Medford/Somerville guide](https://mutualaidmamas.com/)
+- [**Technical** website tips for mutual aid groups](/setup)
+- [**Mutual Aid 101** #WeGotOurBlock comprehensive how-to guide](https://gdoc.pub/doc/e/2PACX-1vRMxV09kdojzMdyOfapJUOB6Ko2_1iAfIm8ELeIgma21wIt5HoTqP1QXadF01eZc0ySrPW6VtU_veyp), based on [MAMAS Medford/Somerville guide](https://mutualaidmamas.com/)
 - [Giant list of technology and organizing resources](https://coronavirustechhandbook.com/) from the UK.
 
 Want to start your own hyper-local Arlington volunteer pod? Check out the [Arlington pods guide](/pods).

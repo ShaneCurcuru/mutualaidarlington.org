@@ -18,6 +18,13 @@ Are you a geek who can help?  Volunteer your tech skills here for any Arlington 
 
 **NOTE:** Currently Shane is building this site, although I'm talking to a few other Arlingtonians about coordinating efforts.  If you want to help maintain this meta-coordination site, please [submit the Tech Volnteer Form](https://forms.gle/uwiPfacsSabgk9v67) and tick the box for site admin.
 
+## Technology Ideas For Kids
+
+There are plenty of lists of activities or remote learning for kids these days of closed schools out there.  But in terms of technology, here are a few focused suggestions.
+
+- Short but [high-quality list of software recommended for younger kids](https://github.com/HollyAdele/awesome-programming-for-kids) by Holly Adele - (in particular, [Scratch programming from MIT](https://scratch.mit.edu/))
+- [Push kids to create, not just consume](https://www.bryanbraun.com/2019/07/16/daily-demos-a-ritual-for-raising-kids-that-create/) - essay on daily demos by Bryan Braun
+
 ## Proposed Work Plans
 
 - Turn available tech volunteers into CSV and display categorized listing with a _layout
