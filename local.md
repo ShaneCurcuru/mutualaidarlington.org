@@ -20,21 +20,25 @@ Most towns around Arlington are also working on Mutual Aid groups - that is, sel
 - [Mutual Aid Worcester](https://www.facebook.com/MutualAidWorcester/) (Facebook groups)
 - [South Boston Neighborhood Aid](https://docs.google.com/document/d/1Euymcv4XnTdNSvUssvhF1-Chjou86MryF_oQin0dogE/edit)
 
-## Mutual Aid Resources
+## Mutual Aid Group Maps / Finders
 
-- [Massachusetts Jobs With Justice listing of Mutual Aid Groups](https://www.massjwj.net/news/2020/3/17/cover-19-mutual-aid-networks)
-- [MA Local Mutual Aid Groups](https://docs.google.com/spreadsheets/d/1QEK7LmLanrngIwIk72EjxijEerCB19348ac32YgYg0Q/edit#gid=0) (Google Sheet)
-- [Google Spreadsheet of various mutual aid groups across US](https://docs.google.com/spreadsheets/d/1M9Y46lhZSVIRyE1Qh74Tj5uu91VKs5nhFCUudnFOqOg/edit#gid=776187552).
-- [Another larger meta-list of groups](https://docs.google.com/spreadsheets/d/1HEdNpLB5p-sieHVK-CtS8_N7SIUhlMpY6q1e8Je0ToY/edit#gid=1455689482)
-- [Map of mutual aid groups in the US](https://www.mutualaidhub.org)
-- [Boston Local Mutual Aid Groups And Resources](https://docs.google.com/spreadsheets/d/15GYuPYEzBk9KIyH3C3419aYxIMVAsa7BL7nBl9434Mg/edit#gid=0) (Google Sheet)
+- **Massachusetts Local Resources**
+  - [Massachusetts Jobs With Justice listing of Mutual Aid Groups](https://www.massjwj.net/news/2020/3/17/cover-19-mutual-aid-networks)
+  - [MA Local Mutual Aid Groups](https://docs.google.com/spreadsheets/d/1QEK7LmLanrngIwIk72EjxijEerCB19348ac32YgYg0Q/edit#gid=0) (Google Sheet)
+  - [Boston Local Mutual Aid Groups And Resources](https://docs.google.com/spreadsheets/d/15GYuPYEzBk9KIyH3C3419aYxIMVAsa7BL7nBl9434Mg/edit#gid=0) (Google Sheet)
+- **US-wide Resources**
+  - [AARP's supported Mutual Aid Group Finder](https://aarpmutualaid.org/)
+  - [Google Spreadsheet of various mutual aid groups across US](https://docs.google.com/spreadsheets/d/1M9Y46lhZSVIRyE1Qh74Tj5uu91VKs5nhFCUudnFOqOg/edit#gid=776187552).
+  - [Another larger meta-list of groups](https://docs.google.com/spreadsheets/d/1HEdNpLB5p-sieHVK-CtS8_N7SIUhlMpY6q1e8Je0ToY/edit#gid=1455689482)
+  - [Map of mutual aid groups in the US](https://www.mutualaidhub.org)
 
-**How-To**
+## Mutual Aid Group How-Tos And Resources
 
-- [Mutual Aid 101 #WeGotOurBlock comprehensive how-to guide](https://gdoc.pub/doc/e/2PACX-1vRMxV09kdojzMdyOfapJUOB6Ko2_1iAfIm8ELeIgma21wIt5HoTqP1QXadF01eZc0ySrPW6VtU_veyp)
+- [Technical website tips for mutual aid groups](/setup)
+- [Mutual Aid 101 #WeGotOurBlock comprehensive how-to guide](https://gdoc.pub/doc/e/2PACX-1vRMxV09kdojzMdyOfapJUOB6Ko2_1iAfIm8ELeIgma21wIt5HoTqP1QXadF01eZc0ySrPW6VtU_veyp), based on [MAMAS Medford/Somerville guide](https://mutualaidmamas.com/)
 - [Giant list of technology and organizing resources](https://coronavirustechhandbook.com/) from the UK.
 
-Want to start your own hyper-local volunteer pod? Check out the [Arlington pods guide](/pods).
+Want to start your own hyper-local Arlington volunteer pod? Check out the [Arlington pods guide](/pods).
 
 ## Contact Site Admins 
 
