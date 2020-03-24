@@ -12,7 +12,7 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
+    <script src="https://kit.fontawesome.com/5d1f6a5c65.js" crossorigin="anonymous"></script>
   </head>
   <body>
 
@@ -23,12 +23,11 @@
 
       <div id="banner">
         <span id="logo"></span>
-<!-- 20200320-sc hack theme https://github.com/pages-themes/leap-day/blob/master/_layouts/default.html -->
-        <a href="/" class="button fork"><strong>Homepage</strong></a>
-        <div class="downloads"><!-- class forces right aling -->
+        <a href="/" class="button fork"><strong>Homepage</strong>  <i class="fa fa-home"></i></a>
+        <div class="downloads"><!-- class forces right align -->
           <ul>
-            <li><a href="/gethelp" class="button"><strong>Get Help</strong></a></li>
-            <li><a href="/volunteer" class="button">Volunteer</a></li>
+            <li><a href="/gethelp" class="button"><strong>Get Help</strong> <i class="fa fa-bullhorn"></i></a></li>
+            <li><a href="/volunteer" class="button">Volunteer <i class="fa fa-users"></i></a></li>
           </ul>
         </div>
       </div><!-- end banner -->
@@ -48,7 +47,7 @@
       <div class="techperson">
         <div class="techname">
           <h3>{{ itm.name }}</h3>
-          <br/><strong>Contact: </strong><a href="mailto:{{ itm.username }}?Subject=[MutualAidArlington] Request">{{ itm.username }}</a>
+          <br/><strong>Contact:</strong> <i class="fa fa-envelope-open-text"></i> <a href="mailto:{{ itm.username }}?Subject=[MutualAidArlington] Request">{{ itm.username }}</a>
           {% if itm.url %}<br/><strong>Website: </strong><a href="{{ itm.url }}">{{ itm.url }}</a>{% endif %}
           <br/><strong>Availability: </strong>{{ itm.available }}
         </div>
@@ -56,7 +55,7 @@
       </div>
     </p>
     <div class="techareas">
-      <strong>Can offer help in these areas: </strong>
+      <strong>Can offer help in these areas: </strong><i class="fa fa-laptop-house"></i>
       {% assign areas = itm.tech | split: ";" %}
       <ul>
       {% for area in areas %}
@@ -73,9 +72,10 @@
           <p>Website maintained by <a href="/admin">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p><small>
+          <i class="fab fa-twitter"></i> <a href="https://twitter.com/AidArlington">@AidArlington</a> &mdash; 
           <a href="/terms">Terms / Privacy</a> &mdash; 
           <a href="https://github.com/ShaneCurcuru/mutualaidarlington.org/blob/master/CODE_OF_CONDUCT.md">Code Of Conduct</a> &mdash; 
-          <a href="{{ site.github.repository_url }}/blob/master/{{ page.path }}" title="View Code {{ page.path }}">View Source</a> or</strong> <a href="{{ site.github.repository_url }}/edit/master/{{ page.path }}" title="Open GitHub Issue on {{ page.path }}">Propose Changes</a>
+          <a href="{{ site.github.repository_url }}/blob/master/{{ page.path }}" title="View Code {{ page.path }}">View Source</a> / <a href="{{ site.github.repository_url }}/edit/master/{{ page.path }}" title="Open GitHub Issue on {{ page.path }}">Propose Changes</a>
         </small></p>
       </footer>
     </div>

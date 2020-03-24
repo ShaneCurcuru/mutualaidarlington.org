@@ -7,7 +7,7 @@ title: Mutual Aid Arlington
 
 **Mutual Aid Arlington** is here to connect neighbors with the many awesome volunteer groups here in Arlington, MA while [many of us are sheltering at home](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information) much of the time.  [Volunteers are needed](/tech#volunteer-to-help) to help coordinate, communicate, and code this website!
 
-**TOWN ELECTION / TOWN MEETING POSTPONED** The Select board has officially postponed town election and Town Meeting Moderator is making legal changes needed to postpone Town Meeting, likely to be held in June.  Towh officially declares state of emergency. _(Source: Diane Mahon on The Arlington Email List)_
+**TOWN ELECTION / TOWN MEETING POSTPONED** <span style="color: #ffcc00"><i class="fa fa-exclamation-triangle"></i></span> The Select board has officially postponed town election and Town Meeting Moderator is making legal changes needed to postpone Town Meeting, likely to be held in June.  Towh officially declares state of emergency. _(Source: Diane Mahon on The Arlington Email List)_
 
 **TOWN ALERT 20-March** [Arlington now recommends residents stay home](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information) if possible:
 
@@ -15,19 +15,19 @@ title: Mutual Aid Arlington
 
 # Get Help or Volunteer
 
-| [**Get Help**](/gethelp) | [**Volunteer**](/volunteer) | **Resources** |
+| [**Get Help**](/gethelp) <i class="fa fa-bullhorn"></i> | [**Volunteer**](/volunteer) <i class="fa fa-users"></i> | **Resources** <i class="fa fa-book-reader"></i> |
 | --- | --- | --- | 
 | [Get Help From Local Volunteers](/gethelp) | [Volunteer To Help Neighbors](/volunteer) | [Setup A Volunteer Pod](/pods) |
-| [Facebook Groups Helping](#arlington-facebook-groups) | [Tech Help Needed](/tech#volunteer-to-help)! | [Government Resources](#official-government-sites) | 
-| [Neighboring Town Aid](/local) | [Open / Closed In Arlington List](https://docs.google.com/spreadsheets/d/1H8XgJ5soHNKMIpXmyrfP3BHs0nHHx2Rb9IVxCRqIl9g/edit?fbclid=IwAR3cC1Yv_uMDlcDeqt4FaIKLn2-mSLyAaVc1tKxt0ZKuPJcRu-0umLH5LJ0#gid=968014385) | [Science Resources](#reputable-science-resources) | 
+| [Facebook Groups Helping](#arlington-facebook-groups-) | [Tech Help Needed](/tech#volunteer-to-help)! | [Government Resources](#official-government-sites) | 
+| [Neighboring Town Aid](/local) | [Open / Closed In Arlington List](https://docs.google.com/spreadsheets/d/1H8XgJ5soHNKMIpXmyrfP3BHs0nHHx2Rb9IVxCRqIl9g/edit?fbclid=IwAR3cC1Yv_uMDlcDeqt4FaIKLn2-mSLyAaVc1tKxt0ZKuPJcRu-0umLH5LJ0#gid=968014385) | [Science Resources](#reputable-science-resources-) | 
 
-## Arlington Facebook Groups
+## Arlington Facebook Groups <i class="fab fa-facebook"></i>
 
 There are several private [Facebook Groups with super-friendly and helpful Arlingtonians](https://menotomymatters.com/howto/covid-emergency/#resource-lists---where-to-get-help).  If you use Facebook, definitely sign up to join them!
 
 One resource is [Support Local Businesses Open In Arlington](https://docs.google.com/spreadsheets/d/1H8XgJ5soHNKMIpXmyrfP3BHs0nHHx2Rb9IVxCRqIl9g/edit?fbclid=IwAR3cC1Yv_uMDlcDeqt4FaIKLn2-mSLyAaVc1tKxt0ZKuPJcRu-0umLH5LJ0#gid=968014385) on Google Sheets for open/closed lists.
 
-## Official Government Sites
+## Official Government Sites <i class="fa fa-flag-usa"></i>
 
 - [US **IRS Tax Day** Officially Extended to July 15th](https://www.irs.gov/coronavirus), [Mass Dept. of Revenue pledges to follow Federal changes](https://www.mass.gov/info-details/important-covid-19-coronavirus-response-update-from-dor) (official sites)
 - **US Centers for Disease Control**
@@ -41,7 +41,7 @@ One resource is [Support Local Businesses Open In Arlington](https://docs.google
 - [MassLive coverage of stores open/closed](https://www.masslive.com/coronavirus/2020/03/coronavirus-shutdowns-whats-open-whats-closed-in-massachusetts.html)
 - [Support Local Businesses Open In Arlington](https://docs.google.com/spreadsheets/d/1H8XgJ5soHNKMIpXmyrfP3BHs0nHHx2Rb9IVxCRqIl9g/edit?fbclid=IwAR3cC1Yv_uMDlcDeqt4FaIKLn2-mSLyAaVc1tKxt0ZKuPJcRu-0umLH5LJ0#gid=968014385) locally curated list of what's open/closed
 
-## Reputable Science Resources
+## Reputable Science Resources <i class="fa fa-microscope"></i>
 
 - [How Long Coronavirus Can Survive On Surfaces](https://hub.jhu.edu/2020/03/20/sars-cov-2-survive-on-surfaces/) (Johns Hopkins research paper)
 - The [Lancet's respected scientific journals](https://www.thelancet.com/coronavirus) coverage of COVID-19.
@@ -51,7 +51,7 @@ One resource is [Support Local Businesses Open In Arlington](https://docs.google
 - [NPR's guide on preparing your home](https://www.npr.org/sections/goatsandsoda/2020/02/26/809650625/a-guide-how-to-prepare-your-home-for-coronavirus).
 - [Johns Hopkins data visualizations and maps](https://systems.jhu.edu/research/public-health/ncov/) about the spread of COVID-19 
 
-### Need Your Help
+### Need Your Help <i class="fa fa-exclamation"></i>
 
 I'm [actively looking for collaborators](/tech#volunteer-to-help) to help turn this site into a master jump-off point to better publicise the many different volunteer groups and efforts in Arlington.  Read about my [ideas for this site over on MenotomyMatters](https://menotomymatters.com/howto/covid-organize/), my Arlington-focused blog and [see the CONTRIBUTING guide](https://github.com/ShaneCurcuru/mutualaidarlington.org/blob/master/CONTRIBUTING.md).
 

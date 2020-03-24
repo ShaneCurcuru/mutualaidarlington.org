@@ -29,7 +29,10 @@ There are many sites listing internet/phone discounts.  A key resource is also t
 - [Sprint Covid updates](https://www.sprint.com/en/landings/covid-19.html)
 - [TDS Broadband Covid updates](https://tdstelecom.com/about/news/categories/tds/TDSAnnouncesFreeBroadband.html) - two months free for K-12
 - [T-Mobile Covid updates](https://www.t-mobile.com/news/t-mobile-update-on-covid-19-response?icid=MGPO_TMO_U_CUSTSUPT_Z2739VFSHS97O7KGF20085)
-- 
+- Other Useful Lists
+  - [PCWorld article](https://www.pcworld.com/article/3532817/which-internet-providers-are-lifting-data-caps-during-the-coronavirus-and-which-arent.html) covering data caps and some details ()
+
+
 ## Contact Site Admins 
 
 Propose a GitHub PR or email [menotomy@shanecurcuru.org](mailto:menotomy@shanecurcuru.org?Subject=MutualAidArlington Local Suggestion) with your suggestions.
