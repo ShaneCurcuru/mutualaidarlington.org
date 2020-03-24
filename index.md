@@ -7,7 +7,7 @@ title: Mutual Aid Arlington
 
 **Mutual Aid Arlington** is here to connect neighbors with the many awesome volunteer groups here in Arlington, MA while [many of us are sheltering at home](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information) much of the time.  [Volunteers are needed](/tech#volunteer-to-help) to help coordinate, communicate, and code this website!
 
-**TOWN ELECTION / TOWN MEETING POSTPONED** <span style="color: #ffcc00"><i class="fa fa-exclamation-triangle"></i></span> The Select board has officially postponed town election and Town Meeting Moderator is making legal changes needed to postpone Town Meeting, likely to be held in June.  Towh officially declares state of emergency. _(Source: Diane Mahon on The Arlington Email List)_
+**TOWN ELECTION / TOWN MEETING POSTPONED** <span style="color: #ffcc00"><i class="fa fa-exclamation-triangle"></i></span> The [Select board has officially postponed](https://www.arlingtonma.gov/Home/Components/News/News/10076/16?backlist=%2fhome) town election and Town Meeting Moderator is making legal changes needed to postpone Town Meeting, likely to be held in June.  Towh officially declares state of emergency. _(Source: [Town Website Announcement](https://www.arlingtonma.gov/Home/Components/News/News/10076/16?backlist=%2fhome))_
 
 **TOWN ALERT 20-March** [Arlington now recommends residents stay home](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information) if possible:
 
