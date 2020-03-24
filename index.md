@@ -7,11 +7,9 @@ title: Mutual Aid Arlington
 
 **Mutual Aid Arlington** is here to connect neighbors with the many awesome volunteer groups here in Arlington, MA while [many of us are sheltering at home](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information) much of the time.  [Volunteers are needed](/tech#volunteer-to-help) to help coordinate, communicate, and code this website!
 
+**TOWN UPDATES** <span style="color: #ffcc00"><i class="fa fa-exclamation-triangle"></i></span> Follow town updates at [https://arlingtonma.gov/covid19](https://arlingtonma.gov/covid19). **Business Owners** please [fill out a new town survey on coronavirus impacts](https://www.arlingtonma.gov/departments/planning-community-development/economic-development/covid-19-resources).  Town is also [collecting PFE/Masks for first responders](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-faqs-and-prevention-tips/help-locally).
+
 **TOWN ELECTION / TOWN MEETING POSTPONED** <span style="color: #ffcc00"><i class="fa fa-exclamation-triangle"></i></span> The [Select board has officially postponed](https://www.arlingtonma.gov/Home/Components/News/News/10076/16?backlist=%2fhome) town election and Town Meeting Moderator is making legal changes needed to postpone Town Meeting, likely to be held in June.  Towh officially declares state of emergency. _(Source: [Town Website Announcement](https://www.arlingtonma.gov/Home/Components/News/News/10076/16?backlist=%2fhome))_
-
-**TOWN ALERT 20-March** [Arlington now recommends residents stay home](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information) if possible:
-
-> Public health officials urge that regardless of your age, you follow their request to stay at home and away from non-family contacts at this time. Due to the lack of testing they do not believe they are able to adequately contain coronavirus through quarantining of cases at this time. It is critical that we work together as the caring community that we are and follow this crucial step to prevent widespread illness in Arlington.
 
 # Get Help or Volunteer
 
