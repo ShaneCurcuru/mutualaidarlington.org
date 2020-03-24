@@ -1,28 +1,33 @@
 ---
 layout: default
+title: Mutual Aid Arlington
 ---
 
 # Neighbors Helping Neighbors in Arlington, MA
 
 **Mutual Aid Arlington** is here to connect neighbors with the many awesome volunteer groups here in Arlington, MA while [many of us are sheltering at home](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information) much of the time.  [Volunteers are needed](/tech#volunteer-to-help) to help coordinate, communicate, and code this website!
 
+**TOWN ELECTION / TOWN MEETING POSTPONED** The Select board has officially postponed town election and Town Meeting Moderator is making legal changes needed to postpone Town Meeting, likely to be held in June.  Towh officially declares state of emergency. _(Source: Diane Mahon on The Arlington Email List)_
+
 **TOWN ALERT 20-March** [Arlington now recommends residents stay home](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information) if possible:
 
 > Public health officials urge that regardless of your age, you follow their request to stay at home and away from non-family contacts at this time. Due to the lack of testing they do not believe they are able to adequately contain coronavirus through quarantining of cases at this time. It is critical that we work together as the caring community that we are and follow this crucial step to prevent widespread illness in Arlington.
 
+# Get Help or Volunteer
+
 | [**Get Help**](/gethelp) | [**Volunteer**](/volunteer) | **Resources** |
 | --- | --- | --- | 
 | [Get Help From Local Volunteers](/gethelp) | [Volunteer To Help Neighbors](/volunteer) | [Setup A Volunteer Pod](/pods) |
-| [Facebook Groups Helping](#facebook-groups) | [Tech Help Needed](/tech#volunteer-to-help)! | [Government Resources](#government-sites) | 
-| [Neighboring Town Aid](/local) | [Open / Closed In Arlington List](https://docs.google.com/spreadsheets/d/1H8XgJ5soHNKMIpXmyrfP3BHs0nHHx2Rb9IVxCRqIl9g/edit?fbclid=IwAR3cC1Yv_uMDlcDeqt4FaIKLn2-mSLyAaVc1tKxt0ZKuPJcRu-0umLH5LJ0#gid=968014385) | [Science Resources](#science-sites) | 
+| [Facebook Groups Helping](#arlington-facebook-groups) | [Tech Help Needed](/tech#volunteer-to-help)! | [Government Resources](#official-government-sites) | 
+| [Neighboring Town Aid](/local) | [Open / Closed In Arlington List](https://docs.google.com/spreadsheets/d/1H8XgJ5soHNKMIpXmyrfP3BHs0nHHx2Rb9IVxCRqIl9g/edit?fbclid=IwAR3cC1Yv_uMDlcDeqt4FaIKLn2-mSLyAaVc1tKxt0ZKuPJcRu-0umLH5LJ0#gid=968014385) | [Science Resources](#reputable-science-resources) | 
 
-### Facebook Groups
+## Arlington Facebook Groups
 
 There are several private [Facebook Groups with super-friendly and helpful Arlingtonians](https://menotomymatters.com/howto/covid-emergency/#resource-lists---where-to-get-help).  If you use Facebook, definitely sign up to join them!
 
 One resource is [Support Local Businesses Open In Arlington](https://docs.google.com/spreadsheets/d/1H8XgJ5soHNKMIpXmyrfP3BHs0nHHx2Rb9IVxCRqIl9g/edit?fbclid=IwAR3cC1Yv_uMDlcDeqt4FaIKLn2-mSLyAaVc1tKxt0ZKuPJcRu-0umLH5LJ0#gid=968014385) on Google Sheets for open/closed lists.
 
-### Government Sites
+## Official Government Sites
 
 - [US **IRS Tax Day** Officially Extended to July 15th](https://www.irs.gov/coronavirus), [Mass Dept. of Revenue pledges to follow Federal changes](https://www.mass.gov/info-details/important-covid-19-coronavirus-response-update-from-dor) (official sites)
 - **US Centers for Disease Control**
@@ -36,7 +41,7 @@ One resource is [Support Local Businesses Open In Arlington](https://docs.google
 - [MassLive coverage of stores open/closed](https://www.masslive.com/coronavirus/2020/03/coronavirus-shutdowns-whats-open-whats-closed-in-massachusetts.html)
 - [Support Local Businesses Open In Arlington](https://docs.google.com/spreadsheets/d/1H8XgJ5soHNKMIpXmyrfP3BHs0nHHx2Rb9IVxCRqIl9g/edit?fbclid=IwAR3cC1Yv_uMDlcDeqt4FaIKLn2-mSLyAaVc1tKxt0ZKuPJcRu-0umLH5LJ0#gid=968014385) locally curated list of what's open/closed
 
-### Science Resources
+## Reputable Science Resources
 
 - [How Long Coronavirus Can Survive On Surfaces](https://hub.jhu.edu/2020/03/20/sars-cov-2-survive-on-surfaces/) (Johns Hopkins research paper)
 - The [Lancet's respected scientific journals](https://www.thelancet.com/coronavirus) coverage of COVID-19.
