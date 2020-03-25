@@ -25,9 +25,18 @@ social:
     - https://github.com/ShaneCurcuru/
 
 defaults:
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: subpage
+      image: *logo
   # _posts
   - scope:
       path: ""
       type: pages
     values:
       image: *logo
+
+include:
+  - _pages

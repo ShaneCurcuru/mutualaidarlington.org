@@ -18,6 +18,14 @@ I'm in talks now with some other volunteers with hyper-local groups already setu
 
 Resources will include a map showing pod areas (probably precincts), and a list of the Neighborhood Point Person (NPP) for each pod, who can help organize any block-level volunteers or services.  This allows people on a set of blocks who might know some neighbors to be more comfortable volunteering nearby.
 
+## Resources - IN PRGRESS
+
+Arlington pod overview (google doc version) https://docs.google.com/document/d/1XF-pQe7K-TXZKDxuwI3NgI98tpQ_7JqSv89IbqsE7qg/edit
+
+Intake form https://docs.google.com/forms/d/e/1FAIpQLSeBp1E8eVqW1OqDKWHoygncmGdjNieRRVBexVavlRg9YP6U7A/viewform
+
+Map https://drive.google.com/open?id=1djdUWdOjxj2sMuKCjeudmpJb1msPgH1O&usp=sharing
+
 ## Contact Site Admins 
 
 Propose a GitHub PR or email [menotomy@shanecurcuru.org](mailto:menotomy@shanecurcuru.org?Subject=MutualAidArlington Tech Suggestion) with your suggestions.
