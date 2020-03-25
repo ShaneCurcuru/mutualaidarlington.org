@@ -8,13 +8,13 @@ Most towns around Arlington are also working on Mutual Aid groups - that is, sel
 
 ## Nearby Mutual Aid Groups
 
-- **Belmont** Mass Helps Out [intake form for needs/volunteers](https://docs.google.com/forms/d/1itDu3CTo-ERvEp7jcurB0kWn8ZsBbcO8tHUss_9Ryq0/viewform?ts=5e6ae392&edit_requested=true), and [volunteer coordination team](https://docs.google.com/document/d/1djeFj6JnJ_aId3rdoeZJqWxzv1bv2G3r2J6cq3iCTxg/edit)
-- **Medford / Somerville** have an [amazing MAMAS group](https://mutualaidmamas.com/) (Google Docs) includes instructions on how to replicate their structure for other groups. [Notes on how they map pods](https://docs.google.com/document/d/1qv54kkGwJVe3YawxcGc9XaTNRtGIIO3MtfldC8V4HWo/edit).
-- **Lexingon** has [Welcome to Mutual Aid Lexington](https://docs.google.com/document/d/1n7Qre55HQ8fFYC9D3BLQ1x5NWXrilNapylo2FAbaXm4/edit) (Google Doc based on MAMAS)
-- **Waltham** has[ Welcome to Mutual Aid Waltham (MAW)](https://docs.google.com/document/d/1JO5HsAb2GYWxEJKkF9yj4aMTmosfBghPEMi_fgdnAUI/edit) (Google Doc based on MAMAS)
-- **Winchester** I haven't found a local group there yet
+- **Belmont** Mass Helps Out [intake form for needs/volunteers](https://docs.google.com/forms/d/1itDu3CTo-ERvEp7jcurB0kWn8ZsBbcO8tHUss_9Ryq0/viewform?ts=5e6ae392&edit_requested=true), and [volunteer coordination team](https://docs.google.com/document/d/1djeFj6JnJ_aId3rdoeZJqWxzv1bv2G3r2J6cq3iCTxg/edit).  See also: [Official Belmont Town Government Updates](https://www.belmont-ma.gov/home/urgent-alerts/covid-19-information-for-the-town-of-belmont-find-all-updates-here)
+- **Medford / Somerville** have an [amazing MAMAS group](https://mutualaidmamas.com/) (Google Docs) includes instructions on how to replicate their structure for other groups. [Notes on how they map pods](https://docs.google.com/document/d/1qv54kkGwJVe3YawxcGc9XaTNRtGIIO3MtfldC8V4HWo/edit).  See also: [Official Medford City Government Updates](http://www.medfordma.org/coronavirus-information/), [Official Somerville City Updates](https://www.somervillema.gov/coronavirus)
+- **Lexingon** has [Welcome to Mutual Aid Lexington](https://docs.google.com/document/d/1n7Qre55HQ8fFYC9D3BLQ1x5NWXrilNapylo2FAbaXm4/edit) (Google Doc based on MAMAS)  See also: [Official Lexington Town Government Updates](https://www.lexingtonma.gov/public-health/pages/everything-you-need-know-during-covid-19-state-emergency)
+- **Waltham** has[ Welcome to Mutual Aid Waltham (MAW)](https://docs.google.com/document/d/1JO5HsAb2GYWxEJKkF9yj4aMTmosfBghPEMi_fgdnAUI/edit) (Google Doc based on MAMAS)  See also: [Official Waltham City Government Updates](https://www.city.waltham.ma.us/covid-19)
+- **Winchester** I haven't found a local group there yet  See also: [Official Winchester Town Government Updates](https://www.winchester.us/CivicAlerts.aspx?AID=906)
 - [Tufts University Students Mutual Aid](https://www.facebook.com/tuftsmutualaid) (Facebook group)
-- **Cambridge**
+- **Cambridge** [Official City of Cambridge Government Updates](https://www.cambridgema.gov/covid19)
   - [Mutual Aid Cambridge](https://docs.google.com/forms/d/e/1FAIpQLScescGf_Knel1KGJ8fq0MUMzWa-6-CdKHzr5QT8RId8OMU8HA/viewform?fbclid=IwAR2yNMsS2ovYC1j63COmp8c6CK8NOrdy2PJhFsMSHoBBXqjqknBXFidQsO0) (Google Form volunteer intake only)
   - [Cambridge Mutual Aid](https://www.cambridgemutualaid.info) (website)
   - [Cambridge Neighborhood Aid Network](https://docs.google.com/document/d/1x_gLUobYEodWYI4VBAC1hhjv0imZvQiM-uEEDxyZ3oE/edit) (Google Doc)
