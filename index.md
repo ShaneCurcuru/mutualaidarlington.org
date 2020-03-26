@@ -25,7 +25,7 @@ title: Mutual Aid Arlington
 
 There are several private [Facebook Groups with super-friendly and helpful Arlingtonians](https://menotomymatters.com/howto/covid-emergency/#resource-lists---where-to-get-help).  If you use Facebook, definitely sign up to join them!
 
-One resource is [Support Local Businesses Open In Arlington](https://docs.google.com/spreadsheets/d/1H8XgJ5soHNKMIpXmyrfP3BHs0nHHx2Rb9IVxCRqIl9g/edit?fbclid=IwAR3cC1Yv_uMDlcDeqt4FaIKLn2-mSLyAaVc1tKxt0ZKuPJcRu-0umLH5LJ0#gid=968014385) on Google Sheets for open/closed lists.
+[Support Arlington Businesses that are still open!](http://www.supportarlingtonbusiness.com/) a great list of local businesses still open, including a app for finding them when you're out.
 
 ## Official Government Sites <i class="fa fa-flag-usa"></i>
 
@@ -39,10 +39,10 @@ One resource is [Support Local Businesses Open In Arlington](https://docs.google
   - [Arlington Town Government Updates](http://arlingtonma.gov/covid19), updated each afternoon, so check back.
   - [Arlington **Schools** Enrichment Site](https://arlingtonenrich.wixsite.com/mysite) - new site with distance learning materials for kids in APS
 - [MassLive coverage of stores open/closed](https://www.masslive.com/coronavirus/2020/03/coronavirus-shutdowns-whats-open-whats-closed-in-massachusetts.html)
-- [Support Local Businesses Open In Arlington](https://docs.google.com/spreadsheets/d/1H8XgJ5soHNKMIpXmyrfP3BHs0nHHx2Rb9IVxCRqIl9g/edit?fbclid=IwAR3cC1Yv_uMDlcDeqt4FaIKLn2-mSLyAaVc1tKxt0ZKuPJcRu-0umLH5LJ0#gid=968014385) locally curated list of what's open/closed
 
 ## Reputable Science Resources <i class="fa fa-microscope"></i>
 
+- [Wirecutter/NYTimes Guide About Coronavirus](https://thewirecutter.com/blog/coronavirus-packages/) - well-researched set of free articles with tips on dealing with life in the age of COVID-19
 - [Safety Practices for Food Supply And Distribution](/assets/docs/COVID_SupplyDistro_MASafetyPracticesZine_PRINT.pdf) - useful booklet PDF (download) about safely preparing or delivering food to those in need.
 - [How Long Coronavirus Can Survive On Surfaces](https://hub.jhu.edu/2020/03/20/sars-cov-2-survive-on-surfaces/) (Johns Hopkins research paper)
 - The [Lancet's respected scientific journals](https://www.thelancet.com/coronavirus) coverage of COVID-19.
