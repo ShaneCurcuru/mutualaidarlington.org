@@ -4,7 +4,9 @@ layout: subpage
 
 # Mutual Aid Around Arlington 
 
-Most towns around Arlington are also working on Mutual Aid groups - that is, self-organizing, indpendent volunteers helping neighbors out.  Here's a listing of most of them (updated frequently).
+Most towns around Arlington also have Mutual Aid groups - self-organizing, indpendent volunteers helping neighbors out, either on a town/city-wide scale, or just a few blocks.  Here's a listing of all groups in neighboring towns, plus more resources for organizing yourself.
+
+<i class="fa fa-grin-hearts"></i> Cheer up: <i class="fa fa-paw"></i> [Arlington's going on a bear hunt](https://tinyurl.com/u59mm5y)! <i class="fa fa-paw"></i>  Scavenger walks for kids via Dori on the A-list.
 
 ## Nearby Mutual Aid Groups
 
@@ -29,8 +31,8 @@ _For more eastern MA mutual aid finders, see below!_
 
 - **Massachusetts Local Resources**
   - [Massachusetts Jobs With Justice listing of Mutual Aid Groups](https://www.massjwj.net/news/2020/3/17/cover-19-mutual-aid-networks)
-  - [MA Local Mutual Aid Groups](https://docs.google.com/spreadsheets/d/1QEK7LmLanrngIwIk72EjxijEerCB19348ac32YgYg0Q/edit#gid=0) (Google Sheet)
-  - [Boston Local Mutual Aid Groups And Resources](https://docs.google.com/spreadsheets/d/15GYuPYEzBk9KIyH3C3419aYxIMVAsa7BL7nBl9434Mg/edit#gid=0) (Google Sheet)
+  - [Massachusetts Mutual Aid Networks](http://tinyurl.com/mamutualaid) (Google Sheet, listing MA sites)
+  - [Boston COVID-19 Community Care](http://bit.ly/COVID-BOS) (Google Sheet, listing MA groups, resources, advocacy, tips)
 - **US-wide Resources**
   - [AARP's supported Mutual Aid Group Finder](https://aarpmutualaid.org/)
   - [Google Spreadsheet of various mutual aid groups across US](https://docs.google.com/spreadsheets/d/1M9Y46lhZSVIRyE1Qh74Tj5uu91VKs5nhFCUudnFOqOg/edit#gid=776187552).
@@ -39,6 +41,7 @@ _For more eastern MA mutual aid finders, see below!_
 
 ## Mutual Aid Group How-Tos And Resources
 
+- **Comprehensive** [Database of Localized Resources During COVID 19 Outbreak](https://docs.google.com/spreadsheets/u/1/d/1HEdNpLB5p-sieHVK-CtS8_N7SIUhlMpY6q1e8Je0ToY/htmlview?fbclid=IwAR0Q3_OAZpzpgl4HE4SGrQrtltEcbhIM_TyWYnP-I_5nZOtJg3VLC9HLfyM#gid=1604093003) - this is a mult-tab Google Spreadsheet with the largest list of links I've seen anywhere.
 - [**Technical** website tips for mutual aid groups](/setup)
 - [**Mutual Aid 101** #WeGotOurBlock comprehensive how-to guide](https://gdoc.pub/doc/e/2PACX-1vRMxV09kdojzMdyOfapJUOB6Ko2_1iAfIm8ELeIgma21wIt5HoTqP1QXadF01eZc0ySrPW6VtU_veyp), based on [MAMAS Medford/Somerville guide](https://mutualaidmamas.com/)
 - [Giant list of technology and organizing resources](https://coronavirustechhandbook.com/) from the UK.

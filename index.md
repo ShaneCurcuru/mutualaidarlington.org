@@ -7,9 +7,11 @@ title: Mutual Aid Arlington
 
 **Mutual Aid Arlington** is here to connect neighbors with the many awesome volunteer groups here in Arlington, MA while [many of us are sheltering at home](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information) much of the time.  [Volunteers are needed](/tech#volunteer-to-help) to help coordinate, communicate, and code this website!
 
+<i class="fa fa-grin-hearts"></i> Cheer up: <i class="fa fa-paw"></i> [Arlington's going on a bear hunt](https://tinyurl.com/u59mm5y)! <i class="fa fa-paw"></i>  _Scavenger walks for kids via Dori on the A-list._
+
 **TOWN UPDATES** <span style="color: #ffcc00"><i class="fa fa-exclamation-triangle"></i></span> Follow town updates at [https://arlingtonma.gov/covid19](https://arlingtonma.gov/covid19). **Business Owners** please [fill out a new town survey on coronavirus impacts](https://www.arlingtonma.gov/departments/planning-community-development/economic-development/covid-19-resources).  Town is also [collecting PFE/Masks for first responders](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-faqs-and-prevention-tips/help-locally).
 
-**TOWN ELECTION / TOWN MEETING POSTPONED** <span style="color: #ffcc00"><i class="fa fa-exclamation-triangle"></i></span> The [Select board has officially postponed](https://www.arlingtonma.gov/Home/Components/News/News/10076/16?backlist=%2fhome) town election and Town Meeting Moderator is making legal changes needed to postpone Town Meeting, likely to be held in June.  Towh officially declares state of emergency. _(Source: [Town Website Announcement](https://www.arlingtonma.gov/Home/Components/News/News/10076/16?backlist=%2fhome))_
+**TOWN ELECTION / TOWN MEETING POSTPONED** <span style="color: #ffcc00"><i class="fa fa-exclamation-triangle"></i></span> The [Select board has officially postponed](https://www.arlingtonma.gov/Home/Components/News/News/10076/16?backlist=%2fhome) town elections and Town Meeting Moderator is postponing Town Meeting, likely to be held in June.  [Towh officially declares state of emergency](https://www.arlingtonma.gov/Home/Components/News/News/10076/16?backlist=%2fhome).
 
 # Get Help or Volunteer
 
@@ -34,13 +36,14 @@ One resource is [Support Local Businesses Open In Arlington](https://docs.google
 - **Massachusetts Official Sites** 
   - [Mass Department of Public Health information page](https://www.mass.gov/2019coronavirus) lists local state resources
   - [Mass Public Health COVID cases tracker](https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring) - official test results, updated 4PM daily
-  - [Arlington Town Government Updates](https://www.arlingtonma.gov/Home/Components/News/News/10023/1525?backlist=%2fdepartments%2fhealth-human-services%2fhealth-department), updated each afternoon, so check back.
+  - [Arlington Town Government Updates](http://arlingtonma.gov/covid19), updated each afternoon, so check back.
   - [Arlington **Schools** Enrichment Site](https://arlingtonenrich.wixsite.com/mysite) - new site with distance learning materials for kids in APS
 - [MassLive coverage of stores open/closed](https://www.masslive.com/coronavirus/2020/03/coronavirus-shutdowns-whats-open-whats-closed-in-massachusetts.html)
 - [Support Local Businesses Open In Arlington](https://docs.google.com/spreadsheets/d/1H8XgJ5soHNKMIpXmyrfP3BHs0nHHx2Rb9IVxCRqIl9g/edit?fbclid=IwAR3cC1Yv_uMDlcDeqt4FaIKLn2-mSLyAaVc1tKxt0ZKuPJcRu-0umLH5LJ0#gid=968014385) locally curated list of what's open/closed
 
 ## Reputable Science Resources <i class="fa fa-microscope"></i>
 
+- [Safety Practices for Food Supply And Distribution](/assets/docs/COVID_SupplyDistro_MASafetyPracticesZine_PRINT.pdf) - useful booklet PDF (download) about safely preparing or delivering food to those in need.
 - [How Long Coronavirus Can Survive On Surfaces](https://hub.jhu.edu/2020/03/20/sars-cov-2-survive-on-surfaces/) (Johns Hopkins research paper)
 - The [Lancet's respected scientific journals](https://www.thelancet.com/coronavirus) coverage of COVID-19.
 - [WHO's meta-listing of scientific papers on COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov).
