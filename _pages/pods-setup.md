@@ -1,5 +1,6 @@
 ---
 permalink: /pods/setup
+layout: subpods
 ---
 
 # How To Setup Your Pod

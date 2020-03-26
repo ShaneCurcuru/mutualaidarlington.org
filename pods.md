@@ -4,9 +4,7 @@ layout: subpage
 
 # What Are Local Volunteer Pods?
 
-_As things get harder, we show up for our neighbors._ As a neighborhood point person, you’d take on the responsibility of reaching out to your neighbors in a nearby pod, checking in on what needs are arising on your block, coordinating a neighborhood group chat or phone tree, and staying in touch with the point people from other neighborhoods for resource pooling. We are trying to build a network of many neighborhood pods across town.
-
-Local volunteering is sometimes complicated when you don't know the people you're working with.  **Pods** are hyper-local volunteer groups that can say #WeGotOurBlock! 
+_As things get harder, we show up for our neighbors._ As a neighborhood point person, you’d take on the responsibility of reaching out to your neighbors in a nearby pod, checking in on what needs are arising on your block, coordinating a neighborhood group chat or phone tree, and staying in touch with the point people from other neighborhoods for resource pooling. We are build a network of volunteer neighborhood pods across town.
 
 **Pod Volunteering Resources**
 
@@ -14,7 +12,7 @@ Local volunteering is sometimes complicated when you don't know the people you'r
 
 ## Volunteer To Setup A Pod
 
-Wondering how to get started?  We have a [Guide For Setting Up Your Pod](/pods/setup), and we offer help and tips on keeping organized, like a [flyer to hand out](/pods/flyer) and a [guide for talking to neighbors](/pods/conversation).
+Wondering how to get started?  We have a [Guide For Setting Up Your Pod](/pods/setup), and we offer help and tips on keeping organized, like a [flyer to hand out](/pods/flyer) and a [guide for talking to neighbors](/pods/conversation).  Local volunteering is sometimes complicated when you don't know the people you're working with.  **Pods** are hyper-local volunteer groups that can say #WeGotOurBlock! 
 
 ## Look For Help Nearby
 

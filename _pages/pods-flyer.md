@@ -1,5 +1,6 @@
 ---
 permalink: /pods/flyer
+layout: subpods
 ---
 
 # Flyer Template
@@ -14,4 +15,4 @@ https://docs.google.com/document/d/1XF-pQe7K-TXZKDxuwI3NgI98tpQ_7JqSv89IbqsE7qg/
 
 ## Need additional support? Have ideas?
 
-Contact the Arlington Pod Organizers at [mutualaidarlington@gmail.com](mailto:mutualaidarlington@gmail.com?Subject=[podsetup] Neighborhood pods question)
+Contact the Arlington Pod Organizers at [mutualaidarlington@gmail.com](mailto:mutualaidarlington@gmail.com?Subject=[podflyer] Neighborhood pods question)
