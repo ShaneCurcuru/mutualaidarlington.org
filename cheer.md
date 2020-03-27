@@ -8,7 +8,7 @@ Along with the many places to volunteer or get help these days, Arlington neighb
 
 ## We're Going On A Bear Hunt!
 
-Dori on the A-list has started an amazing group of bear-lovers for kids to keep their eyes out for.  Like the kid's story ([told on video](https://www.youtube.com/watch?v=Waoa3iG3bZ4)!), neighbors are putting teddy bears (and other things) in their windows or porches as a scavenger hunt for families to look out for when taking a walk.  Check out the current bear sightings around town!
+Dori on the A-list has started an amazing group of bear-lovers for kids to keep their eyes out for. <i class="fa fa-paw"></i> Like the kid's story ([told on video](https://www.youtube.com/watch?v=Waoa3iG3bZ4)!), neighbors are putting teddy bears (and other things) in their windows or porches as a scavenger hunt for families to look out for when taking a walk.  Check out the current bear sightings around town!
 
 <p style="margin-left: -25px"><!-- Custom for leap-day theme; remove if using another theme 20200326-sc -->
   <iframe src="https://www.google.com/maps/d/embed?mid=1i52Bg9JQqeFBloewUP4pN1BjmjFg3nxK&hl=en" width="640" height="480"></iframe>
@@ -17,6 +17,9 @@ Dori on the A-list has started an amazing group of bear-lovers for kids to keep 
 **Does Your Bear Want To Play?**
 
 If you have a Google/Gmail account, you can [add yourself to this editable spreadsheet](https://tinyurl.com/u59mm5y) of Arlington bears!
+
+## Neighborhood Photos <i class="fa fa-camera"></i> 
+Kristin Chalmers is taking [amazing pictures of neighbors](https://kristinchalmersphotography.pixieset.com/covidportraits/?MutualAidArlington) in her walks around town these days - [follow her on Facebook](https://www.facebook.com/Kristinchalmersphotography/) or [view her online gallery](https://kristinchalmersphotography.pixieset.com/covidportraits/?MutualAidArlington) day by day.
 
 ## Messages And Lights Of Cheer
 
