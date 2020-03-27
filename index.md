@@ -7,7 +7,7 @@ title: Mutual Aid Arlington
 
 **Mutual Aid Arlington** is here to connect neighbors with the many awesome volunteer groups here in Arlington, MA while [many of us are sheltering at home](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information) much of the time.  [Volunteers are needed](/tech#volunteer-to-help) to help coordinate, communicate, and code this website!
 
-<i class="fa fa-grin-hearts"></i> Cheer up: <i class="fa fa-paw"></i> [Arlington's going on a bear hunt](https://tinyurl.com/u59mm5y)! <i class="fa fa-paw"></i>  _Scavenger walks for kids via Dori on the A-list._  And there are plenty of <i class="fa fa-utensils"></i> [Arlington businesses still open](http://www.supportarlingtonbusiness.com/)!
+<i class="fa fa-grin-hearts"></i> Cheer up: <i class="fa fa-paw"></i> [Arlington's going on a bear hunt](/cheer)! <i class="fa fa-paw"></i>  _Scavenger walks for kids via Dori on the A-list._  There are plenty of <i class="fa fa-utensils"></i> [Arlington businesses still open](http://www.supportarlingtonbusiness.com/), and [neighbors are spreading cheer](/cheer)!
 
 **TOWN UPDATES** <span style="color: #ffcc00"><i class="fa fa-exclamation-triangle"></i></span> Follow town updates at [https://arlingtonma.gov/covid19](https://arlingtonma.gov/covid19). **Business Owners** please [fill out a new town survey on coronavirus impacts](https://www.arlingtonma.gov/departments/planning-community-development/economic-development/covid-19-resources).  Town is also [collecting PFE/Masks for first responders](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-faqs-and-prevention-tips/help-locally).
 
