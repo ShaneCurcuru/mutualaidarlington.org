@@ -33,7 +33,8 @@ There are several private [Facebook Groups with super-friendly and helpful Arlin
 - **US Centers for Disease Control**
   - [CDC COVID-19 Home Page](https://www.cdc.gov/coronavirus/2019-ncov/index.html), regularly updated
   - [Printable CDC Fact Sheets, including in Spanish and Chinese](https://www.cdc.gov/coronavirus/2019-ncov/communication/factsheets.html).
-- **Massachusetts Official Sites** 
+- **Massachusetts Official Sites**
+  - [Mass Attorney General - Resources for dealing with debt](https://www.mass.gov/guides/resources-during-covid-19) - key rights for employees or those with debts
   - [Mass Department of Public Health information page](https://www.mass.gov/2019coronavirus) lists local state resources
   - [Mass Public Health COVID cases tracker](https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring) - official test results, updated 4PM daily
   - [Arlington Town Government Updates](http://arlingtonma.gov/covid19), updated each afternoon, so check back.
@@ -42,6 +43,7 @@ There are several private [Facebook Groups with super-friendly and helpful Arlin
 
 ## Reputable Science Resources <i class="fa fa-microscope"></i>
 
+- [Coronavirus in a Nutshell](https://www.youtube.com/watch?v=BtN-goy9VOY) - excellent video that explains issues around COVID-19 in plain language - and is well researched ([See their source list](https://sites.google.com/view/sourcescorona))
 - [Wirecutter/NYTimes Guide About Coronavirus](https://thewirecutter.com/blog/coronavirus-packages/) - well-researched set of free articles with tips on dealing with life in the age of COVID-19
 - [Safety Practices for Food Supply And Distribution](/assets/docs/COVID_SupplyDistro_MASafetyPracticesZine_PRINT.pdf) - useful booklet PDF (download) about safely preparing or delivering food to those in need.
 - [How Long Coronavirus Can Survive On Surfaces](https://hub.jhu.edu/2020/03/20/sars-cov-2-survive-on-surfaces/) (Johns Hopkins research paper)
