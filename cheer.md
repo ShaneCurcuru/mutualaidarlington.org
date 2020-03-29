@@ -5,7 +5,7 @@ logo: /assets/images/2020.03.24-0003-sm.jpg
 
 # Neighbors Cheering Up Neighbors!
 
-Along with the many places to volunteer or get help these days, Arlington neighbors are spreading cheer in many social distancing appropriate ways.  Spring weather is here - get outside, take a walk, and look for bits of cheer all around you.
+Along with the many places to volunteer or get help these days, Arlington neighbors are spreading cheer in many social distancing appropriate ways.  Spring weather is here - get outside, [take a long walk](/active), and look for bits of cheer all around you.
 
 ## We're Going On A Bear Hunt! <i class="fa fa-paw"></i>
 

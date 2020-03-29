@@ -5,27 +5,32 @@ title: Mutual Aid Arlington
 
 # Neighbors Helping Neighbors in Arlington, MA
 
-**Mutual Aid Arlington** is here to connect neighbors with the many awesome volunteer groups here in Arlington, MA while [many of us are sheltering at home](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information) much of the time.  [Volunteers are needed](/tech#volunteer-to-help) to help coordinate, communicate, and code this website!
+**Mutual Aid Arlington** is here to connect neighbors with the many awesome volunteer groups here in Arlington, MA while [we are sheltering at home](https://arlingtonma.gov/covid19).  Here you'll find links to all organized volunteer groups, key resources, and ideas for keeping families and kids active and happy!
 
-<i class="fa fa-grin-hearts"></i> Cheer up: <i class="fa fa-paw"></i> [Arlington's going on a bear hunt](/cheer)! <i class="fa fa-paw"></i>  _Scavenger walks for kids via Dori on the A-list._  There are plenty of <i class="fa fa-utensils"></i> [Arlington businesses still open](http://www.supportarlingtonbusiness.com/), and [neighbors are spreading cheer](/cheer)!
-
-**TOWN UPDATES** <span style="color: #ffcc00"><i class="fa fa-exclamation-triangle"></i></span> Follow town updates at [https://arlingtonma.gov/covid19](https://arlingtonma.gov/covid19). **Business Owners** please [fill out a new town survey on coronavirus impacts](https://www.arlingtonma.gov/departments/planning-community-development/economic-development/covid-19-resources).  Town is also [collecting PFE/Masks for first responders](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-faqs-and-prevention-tips/help-locally).
-
-**TOWN ELECTION / TOWN MEETING POSTPONED** <span style="color: #ffcc00"><i class="fa fa-exclamation-triangle"></i></span> The [Select board has officially postponed](https://www.arlingtonma.gov/Home/Components/News/News/10076/16?backlist=%2fhome) town elections and Town Meeting Moderator is postponing Town Meeting, likely to be held in June.  [Towh officially declares state of emergency](https://www.arlingtonma.gov/Home/Components/News/News/10076/16?backlist=%2fhome).
+<i class="fa fa-grin-hearts"></i> Cheer up: <i class="fa fa-paw"></i> [Arlington's going on a bear hunt](/cheer?bear)! <i class="fa fa-paw"></i>   You can also find many <i class="fa fa-utensils"></i> [Arlington businesses still open](http://www.supportarlingtonbusiness.com/), and [join folks in spreading cheer](/cheer) or by doing [6 feet at 6PM on your block](https://twitter.com/arlingtonmagov/status/1244338726601478151)!
 
 # Get Help or Volunteer
 
 | [**Get Help**](/gethelp) <i class="fa fa-bullhorn"></i> | [**Volunteer**](/volunteer) <i class="fa fa-users"></i> | **Resources** <i class="fa fa-book-reader"></i> |
 | --- | --- | --- | 
 | [Get Help From Local Volunteers](/gethelp) | [Volunteer To Help Neighbors](/volunteer) | [Setup A Volunteer Pod](/pods) |
-| [Facebook Groups Helping](#arlington-facebook-groups-) | [Tech Help Needed](/tech#volunteer-to-help)! | [Government Resources](#official-government-sites) | 
-| [Neighboring Town Aid](/local) | [Open / Closed In Arlington List](https://docs.google.com/spreadsheets/d/1H8XgJ5soHNKMIpXmyrfP3BHs0nHHx2Rb9IVxCRqIl9g/edit?fbclid=IwAR3cC1Yv_uMDlcDeqt4FaIKLn2-mSLyAaVc1tKxt0ZKuPJcRu-0umLH5LJ0#gid=968014385) | [Science Resources](#reputable-science-resources-) | 
+| [Facebook Groups Helping](#arlington-helps-on-facebook-) | [Tech Help Needed](/tech#volunteer-to-help)! | [Key State Resources](#official-government-sites) | 
+| [Neighboring Town Aid](/local) | [Stay Active](/active) / [Spread Cheer!](/cheer) | [Science Resources](#reputable-science-resources-) | 
 
-## Arlington Facebook Groups <i class="fab fa-facebook"></i>
+## Town Alerts <span style="color: #ffcc00"><i class="fa fa-exclamation-triangle"></i></span>
 
-There are several private [Facebook Groups with super-friendly and helpful Arlingtonians](https://menotomymatters.com/howto/covid-emergency/#resource-lists---where-to-get-help).  If you use Facebook, definitely sign up to join them!
+- Read [important Town updates](https://twitter.com/arlingtonmagov) every afternoon: [https://arlingtonma.gov/covid19](https://arlingtonma.gov/covid19), or [sign up for email alerts & updates](https://www.arlingtonma.gov/communications-center)
+- **Business Owners** should [fill out the town survey on coronavirus impacts](https://www.arlingtonma.gov/departments/planning-community-development/economic-development/covid-19-resources)
+- Help [collect PFE/Masks for Town first responders](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-faqs-and-prevention-tips/help-locally)
+- **Town Election & Meeting Are Postponed** [Select board officially postpones](https://www.arlingtonma.gov/Home/Components/News/News/10076/16?backlist=%2fhome) town elections & meeting; likely held in June
 
-[Support Arlington Businesses that are still open!](http://www.supportarlingtonbusiness.com/) a great list of local businesses still open, including a app for finding them when you're out.
+## Arlington Helps On Facebook <i class="fab fa-facebook"></i>
+
+There are several private [Facebook Groups with super-helpful Arlingtonians](https://menotomymatters.com/howto/covid-emergency/#resource-lists---where-to-get-help).  If you use Facebook, definitely sign up to join them!
+
+There are two great lists of Arlington businesses still open:
+- [Volunteer run list and map app](http://www.supportarlingtonbusiness.com/)
+- [Town run official list of businesses in town](https://docs.google.com/spreadsheets/d/1o9EW1jBsm95ucDC2cCcpRVLtMPJVUbrJEg5fTyYrqwQ/edit#gid=510648638)
 
 ## Official Government Sites <i class="fa fa-flag-usa"></i>
 
@@ -37,7 +42,7 @@ There are several private [Facebook Groups with super-friendly and helpful Arlin
   - [Mass Attorney General - Resources for dealing with debt](https://www.mass.gov/guides/resources-during-covid-19) - key rights for employees or those with debts
   - [Mass Department of Public Health information page](https://www.mass.gov/2019coronavirus) lists local state resources
   - [Mass Public Health COVID cases tracker](https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring) - official test results, updated 4PM daily
-  - [Arlington Town Government Updates](http://arlingtonma.gov/covid19), updated each afternoon, so check back.
+  - [Arlington Town Government Updates](https://arlingtonma.gov/covid19), updated each afternoon, so check back.
   - [Arlington **Schools** Enrichment Site](https://arlingtonenrich.wixsite.com/mysite) - new site with distance learning materials for kids in APS
 - [MassLive coverage of stores open/closed](https://www.masslive.com/coronavirus/2020/03/coronavirus-shutdowns-whats-open-whats-closed-in-massachusetts.html)
 
