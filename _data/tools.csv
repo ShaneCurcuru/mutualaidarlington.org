@@ -1,0 +1,17 @@
+category,title,url,github,social
+maps,uMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site,https://umap.openstreetmap.fr/en/,https://github.com/umap-project/umap,
+tracker,"US focused COVID19 case tracker, by state; all data vetted",https://covidtracking.com,https://github.com/COVID19Tracking/website,https://twitter.com/COVID19Tracking
+resources,Wirecutter's vetted meta-guide to many how-to documnts,https://thewirecutter.com/blog/all-coronavirus-coverage/,,
+howto,Printable booklet of food and grocery safety; well explained with some resources,https://mutualaiddisasterrelief.org/wp-content/uploads/2020/03/COVID-SupplyDistro-MASafetyPracticesZine-WEB.pdf,,
+howto,"Mutual Aid Brookline Toolkits of public-facing how to documents (childcare, shopping, etc)",https://drive.google.com/open?id=1ExFZHPlRYiSod8YTeALXh8qcFtnrsg7d,,
+communications,"Allows creating custom, password protected Whats App redirect links",https://joingroupchat.com,,
+toolkit,Custom built app for matching needs with volunteers using their system,https://mutualaid.world/,https://github.com/factn/coronadonor-api,
+toolkit,Generic volunteer-matching website with customized portals free for mutual aid groups,https://mutualaid.goldenvolunteer.com,,
+localsite,"Bay Area mutual aid site with a good design between GHPages, Ushahidi, maps, and embedded spreadsheets",https://www.bayareamutualaid.org,https://github.com/bayareamutualaid,https://twitter.com/sfbaymutualaid
+legal,"EFF guide to law, privacy, and licensing in the age of COVID-19",https://www.eff.org/issues/covid-19,,
+standards,Open Referral works on resource and data standards and formats for mutual aid related services,https://openreferral.org,https://github.com/openreferral/specification,
+maps,SheetSee.js - client-side library for visualizing Google Sheets as maps or tables,http://jlord.us/sheetsee.js/,http://www.github.com/jlord/sheetsee.js,
+toolkit,ActionNetwork is offering free services for mutual aid for their volunteer matching tools,https://actionnetwork.org/forms/sign-up-to-use-action-builder-for-mutual-aid-work/,,
+resources,Help With COVID - site matching technology volunteers with code projects requesting help,https://helpwithcovid.com,,
+resources,"COVID-19 List is a meta-listing of various resources, groups, and tools ",https://www.covid-19list.com/,,
+resources,MutualAid NYC's list of how-to resources for mutual aid group coordinators (fairly comprehensive),http://mutualaid.nyc/2020/03/29/how-to-set-up-a-mutual-aid-neighborhood-group-a-resource-list/,,

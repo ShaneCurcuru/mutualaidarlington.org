@@ -23,6 +23,7 @@ title: Mutual Aid Arlington
 - **Business Owners** should [fill out the town survey on coronavirus impacts](https://www.arlingtonma.gov/departments/planning-community-development/economic-development/covid-19-resources)
 - Help [collect PFE/Masks for Town first responders](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-faqs-and-prevention-tips/help-locally)
 - **Town Election & Meeting Are Postponed** [Select board officially postpones](https://www.arlingtonma.gov/Home/Components/News/News/10076/16?backlist=%2fhome) town elections & meeting; likely held in June
+- Robbins library posted an [amazing list of online resources for you](https://robbinslibrary.wordpress.com/2020/03/18/robbins-instructional-guides-are-now-online/)
 
 ## Arlington Helps On Facebook <i class="fab fa-facebook"></i>
 
@@ -31,10 +32,11 @@ There are several private [Facebook Groups with super-helpful Arlingtonians](htt
 There are two great lists of Arlington businesses still open:
 - [Volunteer run list and map app](http://www.supportarlingtonbusiness.com/)
 - [Town run official list of businesses in town](https://docs.google.com/spreadsheets/d/1o9EW1jBsm95ucDC2cCcpRVLtMPJVUbrJEg5fTyYrqwQ/edit#gid=510648638)
+- Need internet? [Phone, internet, connectivity services with COVID-19 discounts](/telecom)
 
 ## Official Government Sites <i class="fa fa-flag-usa"></i>
 
-- [US **IRS Tax Day** Officially Extended to July 15th](https://www.irs.gov/coronavirus), [Mass Dept. of Revenue pledges to follow Federal changes](https://www.mass.gov/info-details/important-covid-19-coronavirus-response-update-from-dor) (official sites)
+- [**IRS Tax Day** Officially Extended to July 15th](https://www.irs.gov/coronavirus), [Mass Dept. of Revenue follows suit](https://www.mass.gov/info-details/important-covid-19-coronavirus-response-update-from-dor) (official sites)
 - **US Centers for Disease Control**
   - [CDC COVID-19 Home Page](https://www.cdc.gov/coronavirus/2019-ncov/index.html), regularly updated
   - [Printable CDC Fact Sheets, including in Spanish and Chinese](https://www.cdc.gov/coronavirus/2019-ncov/communication/factsheets.html).
@@ -48,6 +50,7 @@ There are two great lists of Arlington businesses still open:
 
 ## Reputable Science Resources <i class="fa fa-microscope"></i>
 
+- [COVID19 Tracker](https://covidtracking.com/) - best overall US dashboard of case numbers with strong research
 - [Coronavirus in a Nutshell](https://www.youtube.com/watch?v=BtN-goy9VOY) - excellent video that explains issues around COVID-19 in plain language - and is well researched ([See their source list](https://sites.google.com/view/sourcescorona))
 - [Wirecutter/NYTimes Guide About Coronavirus](https://thewirecutter.com/blog/coronavirus-packages/) - well-researched set of free articles with tips on dealing with life in the age of COVID-19
 - [Safety Practices for Food Supply And Distribution](/assets/docs/COVID_SupplyDistro_MASafetyPracticesZine_PRINT.pdf) - useful booklet PDF (download) about safely preparing or delivering food to those in need.
