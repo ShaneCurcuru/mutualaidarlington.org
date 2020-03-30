@@ -1,6 +1,8 @@
 ---
 layout: subpage
-logo: /assets/images/2020.03.24-0003-sm.jpg
+image: /assets/images/2020.03.24-0003-sm.jpg
+twitter:
+  image: /assets/images/2020.03.24-0003-sm.jpg
 ---
 
 # Neighbors Cheering Up Neighbors!
@@ -17,7 +19,7 @@ Dori on the A-list has started an amazing group of bear-lovers for kids to keep 
 
 **Does Your Bear Want To Play?**
 
-Thanks for contributing to the Hunt!  If you have a Google/Gmail account, just [add yourself to this editable spreadsheet](https://tinyurl.com/u59mm5y) of Arlington bears!  Please ask your bears to follow our three rules:
+Thanks for contributing to the Hunt!  There's a [whole website devoted to Arlington Bears and friends](https://sites.google.com/view/arlington-bear-hunt)!  Please ask your bears to follow our three rules:
 
 - Please update your listing if your bear goes into hibernation, so no-one worries if they aren't found.
 - If you spot an “unregistered” bear, [add its general location to the list](https://tinyurl.com/u59mm5y) (e.g. “Gray house on Fairmont”), but do NOT include the address without permission from the bear-er.
