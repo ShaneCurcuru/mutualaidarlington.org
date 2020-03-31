@@ -7,7 +7,7 @@ title: Mutual Aid Arlington
 
 **Mutual Aid Arlington** is here to connect neighbors with the many awesome volunteer groups here in Arlington, MA while [we are sheltering at home](https://arlingtonma.gov/covid19).  Here you'll find links to all organized volunteer groups, key resources, and ideas for keeping families and kids active and happy!
 
-<i class="fa fa-grin-hearts"></i> Cheer up: <i class="fa fa-paw"></i> [Arlington's going on a bear hunt](/cheer?bear)! <i class="fa fa-paw"></i>   You can also find many <i class="fa fa-utensils"></i> [Arlington businesses still open](http://www.supportarlingtonbusiness.com/), and [join folks in spreading cheer](/cheer) or by doing [6 feet at 6PM on your block](https://twitter.com/arlingtonmagov/status/1244338726601478151)!
+<i class="fa fa-grin-hearts"></i> Cheer up: <i class="fa fa-paw"></i> [Arlington's going on a bear hunt](/cheer?bear)! <i class="fa fa-paw"></i>   You can also find many <i class="fa fa-utensils"></i> [Arlington businesses still open](http://www.supportarlingtonbusiness.com/), and [join folks in spreading cheer](/cheer) or by doing [**6 feet at 6PM on your block**](https://www.arlingtonma.gov/Home/Components/News/News/10082/16?backlist=%2fhome)!
 
 # Get Help or Volunteer
 
@@ -19,10 +19,11 @@ title: Mutual Aid Arlington
 
 ## Town Alerts <span style="color: #ffcc00"><i class="fa fa-exclamation-triangle"></i></span>
 
+- Take the [Amazing Arlington Community Needs Survey](https://docs.google.com/forms/d/e/1FAIpQLSc7WCfA2xb3jQdgOVQDwLX99-6kQ1Mfolu1W3XJ9-iK5siovg/viewform) **NEW 31-March!** What issues are you facing in the age of Coronavirus? How are you volunteering? Let the [town know in this new survey](https://docs.google.com/forms/d/e/1FAIpQLSc7WCfA2xb3jQdgOVQDwLX99-6kQ1Mfolu1W3XJ9-iK5siovg/viewform).
 - Read [important Town updates](https://twitter.com/arlingtonmagov) every afternoon: [https://arlingtonma.gov/covid19](https://arlingtonma.gov/covid19), or [sign up for email alerts & updates](https://www.arlingtonma.gov/communications-center)
 - **Business Owners** should [fill out the town survey on coronavirus impacts](https://www.arlingtonma.gov/departments/planning-community-development/economic-development/covid-19-resources)
 - Help [collect PFE/Masks for Town first responders](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-faqs-and-prevention-tips/help-locally)
-- **Town Election & Meeting Are Postponed** [Select board officially postpones](https://www.arlingtonma.gov/Home/Components/News/News/10076/16?backlist=%2fhome) town elections & meeting; likely held in June
+- **Town Election now June 6th** [Town elections officially postponed](https://www.arlingtonma.gov/Home/Components/News/News/10088/16?backlist=%2f), and Town Meeting will also be posponed (date TBD)
 - Robbins library posted an [amazing list of online resources for you](https://robbinslibrary.wordpress.com/2020/03/18/robbins-instructional-guides-are-now-online/)
 
 ## Arlington Helps On Facebook <i class="fab fa-facebook"></i>
