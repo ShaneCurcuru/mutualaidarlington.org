@@ -14,7 +14,7 @@ title: Mutual Aid Arlington
 | [**Get Help**](/gethelp) <i class="fa fa-bullhorn"></i> | [**Volunteer**](/volunteer) <i class="fa fa-users"></i> | **Resources** <i class="fa fa-book-reader"></i> |
 | --- | --- | --- | 
 | [Get Help From Local Volunteers](/gethelp) | [Volunteer To Help Neighbors](/volunteer) | [Setup A Volunteer Pod](/pods) |
-| [Facebook Groups Helping](#arlington-helps-on-facebook-) | [Tech Help Needed](/tech#volunteer-to-help)! | [Key State Resources](#official-government-sites) | 
+| [Facebook Groups Helping](#arlington-helps-on-facebook-) | [Tech Help Needed](/tech#volunteer-to-help)! | [Key State Resources](#official-government-sites-) | 
 | [Neighboring Town Aid](/local) | [Stay Active](/active) / [Spread Cheer!](/cheer) | [Science Resources](#reputable-science-resources-) | 
 
 ## Town Alerts <span style="color: #ffcc00"><i class="fa fa-exclamation-triangle"></i></span>
