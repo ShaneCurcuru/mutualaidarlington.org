@@ -3,6 +3,7 @@ layout: subpage
 image: /assets/images/2020.03.24-0003-sm.jpg
 twitter:
   image: /assets/images/2020.03.24-0003-sm.jpg
+imagecredit: Copyright Kristin Chalmers
 ---
 
 # Neighbors Cheering Up Neighbors!

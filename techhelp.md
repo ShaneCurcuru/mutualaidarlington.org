@@ -1,6 +1,10 @@
 ---
 layout: techhelp
 datafile: techhelp
+image: /assets/images/tech.jpg
+twitter:
+  image: /assets/images/tech.jpg
+imagecredit: John Schnobrich / Unsplash / CC0
 ---
 
 # Get Technology Help From Arlington Neighbors

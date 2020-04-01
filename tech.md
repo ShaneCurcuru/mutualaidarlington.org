@@ -1,5 +1,9 @@
 ---
 layout: subpage
+image: /assets/images/tech.jpg
+twitter:
+  image: /assets/images/tech.jpg
+imagecredit: John Schnobrich / Unsplash / CC0
 ---
 
 # How To Get Technology Help From Arlington Neighbors
