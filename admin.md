@@ -1,6 +1,7 @@
 ---
 title: Website Administrator Corner
-layout: wide
+layout: single
+classes: wide
 header:
   overlay_image: /assets/images/tech.jpg
   caption: "Photo: [**John Schnobrich / Unsplash**]"

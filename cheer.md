@@ -28,7 +28,7 @@ Thanks for contributing to the Hunt!  There's a [whole website devoted to Arling
 
 ## Faces Of Arlington <i class="fa fa-camera"></i>
 
-<img align="right" height="150px" src="/assets/images/2020.03.24-0006-kristin.jpeg" alt="Arlington Neighbors, copyright Kristin Chalmers Photography">
+![image-right](/assets/images/2020.03.24-0006-kristin.jpeg){: .align-right; width: 200px; }
 
 Kristin Chalmers is taking [amazing pictures of neighbors](https://kristinchalmersphotography.pixieset.com/covidportraits/?MutualAidArlington) in her walks around town these days - [follow her on Facebook](https://www.facebook.com/Kristinchalmersphotography/) or [view her online gallery](https://kristinchalmersphotography.pixieset.com/covidportraits/?MutualAidArlington) day by day.
 
