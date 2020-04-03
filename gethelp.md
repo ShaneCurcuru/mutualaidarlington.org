@@ -1,12 +1,12 @@
 ---
-layout: subpage
-image: /assets/images/heart.jpg
-twitter:
-  image: /assets/images/heart.jpg
-imagecredit: Photo by Kelly Sikkema / Unsplash / CC0
+title: How To Get Help From Arlington Neighbors
+layout: single
+sidebar:
+  nav: defnav
+header:
+  overlay_image: /assets/images/heart.jpg
+  caption: "Photo: [**Kelly Sikkema / Unsplash**]"
 ---
-
-# How To Get Help From Arlington Neighbors
 
 Here's a list of all the groups offering volunteer help of various kinds here in Arlington.  All groups are focused specifically on Arlington; there are also [mutual aid groups offering help in neighboring towns](/local) and a handy [list of stores/restaurants open in Arlington](/open).
 
@@ -30,7 +30,7 @@ Some Arlington neighborhoods have "[Pods](/pods)", or local volunteer communitie
 
 ## Other Great Resources? What Should We Add?
 
-If you have other groups of volunteers offering to provide services or goods of any kind to Arlington neighbors, please let me know!
+If you have other groups of volunteers offering to provide services or goods of any kind to Arlington neighbors, please let us know!
 
 Propose a GitHub PR or email [menotomy@shanecurcuru.org](mailto:menotomy@shanecurcuru.org?Subject=MutualAidArlington Get Help Suggestion) with your suggestions.
 

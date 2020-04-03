@@ -1,7 +1,8 @@
 ---
-title: "Terms / Privacy Policy"
-excerpt: "This site uses Google Analytics."
-layout: subpage
+title: Terms / Privacy Policy
+layout: single
+excerpt: This site uses Google Analytics.
+classes: wide
 ---
 
 ## Terms And Conditions

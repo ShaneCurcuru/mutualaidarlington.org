@@ -1,12 +1,12 @@
 ---
-layout: subpage
-image: /assets/images/heart.jpg
-twitter:
-  image: /assets/images/heart.jpg
-imagecredit: Photo by Kelly Sikkema / Unsplash / CC0
+title: What Are Local Volunteer Pods?
+layout: single
+sidebar:
+  nav: defnav
+header:
+  overlay_image: /assets/images/heart.jpg
+  caption: "Photo: [**Kelly Sikkema / Unsplash**]"
 ---
-
-# What Are Local Volunteer Pods?
 
 **Pods are hyperlocal text message groups or phone trees of you and your neighbors.** Since not everyone has access to online communication, neighborhood pods are how we reach more people. 
 
@@ -21,15 +21,13 @@ Look here to see if your pod already exists, and click on the shapes to see cont
 
 Please note, we are just kicking this program off, and new pods are springing up every day!
 
-<p style="margin-left: -25px"><!-- Custom for leap-day theme; remove if using another theme 20200326-sc -->
-  <iframe src="https://www.google.com/maps/d/embed?mid=1djdUWdOjxj2sMuKCjeudmpJb1msPgH1O" width="640" height="480"></iframe>
-</p>
+<iframe src="https://www.google.com/maps/d/embed?mid=1djdUWdOjxj2sMuKCjeudmpJb1msPgH1O" width="640" height="480"></iframe>
 
 _Map not displaying? Click to see our our [Google Map of Arlington Helps Pods](https://www.google.com/maps/d/u/0/viewer?mid=1djdUWdOjxj2sMuKCjeudmpJb1msPgH1O&ll=42.40755600551749%2C-71.14267749999999&z=18)._
 
 ## Pods are part of a larger mutual aid network!
 
-[Here](https://www.google.com/maps/d/viewer?mid=1502kJVz29cyu9qB_uLTLvujt0VET_Gc3&usp=sharing) is a map of pods in our neighboring towns. This broader pods map is maintained by [Mutual Aid Medford and Somerville](https://mutualaidmamas.com/). Our pods program (and much of our infrastructure) is adapted from their frameworks.
+See a larger a [map of pods in our neighboring towns](https://www.google.com/maps/d/viewer?mid=1502kJVz29cyu9qB_uLTLvujt0VET_Gc3&usp=sharing). This broader pods map is maintained by [Mutual Aid Medford and Somerville](https://mutualaidmamas.com/). Our pods program (and much of our infrastructure) is adapted from their frameworks.
 
-Living somewhere else in Massachusetts? Find your local mutual aid network [here](https://www.humannetworkinitiative.com/neighborhoods).
+Living somewhere else in Massachusetts? Find your [local mutual aid network here](https://www.humannetworkinitiative.com/neighborhoods).
 

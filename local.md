@@ -1,12 +1,14 @@
 ---
-layout: subpage
+title: Mutual Aid Around Arlington
+layout: single
+sidebar:
+  nav: defnav
+header:
+  overlay_image: /assets/images/heart.jpg
+  caption: "Photo: [**Kelly Sikkema / Unsplash**]"
 ---
 
-# Mutual Aid Around Arlington 
-
 Most towns around Arlington also have Mutual Aid groups - self-organizing, indpendent volunteers helping neighbors out, either on a town/city-wide scale, or just a few blocks.  Here's a listing of all groups in neighboring towns, plus more resources for organizing yourself.
-
-<i class="fa fa-grin-hearts"></i> Cheer up: <i class="fa fa-paw"></i> [Arlington's going on a bear hunt](https://tinyurl.com/u59mm5y)! <i class="fa fa-paw"></i>  Scavenger walks for kids via Dori on the A-list.
 
 ## Nearby Mutual Aid Groups
 
@@ -48,8 +50,4 @@ _For more eastern MA mutual aid finders, see below!_
 
 Want to start your own hyper-local Arlington volunteer pod? Check out the [Arlington pods guide](/pods).
 
-## Contact Site Admins 
-
-Propose a GitHub PR or email [menotomy@shanecurcuru.org](mailto:menotomy@shanecurcuru.org?Subject=MutualAidArlington Local Suggestion) with your suggestions.
-
-**Thanks All Volunteers!**
+**Thanks To All Volunteers!**

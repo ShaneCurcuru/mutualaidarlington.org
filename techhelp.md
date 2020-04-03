@@ -1,13 +1,13 @@
 ---
+title: Get Technology Help From Arlington Neighbors
 layout: techhelp
 datafile: techhelp
-image: /assets/images/tech.jpg
-twitter:
-  image: /assets/images/tech.jpg
-imagecredit: John Schnobrich / Unsplash / CC0
+sidebar:
+  nav: defnav
+header:
+  overlay_image: /assets/images/tech.jpg
+  caption: "Photo: [**John Schnobrich / Unsplash**]"
 ---
-
-# Get Technology Help From Arlington Neighbors
 
 Working from home and can't connect?  Figuring out how to setup video calls?  Missing a cable, or need computer help?  We have lots of geek volunteers in Arlington - here's a starting list!
 

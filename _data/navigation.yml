@@ -1,0 +1,46 @@
+main:
+  - title: "Get Help"
+    url: /gethelp
+    description: "Organizations and volunteers to help you"
+  - title: "Volunteer"
+    url: /volunteer
+    description: "Opportunities to help your neighbors"
+  - title: "Cheer up!"
+    url: /cheer
+    description: "Neighborly ways to cheer up safely"
+  - title: "Terms / Privacy"
+    url: /terms
+    
+defnav:
+  - title: "Get Help"
+    children:
+      - title: "Groups Offering Help"
+        url: /gethelp
+      - title: "Get Cheerful!"
+        url: /cheer
+      - title: "Town Help"
+        url: http://arlingtonma.gov/covid19
+      - title: "Help With Tech"
+        url: /techhelp
+      - title: "Free Internet"
+        url: /telecom
+  - title: "Volunteer!"
+    children:
+      - title: "Volunteer Groups"
+        url: /volunteer
+      - title: "Neighborhood Pods"
+        url: /pods
+      - title: "Tech Volunteers"
+        url: /tech
+      - title: "Other Groups"
+        url: /local
+  - title: "Resources"
+    children:
+      - title: "What's Open/Closed"
+        url: /open
+      - title: "Stay Active"
+        url: /active
+      - title: "More Resources"
+        url: /tools
+      - title: "Meet The Admins"
+        url: /admin

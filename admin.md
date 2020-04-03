@@ -1,12 +1,10 @@
 ---
-layout: subpage
-image: /assets/images/tech.jpg
-twitter:
-  image: /assets/images/tech.jpg
-imagecredit: John Schnobrich / Unsplash / CC0
+title: Website Administrator Corner
+layout: wide
+header:
+  overlay_image: /assets/images/tech.jpg
+  caption: "Photo: [**John Schnobrich / Unsplash**]"
 ---
-
-## Website Administrator Corner
 
 This is currently a scratch pad of ideas for the website itself.  Shane is hoping some of our technology volunteers will have time to step up and work on some improvements (or just help maintain links / add relevant new resources).
 
