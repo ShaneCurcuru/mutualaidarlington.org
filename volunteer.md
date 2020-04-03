@@ -1,12 +1,12 @@
 ---
-layout: subpage
-image: /assets/images/heart.jpg
-twitter:
-  image: /assets/images/heart.jpg
-imagecredit: Photo by Kelly Sikkema / Unsplash / CC0
+title: How To Volunteer To Help Neighbors
+layout: single
+sidebar:
+  nav: defnav
+header:
+  overlay_image: /assets/images/heart.jpg
+  caption: "Photo: [**Kelly Sikkema / Unsplash**]"
 ---
-
-# How To Volunteer To Help Neighbors
 
 Here's a soon-to-be comprehensive list of all the groups you can volunteer with to help of various kinds here in Arlington.  These are focused specifically on Arlington; there are also [mutual aid groups in neighboring towns](/local).
 
@@ -29,4 +29,4 @@ If you have other links to groups looking for volunteers to help out in Arlingto
 
 Propose a GitHub PR or email [menotomy@shanecurcuru.org](mailto:menotomy@shanecurcuru.org?Subject=MutualAidArlington Volunteer Suggestion) with your suggestions; if you're a geek, [volunteer your tech skills](/tech#volunteer-to-help).
 
-**Good luck!**
+**Thanks for helping your neighbors!**

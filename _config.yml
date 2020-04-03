@@ -1,13 +1,45 @@
+# Mutual Aid Arlington - neighbors helping neighbors
 title: "Mutual Aid Arlington, MA"
 tagline: "Get help from your neighbors"
 description: "Resources connecting neighbors with local volunteers in Arlington, MA"
-theme: jekyll-theme-leap-day
-show_downloads: false
-google_analytics: UA-6070690-10
 
+# Build, theme, style settings
 url: "https://mutualaidarlington.org" # jekyll-sitemap
+repository: "shanecurcuru/mutualaidarlington.org"
+branch: "master"
+remote_theme: "mmistakes/minimal-mistakes@4.19.1"
 plugins:
+  - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+minimal_mistakes_skin: default
+search: true
+markdown: kramdown
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+analytics:
+  provider: "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id: "UA-6070690-10"
+
+footer:
+  links:
+    - label: "About"
+      icon: "fa fa-fw fa-address-card"
+      url: "/admin"
+    - label: "Terms & Privacy"
+      icon: "fa fa-fw fa-gavel"
+      url: "/terms"
+    - label: "Code"
+      icon: "fa fa-fw fa-file-code"
+      url: "https://github.com/ShaneCurcuru/mutualaidarlington.org/tree/master/assets/code"
+
 
 # jekyll-seo-tag
 logo: &logo /assets/images/logo.jpg
@@ -17,7 +49,6 @@ twitter:
 
 facebook:
   publisher: https://www.facebook.com/Mutual-Aid-Arlington-105702997739732/
-
 social:
   links:
     - https://twitter.com/AidArlington
@@ -25,18 +56,28 @@ social:
     - https://github.com/ShaneCurcuru/
 
 defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: true
+      related: true
+  # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
-      layout: subpage
-      image: *logo
-  # _posts
-  - scope:
-      path: ""
-      type: pages
-    values:
-      image: *logo
+      layout: single
+      author_profile: false
+      share: true
+      related: true
+      sidebar:
+        nav: "archive"
 
 include:
   - _pages

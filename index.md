@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: home
 title: Mutual Aid Arlington
+classes: wide
 ---
 
 # Neighbors Helping Neighbors in Arlington, MA

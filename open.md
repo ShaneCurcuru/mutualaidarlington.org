@@ -1,12 +1,12 @@
 ---
-layout: subpage
-image: /assets/images/open.jpg
-twitter:
-  image: /assets/images/open.jpg
-imagecredit: Photo by Allie Smith / Unsplash / CC0
+title: What Stores Are Open And When?
+layout: single
+sidebar:
+  nav: defnav
+header:
+  overlay_image: /assets/images/open.jpg
+  caption: "Photo: [**Allie Smith / Unsplash**]"
 ---
-
-# What Stores Are Open And When?
 
 With the [state order for non-essential businesses to close](https://www.mass.gov/info-details/covid-19-essential-services), and with many stores holding "at-risk" or senior-only shopping hours, it's hard to know what's open!  Luckily, the town and some volunteers are working on this!
 
@@ -39,9 +39,5 @@ Many businesses, especially larger stores, have set aside specific hours in the 
 - **Convenience Stores** - [full town list with current hours](https://docs.google.com/spreadsheets/d/1o9EW1jBsm95ucDC2cCcpRVLtMPJVUbrJEg5fTyYrqwQ/edit#rangeid=1382185614)
 - **Vets / Pet Health** - [full town list with current hours](https://docs.google.com/spreadsheets/d/1o9EW1jBsm95ucDC2cCcpRVLtMPJVUbrJEg5fTyYrqwQ/edit#rangeid=1749410876)
 - **Laundromats** - [full town list with current hours](https://docs.google.com/spreadsheets/d/1o9EW1jBsm95ucDC2cCcpRVLtMPJVUbrJEg5fTyYrqwQ/edit#rangeid=1774500099)
-
-## Contact Site Admins 
-
-Propose a GitHub PR or email [menotomy@shanecurcuru.org](mailto:menotomy@shanecurcuru.org?Subject=MutualAidArlington Open/Closed Suggestion) with your suggestions.
 
 **Support Local Businesses!**  And say _thanks to all the volunteers_ who are helping to curate these lists!

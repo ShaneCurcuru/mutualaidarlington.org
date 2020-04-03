@@ -1,6 +1,10 @@
 ---
-layout: subpage
-logo: /assets/images/2020.03.24-0003-sm.jpg
+layout: single
+sidebar:
+  nav: "defnav"
+header:
+  overlay_image: /assets/images/2020.03.24-0003-sm.jpg
+  caption: "Photo: [**Copyright Kristin Chalmers Photography**]"
 ---
 
 # Keep Active!

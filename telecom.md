@@ -1,12 +1,12 @@
 ---
-layout: subpage
-image: /assets/images/tech.jpg
-twitter:
-  image: /assets/images/tech.jpg
-imagecredit: John Schnobrich / Unsplash / CC0
+title: Internet, Phone, Connectivity During COVID-19
+layout: single
+sidebar:
+  nav: defnav
+header:
+  overlay_image: /assets/images/tech.jpg
+  caption: "Photo: [**John Schnobrich / Unsplash**]"
 ---
-
-# Internet, Phone, Connectivity During COVID-19
 
 A brief survey of internet, phone, and similar companies offering discounts or payment plans during the crisis.  If you are a geek, [please volunteer to help maintain this site](/tech#volunteer-to-help)!
 
@@ -36,9 +36,4 @@ There are many sites listing internet/phone discounts.  A key resource is also t
 - Other Useful Lists
   - [PCWorld article](https://www.pcworld.com/article/3532817/which-internet-providers-are-lifting-data-caps-during-the-coronavirus-and-which-arent.html) covering data caps and some details ()
 
-
-## Contact Site Admins 
-
-Propose a GitHub PR or email [menotomy@shanecurcuru.org](mailto:menotomy@shanecurcuru.org?Subject=MutualAidArlington Local Suggestion) with your suggestions.
-
-**Thanks All Volunteers!**
+**Don't Watch The News - Read A Book Instead**

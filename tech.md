@@ -1,12 +1,12 @@
 ---
-layout: subpage
-image: /assets/images/tech.jpg
-twitter:
-  image: /assets/images/tech.jpg
-imagecredit: John Schnobrich / Unsplash / CC0
+title: How To Get Technology Help From Arlington Neighbors
+layout: single
+sidebar:
+  nav: defnav
+header:
+  overlay_image: /assets/images/tech.jpg
+  caption: "Photo: [**John Schnobrich / Unsplash**]"
 ---
-
-# How To Get Technology Help From Arlington Neighbors
 
 Working from home and can't connect?  Figuring out how to setup video calls?  Missing a cable, or need computer help?  We have lots of geek volunteers in Arlington - we're organizing a list for you!
 
@@ -29,14 +29,4 @@ There are plenty of lists of activities or remote learning for kids these days o
 - Short but [high-quality list of software recommended for younger kids](https://github.com/HollyAdele/awesome-programming-for-kids) by Holly Adele - (in particular, [Scratch programming from MIT](https://scratch.mit.edu/))
 - [Push kids to create, not just consume](https://www.bryanbraun.com/2019/07/16/daily-demos-a-ritual-for-raising-kids-that-create/) - essay on daily demos by Bryan Braun
 
-## Proposed Work Plans
-
-- Turn available tech volunteers into CSV and display categorized listing with a _layout
-- Create a hardware donation / hardware needs matching service or docs
-- Add mapping to the pods page: see if we can do something easier to manage than MAMAS pod map (has a lot of manual maintenance)
-
-## Contact Site Admins 
-
-Propose a GitHub PR or email [menotomy@shanecurcuru.org](mailto:menotomy@shanecurcuru.org?Subject=MutualAidArlington Tech Suggestion) with your suggestions.
-
-**Good luck!**
+**Thanks to our geek volunteers!**
