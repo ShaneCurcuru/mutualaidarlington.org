@@ -1,5 +1,9 @@
 ---
 layout: subpage
+image: /assets/images/heart.jpg
+twitter:
+  image: /assets/images/heart.jpg
+imagecredit: Photo by Kelly Sikkema / Unsplash / CC0
 ---
 
 # How To Get Help From Arlington Neighbors

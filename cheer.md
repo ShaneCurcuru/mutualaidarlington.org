@@ -10,6 +10,8 @@ imagecredit: Copyright Kristin Chalmers
 
 Along with the many places to volunteer or get help these days, Arlington neighbors are spreading cheer in many social distancing appropriate ways.  Spring weather is here - get outside, [take a long walk](/active), and look for bits of cheer all around you.
 
+**Coming soon** Inspired by the Arlington Parents Facebook group, let's have a <span style="color: #F69CC4"><i class="fa fa-egg"></i></span> easter egg <span style="color: #7799CC"><i class="fa fa-egg"></i></span> hunt starting the 11th of April - stay tuned! 
+
 ## We're Going On A Bear Hunt! <i class="fa fa-paw"></i>
 
 Dori on the A-list has started an amazing group of bear-lovers for kids to keep their eyes out for.  Like the children's story ([told on video](https://www.youtube.com/watch?v=Waoa3iG3bZ4)!), neighbors are putting teddy bears (and other things) in their windows or porches as a scavenger hunt for families to look out for when taking a walk.  Check out the current bear sightings around town!
@@ -42,4 +44,4 @@ If you have an organized group with a map or other information like this, please
 
 Propose a GitHub PR or email [menotomy@shanecurcuru.org](mailto:menotomy@shanecurcuru.org?Subject=MutualAidArlington Local Suggestion) with your suggestions.
 
-**STAY CALM AND WASH YOUR HANDS**
+**STAY CALM AND SPREAD A SMILE!**
