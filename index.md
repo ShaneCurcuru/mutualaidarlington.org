@@ -7,7 +7,7 @@ title: Mutual Aid Arlington
 
 **Mutual Aid Arlington** is here to connect neighbors with the many awesome volunteer groups here in Arlington, MA while [we are sheltering at home](https://arlingtonma.gov/covid19).  Here you'll find links to all organized volunteer groups, key resources, and ideas for keeping families and kids active and happy!
 
-<i class="fa fa-grin-hearts"></i> Cheer up: <i class="fa fa-paw"></i> [Arlington's going on a bear hunt](/cheer?bear)! <i class="fa fa-paw"></i>   You can also find many <i class="fa fa-utensils"></i> [Arlington businesses still open](http://www.supportarlingtonbusiness.com/), and [join folks in spreading cheer](/cheer) or by doing [**6 feet at 6PM on your block**](https://www.arlingtonma.gov/Home/Components/News/News/10082/16?backlist=%2fhome)!
+<i class="fa fa-grin-hearts"></i> Cheer up: <i class="fa fa-paw"></i> [Arlington's going on a bear hunt](/cheer?bear)! <i class="fa fa-paw"></i>   You can also find many <i class="fa fa-utensils"></i> [Arlington businesses still open](/open), and [join folks in spreading cheer](/cheer) or by doing [**6 feet at 6PM on your block**](https://www.arlingtonma.gov/Home/Components/News/News/10082/16?backlist=%2fhome)!
 
 # Get Help or Volunteer
 
@@ -30,10 +30,7 @@ title: Mutual Aid Arlington
 
 There are several private [Facebook Groups with super-helpful Arlingtonians](https://menotomymatters.com/howto/covid-emergency/#resource-lists---where-to-get-help).  If you use Facebook, definitely sign up to join them!
 
-There are two great lists of Arlington businesses still open:
-- [Volunteer run list and map app](http://www.supportarlingtonbusiness.com/)
-- [Town run official list of businesses in town](https://docs.google.com/spreadsheets/d/1o9EW1jBsm95ucDC2cCcpRVLtMPJVUbrJEg5fTyYrqwQ/edit#gid=510648638)
-- Need internet? [Phone, internet, connectivity services with COVID-19 discounts](/telecom)
+We've got a [full list of Arlington stores/restaurants open and hours](/open) that are curated by the town and several volunteers.  For those without internet, there are many [discount programs to keep people connected](/telecom).
 
 ## Official Government Sites <i class="fa fa-flag-usa"></i>
 
@@ -47,7 +44,6 @@ There are two great lists of Arlington businesses still open:
   - [Mass Public Health COVID cases tracker](https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring) - official test results, updated 4PM daily
   - [Arlington Town Government Updates](https://arlingtonma.gov/covid19), updated each afternoon, so check back.
   - [Arlington **Schools** Enrichment Site](https://arlingtonenrich.wixsite.com/mysite) - new site with distance learning materials for kids in APS
-- [MassLive coverage of stores open/closed](https://www.masslive.com/coronavirus/2020/03/coronavirus-shutdowns-whats-open-whats-closed-in-massachusetts.html)
 
 ## Reputable Science Resources <i class="fa fa-microscope"></i>
 
@@ -65,7 +61,7 @@ There are two great lists of Arlington businesses still open:
 
 ### Need Your Help <i class="fa fa-exclamation"></i>
 
-I'm [actively looking for collaborators](/tech#volunteer-to-help) to help turn this site into a master jump-off point to better publicise the many different volunteer groups and efforts in Arlington.  Read about my [ideas for this site over on MenotomyMatters](https://menotomymatters.com/howto/covid-organize/), my Arlington-focused blog and [see the CONTRIBUTING guide](https://github.com/ShaneCurcuru/mutualaidarlington.org/blob/master/CONTRIBUTING.md).
+I'm [actively looking for collaborators](/tech#volunteer-to-help) to help turn this site into a master jump-off point to better publicise the many different volunteer groups and efforts in Arlington.  Email me or [see the CONTRIBUTING guide](https://github.com/ShaneCurcuru/mutualaidarlington.org/blob/master/CONTRIBUTING.md).  I'm also happy to add links to any organized volutneer groups in town, as well as supporting the new Amazing Arlington campaign the town is running!
 
 ## Credits
 
