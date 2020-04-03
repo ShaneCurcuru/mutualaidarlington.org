@@ -6,11 +6,11 @@ layout: subpage
 
 ## Terms And Conditions
 
-Copyright 2020 Shane Curcuru.  Content in this website is copyright ©️ Shane Curcuru and original authors, and is [licensed under the Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0), allowing maximum reuse by everyone.
+Content in this website is copyright ©️ Shane Curcuru and original content authors, and is [licensed under the Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0), allowing maximum reuse by everyone.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-While the best effort is made to ensure that data presented is correct, no warranty is made for the information on this website.  No legal advice is provided at this site.  Please exercise your own caution when dealing with any neighbors you don't personally know.  
+While the best effort is made to ensure that data presented is correct, no warranty is made for the information on this website.  No legal advice is provided at this site.  Please exercise your own caution when dealing with any neighbors you don't personally know.  This website links to various independent volunteer groups which may each have their own terms, privacy policies, and volunteer owners or administrators.
 
 **Wash your hands.**
 
@@ -32,7 +32,11 @@ By using this website, you consent to the collection of this data in the manner 
 
 ## User-Submitted Data
 
-This website may use Google or other forms to collect data from the user.  All data collected will be used in accordance with instructions on the intake form.  Checking "Yes" to sharing your data will result in it being publicly displayed on this website, under the Apache 2.0 license.  If you do not wish your data displayed, contact the site admins to have it removed.
+This website may use Google or other forms to collect data from the user voluntarily.  All data collected will be used in accordance with instructions on individual intake forms.  Checking "Yes" to sharing your data may result in the data you submitted being publicly displayed on this website, under the Apache 2.0 license, unless specific fields in the form explicitly note they will not be shared.  All data collected may be stored on Google or other cloud provided services, with access restrictions set to only Shane Curcuru and the small team of core administrators for this website.
+
+If you no longer wish any of your data displayed on this site, contact the site admins to have it removed.
+
+This website is not formally affiliated with the Town of Arlington or any other government or corporate entity.
 
 This website is intended for residents of Arlington, MA and surrounding towns in Massachusetts, as a resource during the Coronavirus crisis.  While other people are welcome to use resources here, volunteers and efforts are specifically focused on helping neighbors here in Arlington, MA, USA.
 
