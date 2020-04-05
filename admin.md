@@ -11,9 +11,9 @@ This is currently a scratch pad of ideas for the website itself.  Shane is hopin
 
 ## Website Improvement Ideas
 
-- Change to a GitHub Pages `remote_theme: mmistakes/minimal-mistakes`
+- Review site architecture - layout of pages both from user point of view as well as writer/editor point of view
 - Change repo to be under an organization, not just Shane's repos
-- Put in relevant header graphics/social media preview images
+- Put in relevant header graphics/social media preview images **In progress**
 - Setup an admin volunteer team page, listing core admin contacts / give credit
 - Normalize on single mutuaaidarlington@ email address (Morgen/Shane)
 - Create a hardware donation / hardware needs matching service or docs
@@ -22,6 +22,8 @@ This is currently a scratch pad of ideas for the website itself.  Shane is hopin
 - Find a robust and zero-maintenance contact form to allow volunteers to obscure their email addresses on the site (i.e. so matching or people requesting help use a form, meaning volunteers are less likely to get random spam direct to their email address)
 - Integrate slack workspace for admins/core volunteers
 - See what other town resources we should directly feature
+
+- **DONE** Change to a GitHub Pages `remote_theme: mmistakes/minimal-mistakes`
 
 ## Contact Site Admins 
 

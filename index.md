@@ -1,14 +1,12 @@
 ---
-layout: home
-title: Mutual Aid Arlington
+layout: single
+title: Neighbors Helping Neighbors in Arlington, MA
 classes: wide
+sidebar:
+  nav: defnav
 ---
 
-# Neighbors Helping Neighbors in Arlington, MA
-
-**Mutual Aid Arlington** is here to connect neighbors with the many awesome volunteer groups here in Arlington, MA while [we are sheltering at home](https://arlingtonma.gov/covid19).  Here you'll find links to all organized volunteer groups, key resources, and ideas for keeping families and kids active and happy!
-
-<i class="fa fa-grin-hearts"></i> Cheer up: <i class="fa fa-paw"></i> [Arlington's going on a bear hunt](/cheer?bear)! <i class="fa fa-paw"></i>   You can also find many <i class="fa fa-utensils"></i> [Arlington businesses still open](/open), and [join folks in spreading cheer](/cheer) or by doing [**6 feet at 6PM on your block**](https://www.arlingtonma.gov/Home/Components/News/News/10082/16?backlist=%2fhome)!
+**Mutual Aid Arlington** is here to connect neighbors with the many awesome volunteer groups here in Arlington, MA while [we are sheltering at home](https://arlingtonma.gov/covid19).  Here you'll find links to all the awesome organized volunteer groups, key resources like what stores are open or delivering, and ideas for keeping families and kids active and happy!
 
 # Get Help or Volunteer
 
