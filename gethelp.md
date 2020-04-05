@@ -8,17 +8,17 @@ header:
   caption: "Photo: [**Kelly Sikkema / Unsplash**]"
 ---
 
-Here's a list of all the groups offering volunteer help of various kinds here in Arlington.  All groups are focused specifically on Arlington; there are also [mutual aid groups offering help in neighboring towns](/local) and a handy [list of stores/restaurants open in Arlington](/open).
+Here's a list of all the groups offering volunteer help of various kinds for everyone in Arlington.  Nearby towns have their own [mutual aid groups offering help](/local) and here's a handy [list of stores/restaurants open in Arlington](/open).
 
 <a name="food"></a>
 ## Arlington Groups Offering Help
 
-- **Services** [Arlington Helps](https://docs.google.com/forms/d/e/1FAIpQLSfmpJqTK6_63qXzLjmEdd-5zfD1ebMXUSxt4kWJsCyQPKNriw/viewform?fbclid=IwAR1_csE9LjTpJnubYJIaHiSl4wY_u8FrBKIwhb_vG5wWMtIHZQ-MkcOSPfM) -  (Google Form) *contact:* [https://www.facebook.com/groups/201015774573867/](https://www.facebook.com/groups/201015774573867/)
+- **Services** [Arlington Helps](https://docs.google.com/forms/d/e/1FAIpQLSfmpJqTK6_63qXzLjmEdd-5zfD1ebMXUSxt4kWJsCyQPKNriw/viewform?fbclid=IwAR1_csE9LjTpJnubYJIaHiSl4wY_u8FrBKIwhb_vG5wWMtIHZQ-MkcOSPfM) -  [Submit the Google form](https://docs.google.com/forms/d/e/1FAIpQLSfmpJqTK6_63qXzLjmEdd-5zfD1ebMXUSxt4kWJsCyQPKNriw/viewform?fbclid=IwAR1_csE9LjTpJnubYJIaHiSl4wY_u8FrBKIwhb_vG5wWMtIHZQ-MkcOSPfM) to anonymously request help, like shopping, supplies, or checkins.  *contact:* [https://www.facebook.com/groups/201015774573867/](https://www.facebook.com/groups/201015774573867/) 
 - **Food** [Arlington EATS](https://www.arlingtoneats.org/) - Need food? They have weekly market, emergency, senior, and school vacation lunch programs. (Website) *contact:* [https://www.arlingtoneats.org/help/contact-us/](https://www.arlingtoneats.org/help/contact-us/)
 - **Food** [Food Link MA](https://www.foodlinkma.org/) - FoodLink MA provides hotline and coordination with local food pantries. (Website) *contact:* [info@foodlinkma.org](info@foodlinkma.org)
 - **Food - store reports** [Local InStock And Needed Essentials](https://www.facebook.com/groups/251705095861238/about/) - new Facebook group for posting reports of what's still in stock in stores or to swap items
 - **Pets** [Arlington Pet Food Pantry](https://www.facebook.com/Arlington-Pet-Food-Pantry-102579731353594/) - Fido or Fluffy hungry? Ask for food or see if there are donated supplies for your pet family. (Facebook Group) *contact:* [leeanna@pallett.com](mailto:leeanna@pallett.com)
-- **Housing** [Arlington Housing Authority](https://www.arlingtonhousing.org/) _(no new programs posted 14-Mar)_
+- **Housing** [Arlington Housing Authority](https://www.arlingtonhousing.org/) _(no new programs posted as of 4-Apr)_
 - **Housing** [Housing Corporation Of Arlington](https://www.housingcorparlington.org/) _(no new programs posted 14-Mar)_
 - **Housing** [Somerville Homeless Coalition](https://donatenow.networkforgood.org/shc) _(donation link for their program)_
 - **Internet** See the [list of all internet deals/discounts due to COVID](/telecom), and also [Comcast offers some free internet services](https://corporate.comcast.com/covid-19)
@@ -26,7 +26,7 @@ Here's a list of all the groups offering volunteer help of various kinds here in
 
 ## Hyper-Local Volunteers: Neighborhood Pods
 
-Some Arlington neighborhoods have "[Pods](/pods)", or local volunteer communities centered around a few blocks or streets.  See what [volunteer pods are available](/pods) so far!
+Some Arlington neighborhoods have "[Pods](/pods)", or local volunteer communities centered around a few blocks or streets.  See what [volunteer pods are available](/pods) so far, or sign up for your own!
 
 ## Other Great Resources? What Should We Add?
 
