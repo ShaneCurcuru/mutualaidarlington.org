@@ -4,13 +4,15 @@ layout: single
 sidebar:
   nav: defnav
 header:
-  overlay_image: /assets/images/2020.03.24-0006-kristin-sm.jpg
-  caption: "Photo: [**Copyright Kristin Chalmers**]"
+  overlay_image: /assets/images/egg.jpg
+  caption: "Photo: [**Hannah Tasker / Unsplash**]"
 ---
 
 Along with the many places to volunteer or get help these days, Arlington neighbors are spreading cheer in many social distancing appropriate ways.  Spring weather is here - get outside, [take a long walk](/active), and look for bits of cheer all around you.
 
-**Coming soon** Inspired by the Arlington Parents Facebook group, let's have a <span style="color: #F69CC4"><i class="fa fa-egg"></i></span> easter egg <span style="color: #7799CC"><i class="fa fa-egg"></i></span> hunt starting the 11th of April - stay tuned! 
+**Coming soon** Inspired by the Arlington Parents Facebook group, we're having an <span style="color: #F69CC4"><i class="fa fa-egg"></i></span> easter egg <span style="color: #7799CC"><i class="fa fa-egg"></i></span> hunt starting the 11th of April - [**Sign up** to display an egg here](https://forms.gle/UWUezQw6bjxhgZmc6)! 
+
+A **map of eggs** is coming soon, once the bunnies finish painting it!
 
 ## We're Going On A Bear Hunt! <i class="fa fa-paw"></i>
 
