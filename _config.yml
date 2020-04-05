@@ -28,6 +28,9 @@ analytics:
   google:
     tracking_id: "UA-6070690-10"
 
+google:
+  search_engine_id: 008313295041711467873:q1moeeucfad
+
 footer:
   links:
     - label: "About"
