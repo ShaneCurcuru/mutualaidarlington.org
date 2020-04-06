@@ -58,4 +58,34 @@ Applying a license to your site is as simple as putting a license declaration in
 - [EFF Guide to privacy and licensing during COVID-19](https://www.eff.org/issues/covid-19)
 - [Guide for using the free tier of AirTable to provide needs/volunteers matching](https://openreferral.org/delivering-open-referral-solutions-with-airtable/), from OpenReferral
 
+## Domain Name Forwarding - Improve Your Web Address
+
+When spreading the word, having a memorable URL address to your site makes a lot of tasks easier.  While some groups use bit.ly or tinyurl.com, with just a tiny bit more effort and about $10/year you can have your own domain name pointing anywhere.  This is an advantage both for privacy (not having a URL shortener track clicks) and for reliability (because sometimes tinyurl goes down).
+
+Domain names are cheap, although most domain name registries (where you 'buy' a domain name) require credit cards for the signup.  Whoever signs up is the owner.  **Pro Tip:** Always select "_domain privacy_" for your registration - if the domain registrar charges you for that, find another registrar.  Otherwise, the owner's name and address submitted becomes public in the registry data.
+
+Importantly, where you store your content (Google Docs, WordPress, GitHub, etc.) can be completely separate from where you register your domain name.  Think of registering a domain name simply as being able to change the forwarding address of a telephone number or web search.  Once you own a domain at a registrar, you can simply tell them to just foward traffic to another place.  This should cost about $10 - $15/year, just to "own" the domain name.  Note that you do **not** need to purchase hosting with your domain registration.
+
+### How-To Forward A Domain To Your Site
+
+If you already have a Google Doc or the like somewhere, and are buying a domain name, here's the help docs that explain the process - which differs for every registrar.  Important: be patient: making changes to a domain name registry record often takes several hours or a day.
+
+The process will be:
+- Figure out the web address URL you want to point to.
+- Choose your name for the domain.
+- Go to the registrar's site and check the name is available.  Try .org, .net, or other extensions if needed.
+- Signup for an account at the registrar and buy _just_ the domain name; you don't (necessarily) need any of their hosting or other packages.
+  - **Important: DO NOT LOSE the email or login instructions** for the domain registrar!  They may be very hard to change if you loose your login.
+- Once the registrar has completed setup of the name (takes ~15 min), to into their control panel and setup a Redirect or Domain Forwarding to the web address URL of your actual content, and submit the change.
+- Wait.  It may take up to a day for this to be registered.  Be sure to check that the domain name goes where you want before sending out any messaging about it! 
+
+There are many domain hosts, but these are the ones I personally recommend:
+
+- [Google Domains](https://support.google.com/domains/answer/4522141)
+- [Namecheap](https://www.namecheap.com/support/knowledgebase/article.aspx/385/2237/how-to-redirect-a-url-for-a-domain)
+- [DreamHost](https://help.dreamhost.com/hc/en-us/articles/215455377-How-do-I-redirect-my-domain-)
+- [IONOS Hosting](https://www.ionos.com/help/domains/forwarding-a-domain/forwarding-a-domain-to-a-different-domain/)
+
+Note: I avoid GoDaddy; their business model seems to be spamming you with innovative ways to say "buy more".
+
 **Mutual Aid Is About Local Self Sufficiency**
