@@ -12,6 +12,7 @@ For those uncomfortable or unable to shop at grocery stores in person, there are
 
 ## Where To Order Groceries And Food
 
+- [MA State guide and map to local farms](https://www.mass.gov/service-details/covid-19-how-where-to-buy-local) offering delivery or pickup.
 - **Local Dropoff Farm Share / CSA**
   - **New!** [Farmer Dave's offers a 9 week CSA farm share](https://farmerdaves.csaware.com/store/csadetails.jsp) - Kristin Anderson has arranged a weekly drop-off of these shares on Fridays at 60 Lowell St, and the team is committed to keeping them sanitary. _Accepts EBT/SNAP payments for a full share! Call (978) 349-1952._
 - **Local Restaurants Doing Grocery Delivery**
