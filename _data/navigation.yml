@@ -32,12 +32,14 @@ defnav:
         url: /pods
       - title: "Tech Volunteers"
         url: /tech
-      - title: "Other Groups"
+      - title: "Help Outside Arlington"
         url: /local
   - title: "Resources"
     children:
       - title: "What's Open/Closed"
         url: /open
+      - title: "Ordering Groceries"
+        url: /food
       - title: "Stay Active"
         url: /active
       - title: "More Resources"
