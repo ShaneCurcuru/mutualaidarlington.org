@@ -34,6 +34,7 @@ defnav:
         url: /tech
       - title: "Help Outside Arlington"
         url: /local
+        url: /local
   - title: "Resources"
     children:
       - title: "What's Open/Closed"
@@ -42,6 +43,8 @@ defnav:
         url: /food
       - title: "Stay Active"
         url: /active
+      - title: "All About Masks"
+        url: /masks
       - title: "More Resources"
         url: /tools
       - title: "Meet The Admins"
