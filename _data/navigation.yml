@@ -18,6 +18,8 @@ defnav:
         url: /gethelp
       - title: "Get Cheerful!"
         url: /cheer
+      - title: "Kids Activities"
+        url: /parents
       - title: "Town Help"
         url: http://arlingtonma.gov/covid19
       - title: "Help With Tech"
