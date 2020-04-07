@@ -14,7 +14,7 @@ Are the kids getting bored or crazy stuck at home?  So are the neighbors - and w
 
 ## Things To Do With Kids
 
-- See [Arlington's own Parent and Youth resources](https://www.arlingtonma.gov/departments/health-human-services/arlington-youth-health-safety-coalition-ayhsc/resources) - while in-person classes may be closed, there are still resources to check out.
+- See [Arlington's own Parent and Youth resources](https://www.arlingtonma.gov/departments/health-human-services/arlington-youth-health-safety-coalition-ayhsc/resources) - while in-person classes may be closed, there are still resources to check out, along with coverage from [Your Arlington about library programs continuing](https://www.yourarlington.com/arlington-archives/residents/ideas-fun/102-library/16858-remote-031620.html).
 - [Arlington Community Education](http://www.arlingtoncommunityed.org/) has a list of great local things to do. 
 - Check out [Boston Mamas weekly curated events](https://www.bostonmamas.com/blog/virtual-weekly-events) in the region.
 - Join the "Arlington Parents (Arlington, Massachusetts)" Facebook group (private, requires approval which comes within a day or so).
