@@ -46,6 +46,6 @@ For those uncomfortable or unable to shop at grocery stores in person, there are
 
 If you've got other, **local** places that can deliver or provide groceries for pickup, please let us know!
 
-Propose a GitHub PR or email [menotomy@shanecurcuru.org](mailto:menotomy@shanecurcuru.org?Subject=MutualAidArlington Get Help Suggestion) with your suggestions.
+Propose a GitHub PR or email [](mailto:?Subject=MutualAidArlington Get Help Suggestion) with your suggestions.
 
 **Yum, yum!**

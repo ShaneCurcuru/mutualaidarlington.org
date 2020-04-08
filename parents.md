@@ -32,6 +32,6 @@ Are the kids getting bored or crazy stuck at home?  So are the neighbors - and w
 
 **In Progress** We're still collecting well-written and researched links, so please let us know if you've got ideas!
 
-Propose a GitHub PR or email [menotomy@shanecurcuru.org](mailto:menotomy@shanecurcuru.org?Subject=MutualAidArlington Parents Suggestion) with your suggestions.
+Propose a GitHub PR or email [](mailto:?Subject=MutualAidArlington Parents Suggestion) with your suggestions.
 
 **Try not to worry, the kids will turn out fine!**

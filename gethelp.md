@@ -32,6 +32,6 @@ The [Arlington Helps volunteer group](https://www.arlingtonhelps.org/) is helpin
 
 If you have other groups of volunteers offering to provide services or goods of any kind to Arlington neighbors, please let us know!
 
-Propose a GitHub PR or email [menotomy@shanecurcuru.org](mailto:menotomy@shanecurcuru.org?Subject=MutualAidArlington Get Help Suggestion) with your suggestions.
+Propose a GitHub PR or email [](mailto:?Subject=MutualAidArlington Get Help Suggestion) with your suggestions.
 
 **Good luck!**

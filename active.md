@@ -20,6 +20,6 @@ Spring weather is here - get outside, take a walk, and look for [bits of cheer](
 
 ## Contact Site Admins 
 
-Propose a GitHub PR or email [menotomy@shanecurcuru.org](mailto:menotomy@shanecurcuru.org?Subject=MutualAidArlington Local Suggestion) with your suggestions.
+Propose a GitHub PR or email [](mailto:?Subject=MutualAidArlington Local Suggestion) with your suggestions.
 
 **STAY CALM AND TAKE A WALK**

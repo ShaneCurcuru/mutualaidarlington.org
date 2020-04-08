@@ -37,6 +37,6 @@ Remember to [**always put your mask on safely**](https://www.sfcdcp.org/communic
 
 If you've got other well-researched mask patterns, donation programs, or if you have the capacity to make masks for fellow Arlingtonians, let us know!
 
-Propose a GitHub PR or email [menotomy@shanecurcuru.org](mailto:menotomy@shanecurcuru.org?Subject=MutualAidArlington Masks Suggestion) with your suggestions.
+Propose a GitHub PR or email [](mailto:?Subject=MutualAidArlington Masks Suggestion) with your suggestions.
 
 **Save N95 masks for the hospitals!**

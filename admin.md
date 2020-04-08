@@ -27,6 +27,6 @@ This is currently a scratch pad of ideas for the website itself.  Shane is hopin
 
 ## Contact Site Admins 
 
-Propose a GitHub PR or email [menotomy@shanecurcuru.org](mailto:menotomy@shanecurcuru.org?Subject=MutualAidArlington Admin Suggestion) with your suggestions.
+Propose a GitHub PR or email [](mailto:?Subject=MutualAidArlington Admin Suggestion) with your suggestions.
 
 **Thanks!**

@@ -28,6 +28,6 @@ The [Arlington Helps volunteer group](https://www.arlingtonhelps.org/) is helpin
 
 If you have other links to groups looking for volunteers to help out in Arlington, please let me know!  And if you're feeling antsy indoors, go [take a walk around](/active) town and get outside at 6PM for [#Arlington6at6](https://twitter.com/arlingtonmagov/status/1244338726601478151)!
 
-Propose a GitHub PR or email [menotomy@shanecurcuru.org](mailto:menotomy@shanecurcuru.org?Subject=MutualAidArlington Volunteer Suggestion) with your suggestions; if you're a geek, [volunteer your tech skills](/tech#volunteer-to-help).
+Propose a GitHub PR or email [](mailto:?Subject=MutualAidArlington Volunteer Suggestion) with your suggestions; if you're a geek, [volunteer your tech skills](/tech#volunteer-to-help).
 
 **Thanks for helping your neighbors!**
