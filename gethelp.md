@@ -24,9 +24,9 @@ Here's a list of all the groups offering volunteer help of various kinds for eve
 - **Internet** See the [list of all internet deals/discounts due to COVID](/telecom), and also [Comcast offers some free internet services](https://corporate.comcast.com/covid-19)
 - **Phone, Internet** [Mass Lifeline services provide phone and internet](https://www.mass.gov/service-details/lifeline-services) at reduced rates to low-income families
 
-## Hyper-Local Volunteers: Neighborhood Pods
+## Hyper-Local Volunteers: Arlington Helps Pods
 
-Some Arlington neighborhoods have "[Pods](/pods)", or local volunteer communities centered around a few blocks or streets.  See what [volunteer pods are available](/pods) so far, or sign up for your own!
+The [Arlington Helps volunteer group](https://www.arlingtonhelps.org/) is helping many neighborhoods setup "[Pods](https://www.arlingtonhelps.org/pods)", or local volunteer communities centered around a few blocks or streets.  See what [volunteer pods are available](/pods) so far to reach out to.
 
 ## Other Great Resources? What Should We Add?
 
