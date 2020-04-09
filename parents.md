@@ -28,10 +28,8 @@ Are the kids getting bored or crazy stuck at home?  So are the neighbors - and w
 - Or see the newer [Libby library reader app](https://www.overdrive.com/apps/libby/?utm_origin=lightning&utm_page_genre=tout&utm_list=meet_libby&utm_content=libby_tout_learnmore_06019018) for Android/iPhone.
 - Don't have a library card, or lost yours?  [Register for a new Minuteman library number online](https://library.minlib.net/selfreg) or [get a BPL eCard online](https://www.bpl.org/ecard/)!
 
-## Other Great Resources? What Should We Add?
+## Got More Ideas?
 
-**In Progress** We're still collecting well-written and researched links, so please let us know if you've got ideas!
+[Email us your suggestions](mailto:MutualAidArlington@gmail.com?Subject=[MAA] Parents Suggestion) - we update this site frequently!
 
-Propose a GitHub PR or email [](mailto:?Subject=MutualAidArlington Parents Suggestion) with your suggestions.
-
-**Try not to worry, the kids will turn out fine!**
+> **Try not to worry, the kids will turn out fine!** <span style="color: #ff33cc"><i class="fa fa-baby"></i></span>

@@ -36,4 +36,8 @@ There are many sites listing internet/phone discounts.  A key resource is also t
 - Other Useful Lists
   - [PCWorld article](https://www.pcworld.com/article/3532817/which-internet-providers-are-lifting-data-caps-during-the-coronavirus-and-which-arent.html) covering data caps and some details ()
 
-**Don't Watch The News - Read A Book Instead**
+## Got More Ideas?
+
+[Email us your suggestions](mailto:MutualAidArlington@gmail.com?Subject=[MAA] Telecom Suggestion) - we update this site frequently!
+
+> **Don't Watch The News - Read A Book Instead!** <span style="color: #ff6600"><i class="fa fa-wifi"></i></span>

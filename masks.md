@@ -33,10 +33,8 @@ With many of the regular retailers sold out, or backordered, it takes some plann
 
 Remember to [**always put your mask on safely**](https://www.sfcdcp.org/communicable-disease/healthy-habits/how-to-put-on-and-remove-a-face-mask/) - a contaminated mask (from handling the inside with dirty fingers) doesn't help as much.
 
-## Other Great Resources? What Should We Add?
+## Got More Ideas?
 
-If you've got other well-researched mask patterns, donation programs, or if you have the capacity to make masks for fellow Arlingtonians, let us know!
+[Email us your suggestions](mailto:MutualAidArlington@gmail.com?Subject=[MAA] Masks Suggestion) - we update this site frequently!
 
-Propose a GitHub PR or email [](mailto:?Subject=MutualAidArlington Masks Suggestion) with your suggestions.
-
-**Save N95 masks for the hospitals!**
+> **Save N95 masks for the hospitals!** <span style="color: #00ccff"><i class="fa fa-head-side-mask"></i></span>

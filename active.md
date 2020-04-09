@@ -1,5 +1,6 @@
 ---
 layout: single
+share: true
 sidebar:
   nav: "defnav"
 header:
@@ -26,8 +27,8 @@ With various stay at home orders, doctors are using new tools for telemedecine a
 - [MA State guide for mental health resources](https://www.mass.gov/info-details/maintaining-emotional-health-well-being-during-the-covid-19-outbreak)
 - Helpful [VOX article on accessing mental health therapy remotely](https://www.vox.com/identities/2020/4/7/21207281/coronavirus-covid-19-how-to-find-a-therapist)
 
-## Contact Site Admins 
+## Got More Ideas?
 
-Propose a GitHub PR or email [](mailto:?Subject=MutualAidArlington Local Suggestion) with your suggestions.
+[Email us your suggestions](mailto:MutualAidArlington@gmail.com?Subject=[MAA] Active Suggestion) - we update this site frequently!
 
-**STAY CALM AND TAKE A WALK**
+> **Time to get outside and get walking!** <span style="color: #009933"><i class="fa fa-walking"></i></span>

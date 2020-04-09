@@ -29,4 +29,8 @@ There are plenty of lists of activities or remote learning for kids these days o
 - Short but [high-quality list of software recommended for younger kids](https://github.com/HollyAdele/awesome-programming-for-kids) by Holly Adele - (in particular, [Scratch programming from MIT](https://scratch.mit.edu/))
 - [Push kids to create, not just consume](https://www.bryanbraun.com/2019/07/16/daily-demos-a-ritual-for-raising-kids-that-create/) - essay on daily demos by Bryan Braun
 
-**Thanks to our geek volunteers!**
+## Got More Ideas?
+
+[Email us your suggestions](mailto:MutualAidArlington@gmail.com?Subject=[MAA] Tech Suggestion) - we update this site frequently!
+
+> **Thanks to our geek volunteers!** <span style="color: #666699"><i class="fa fa-laptop"></i></span>

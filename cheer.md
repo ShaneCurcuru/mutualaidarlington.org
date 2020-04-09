@@ -42,6 +42,8 @@ Kristin Chalmers is taking [amazing pictures of neighbors](https://kristinchalme
 
 Led in a variety of [Facebook Groups in Arlington](/#arlington-facebook-groups), people are working on spreading cheer in other ways.  Look around town for people with festive holiday lights displayed, banners of cheer, or other messages in windows and doors all around town.  
 
-If you have an organized group with a map or other information like this, please let us know and we'll add the link!
+## Got More Ideas?
 
-**STAY CALM AND SPREAD A SMILE!**
+[Email us your suggestions](mailto:MutualAidArlington@gmail.com?Subject=[MAA] Cheer Suggestion) - we update this site frequently!
+
+> **Stay calm and spread a smile!** <span style="color: #0066ff"><i class="fa fa-grin-squint-tears"></i></span>

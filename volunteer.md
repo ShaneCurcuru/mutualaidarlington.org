@@ -24,10 +24,9 @@ Here's a soon-to-be comprehensive list of all the groups you can volunteer with 
 
 The [Arlington Helps volunteer group](https://www.arlingtonhelps.org/) is helping many neighborhoods setup "[Pods](https://www.arlingtonhelps.org/pods)", or local volunteer communities centered around a few blocks or streets.  See what [volunteer pods are available](/pods) so far.
 
-## Other Great Resources? What Should I Add?
 
-If you have other links to groups looking for volunteers to help out in Arlington, please let me know!  And if you're feeling antsy indoors, go [take a walk around](/active) town and get outside at 6PM for [#Arlington6at6](https://twitter.com/arlingtonmagov/status/1244338726601478151)!
+## Got More Ideas?
 
-Propose a GitHub PR or email [](mailto:?Subject=MutualAidArlington Volunteer Suggestion) with your suggestions; if you're a geek, [volunteer your tech skills](/tech#volunteer-to-help).
+[Email us your suggestions](mailto:MutualAidArlington@gmail.com?Subject=[MAA] Volunteer Suggestion) - we update this site frequently!
 
-**Thanks for helping your neighbors!**
+> **Thanks for helping your neighbors!** <span style="color: #cc0000"><i class="fa fa-hands-helping"></i></span>

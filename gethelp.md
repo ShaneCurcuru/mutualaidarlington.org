@@ -30,10 +30,8 @@ Here's a list of all the groups offering volunteer help of various kinds for eve
 
 The [Arlington Helps volunteer group](https://www.arlingtonhelps.org/) is helping many neighborhoods setup "[Pods](https://www.arlingtonhelps.org/pods)", or local volunteer communities centered around a few blocks or streets.  See what [volunteer pods are available](/pods) so far to reach out to.
 
-## Other Great Resources? What Should We Add?
+## Got More Ideas?
 
-If you have other groups of volunteers offering to provide services or goods of any kind to Arlington neighbors, please let us know!
+[Email us your suggestions](mailto:MutualAidArlington@gmail.com?Subject=[MAA] Cheer Suggestion) - we update this site frequently!
 
-Propose a GitHub PR or email [](mailto:?Subject=MutualAidArlington Get Help Suggestion) with your suggestions.
-
-**Good luck!**
+> **Neighbors are here to help!** <span style="color: #ff0000"><i class="fa fa-heart"></i></span>
