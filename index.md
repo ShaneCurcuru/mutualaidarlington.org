@@ -6,7 +6,7 @@ sidebar:
   nav: defnav
 ---
 
-**Mutual Aid Arlington** is here to connect neighbors with the many awesome volunteer groups here in Arlington, MA while [we are sheltering at home](https://arlingtonma.gov/covid19).  Here you'll find links to all the awesome organized volunteer groups, key resources like what stores are open or delivering, and ideas for keeping families and kids active and happy!
+**Mutual Aid Arlington** is here to connect neighbors with the many awesome volunteer groups here in Arlington, MA while [we are sheltering at home](https://arlingtonma.gov/covid19).  Here you'll find links to all the awesome organized volunteer groups, key resources like what stores are open or delivering, and ideas for keeping families and kids active and happy!  Our top pages are available in the menu to the left.
 
 # Get Help or Volunteer
 
@@ -48,14 +48,13 @@ We've got a [full list of Arlington stores/restaurants open and hours](/open) th
 
 - [COVID19 Tracker](https://covidtracking.com/) - best overall US dashboard of case numbers with strong research
 - [Coronavirus in a Nutshell](https://www.youtube.com/watch?v=BtN-goy9VOY) - excellent video that explains issues around COVID-19 in plain language - and is well researched ([See their source list](https://sites.google.com/view/sourcescorona))
-- [Wirecutter/NYTimes Guide About Coronavirus](https://thewirecutter.com/blog/coronavirus-packages/) - well-researched set of free articles with tips on dealing with life in the age of COVID-19
+- [Wirecutter/NYTimes Guide About Coronavirus]( https://thewirecutter.com/blog/all-coronavirus-coverage/) is well written and researched, including great articles like [how to sanitize packages when they're delivered](https://thewirecutter.com/blog/coronavirus-packages/).
 - [Safety Practices for Food Supply And Distribution](/assets/docs/COVID_SupplyDistro_MASafetyPracticesZine_PRINT.pdf) - useful booklet PDF (download) about safely preparing or delivering food to those in need.
 - [How Long Coronavirus Can Survive On Surfaces](https://hub.jhu.edu/2020/03/20/sars-cov-2-survive-on-surfaces/) (Johns Hopkins research paper)
 - The [Lancet's respected scientific journals](https://www.thelancet.com/coronavirus) coverage of COVID-19.
 - [WHO's meta-listing of scientific papers on COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov).
 - Georgetown's new [meta-database of thousands of COVID-19 scientific papers](https://cset.georgetown.edu/covid-19-open-research-dataset-cord-19/) called CORD-19
 - [New York Times coverage on COVID-19](https://www.nytimes.com/news-event/coronavirus) is now **free for all** (not paywalled).
-- [NPR's guide on preparing your home](https://www.npr.org/sections/goatsandsoda/2020/02/26/809650625/a-guide-how-to-prepare-your-home-for-coronavirus).
 - [Johns Hopkins data visualizations and maps](https://systems.jhu.edu/research/public-health/ncov/) about the spread of COVID-19 
 
 ### Need Your Help <i class="fa fa-exclamation"></i>
