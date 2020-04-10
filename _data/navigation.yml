@@ -41,6 +41,8 @@ defnav:
     children:
       - title: "What's Open/Closed"
         url: /open
+      - title: "What's In Stock"
+        url: /instock
       - title: "Ordering Groceries"
         url: /food
       - title: "Stay Active"

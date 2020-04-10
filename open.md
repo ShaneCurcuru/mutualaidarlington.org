@@ -10,6 +10,8 @@ header:
 
 With the [state order for non-essential businesses to close](https://www.mass.gov/info-details/covid-19-essential-services), and with many stores holding "at-risk" or senior-only shopping hours, it's hard to know what's open!  Luckily, the town and some volunteers are working on this!
 
+Also: let neighbors know what shopping was like with our new [In Stock in local stores map](/instock)!
+
 ## Arlington Business Open / Closed Listings
 
 There are currently three actively managed listings of businesses open in town!
