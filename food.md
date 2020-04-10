@@ -18,6 +18,8 @@ For those uncomfortable or unable to shop at grocery stores in person, there are
 - **Local Restaurants Doing Grocery Delivery**
   - [The Adventure Pub](https://theadventurepub.com/) now does delivery!
   - Want takeout instead? Check out the [Arlington Restaurant status here](/open).
+  - [Dark Horse Pub, Somerville](http://thedarkhorsepub.com/produce-boxes-20-share/) $20 produce box delivery
+  - [Ball Sq Fine Wines, Somerville](https://www.ballsquarefinewines.com/sku32076_Katsiroubas-Produce-Box-EACH) $35 produce box delivery or contactless pickup
 - **Local Shops / Farmstands** - now offering either delivery or contactless pickup
   - [Wilson Farm, Lexington](http://www.wilsonfarm.com/v2.0/home.php) 
   - [Verril Farm, Concord](https://verrillfarm.com/) 
@@ -28,6 +30,9 @@ For those uncomfortable or unable to shop at grocery stores in person, there are
   - [Walden Local Meats](https://members.waldenlocalmeat.com/login)
   - [Savenor's Meat Market](https://www.savenorsmarket.com/)
   - [Iggy's Bakery Delivery](https://iggysdelivery.com/)
+  - [Pemberton Farms, Cambridge](https://www.pembertonfarms.com/)
+  - [Dave's Fresh Pasta, Somerville](https://davesfreshpasta.com/index.html)
+  - [Neighborhood Produce, Somerville](https://www.nbrhoodproduce.com/)
 - **Other Food Producers** - now offer retail/delivery since restaurants aren't buying as much
   - [Buenas](https://www.buenas.co/fuckcorona)
   - [Jaju Pierogi](http://www.jajupierogi.com/)
