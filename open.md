@@ -40,4 +40,8 @@ Many businesses, especially larger stores, have set aside specific hours in the 
 - **Vets / Pet Health** - [full town list with current hours](https://docs.google.com/spreadsheets/d/1o9EW1jBsm95ucDC2cCcpRVLtMPJVUbrJEg5fTyYrqwQ/edit#rangeid=1749410876)
 - **Laundromats** - [full town list with current hours](https://docs.google.com/spreadsheets/d/1o9EW1jBsm95ucDC2cCcpRVLtMPJVUbrJEg5fTyYrqwQ/edit#rangeid=1774500099)
 
-**Support Local Businesses!**  And say _thanks to all the volunteers_ who are helping to curate these lists!
+## Got More Ideas?
+
+[Email us your suggestions](mailto:MutualAidArlington@gmail.com?Subject=[MAA] Open Suggestion) - we update this site frequently!
+
+> **Support Local Businesses - buy gift cards!** <span style="color: #339933"><i class="fa fa-credit-card"></i></span>

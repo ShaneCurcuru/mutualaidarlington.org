@@ -88,4 +88,19 @@ There are many domain hosts, but these are the ones I personally recommend:
 
 Note: I avoid GoDaddy; their business model seems to be spamming you with innovative ways to say "buy more".
 
-**Mutual Aid Is About Local Self Sufficiency**
+> **Mutual Aid Is About Local Self Sufficiency**
+
+## Mapping Tips
+
+Mutual aid is local, and displaying maps often helps route volunteers and those in need alike.  There are plenty of mapping websites out there - the key factor is choosing one that your core organizing volunteers are comfortable maintaining.
+
+### Mapping Grocery Stock Levels
+
+How to easily use uMap / OpenStreetMap / Google Sheets to show stock levels (out of TP! has cleaners!) of nearby supermarkets.
+
+*IN PROGRESS - WORKING NOTES*
+
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/arlington-groceries-report_443024?scaleControl=true&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/en/map/arlington-groceries-report_443024">See full screen</a></p>
+
+
+

@@ -47,10 +47,9 @@ For those uncomfortable or unable to shop at grocery stores in person, there are
 
 **Looking for something unusual?** [Eater Boston has a larger list](https://boston.eater.com/2020/3/27/21193968/boston-grocery-stores-meal-kit-deliveries) of local provisions purveyors who now sell to households.
 
-## Other Great Resources? What Should We Add?
 
-If you've got other, **local** places that can deliver or provide groceries for pickup, please let us know!
+## Got More Ideas?
 
-Propose a GitHub PR or email [](mailto:?Subject=MutualAidArlington Get Help Suggestion) with your suggestions.
+[Email us your suggestions](mailto:MutualAidArlington@gmail.com?Subject=[MAA] Food Suggestion) - we update this site frequently!
 
-**Yum, yum!**
+> **Yum, yum, what's for dinner!** <span style="color: #006600"><i class="fa fa-utensils"></i></span>

@@ -51,4 +51,8 @@ _For more eastern MA mutual aid finders, see below!_
 
 Want to start your own hyper-local Arlington volunteer pod? Check out the [Arlington pods guide](/pods).
 
-**Thanks To All Volunteers!**
+## Got More Ideas?
+
+[Email us your suggestions](mailto:MutualAidArlington@gmail.com?Subject=[MAA] Local Suggestion) - we update this site frequently!
+
+> **Thank you to all volunteers!** <span style="color: #ff0000"><i class="fa fa-hands"></i></span>
