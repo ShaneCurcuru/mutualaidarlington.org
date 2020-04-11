@@ -40,6 +40,7 @@ _For more eastern MA mutual aid finders, see below!_
   - [AARP's supported Mutual Aid Group Finder](https://aarpmutualaid.org/)
   - [Google Spreadsheet of various mutual aid groups across US](https://docs.google.com/spreadsheets/d/1M9Y46lhZSVIRyE1Qh74Tj5uu91VKs5nhFCUudnFOqOg/edit#gid=776187552).
   - [Another larger meta-list of groups](https://docs.google.com/spreadsheets/d/1HEdNpLB5p-sieHVK-CtS8_N7SIUhlMpY6q1e8Je0ToY/edit#gid=1455689482)
+  - [COVID-19 Mutual Aid & Advocacy Resources](https://docs.google.com/document/d/1dpMzMzsA83jbVEXS8m7QKOtK4nj6gIUk1U1t6P4wShY/preview) is a meta-list of groups by state with resources for organizing
   - [Map of mutual aid groups in the US](https://www.mutualaidhub.org)
 
 ## Mutual Aid Group How-Tos And Resources
