@@ -1,9 +1,10 @@
 ---
 title: Other Useful Tools And Resources
+permalink: /tools/
 layout: tools
 datafile: tools
 sidebar:
-  nav: defnav
+  nav: adminnav
 header:
   overlay_image: /assets/images/tech.jpg
   caption: "Photo: [**John Schnobrich / Unsplash**]"

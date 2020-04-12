@@ -1,7 +1,10 @@
 ---
 title: How To Setup A Mutual Aid Website
+permalink: /setup/
 layout: single
 classes: wide
+sidebar:
+  nav: adminnav
 ---
 
 Key technical tips on organizing tools to use for volunteering in your local community.  We also have resources on the non-technical side: [finding volunteers and organizing the human side of the work](/local).

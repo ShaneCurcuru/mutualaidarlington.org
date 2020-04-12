@@ -13,7 +13,7 @@ main:
     
 defnav:
   - title: "Get Help"
-    children:
+    children: &helpnav
       - title: "Groups Offering Help"
         url: /gethelp
       - title: "Get Cheerful!"
@@ -27,7 +27,7 @@ defnav:
       - title: "Free Internet"
         url: /telecom
   - title: "Volunteer!"
-    children:
+    children: &volunteernav
       - title: "Volunteer Groups"
         url: /volunteer
       - title: "Neighborhood Pods"
@@ -38,7 +38,7 @@ defnav:
         url: /local
         url: /local
   - title: "Resources"
-    children:
+    children: &resourcenav
       - title: "What's Open/Closed"
         url: /open
       - title: "What's In Stock"
@@ -53,3 +53,19 @@ defnav:
         url: /tools
       - title: "Meet The Admins"
         url: /admin
+
+adminnav:
+  - title: "Admin Corner"
+    children:
+      - title: "Admin ToDos"
+        url: /admin/
+      - title: "Site Setup Notes"
+        url: /setup/
+      - title: "Missing Link"
+        url: /404test/
+  - title: "Get Help"
+    children: *helpnav
+  - title: "Volunteer!"
+    children: *volunteernav
+  - title: "Resources"
+    children: *resourcenav

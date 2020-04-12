@@ -1,5 +1,6 @@
 ---
 title: Terms / Privacy Policy
+permalink: /terms/
 layout: single
 excerpt: This site uses Google Analytics.
 classes: wide

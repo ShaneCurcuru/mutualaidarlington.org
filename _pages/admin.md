@@ -1,7 +1,10 @@
 ---
 title: Website Administrator Corner
+permalink: /admin/
 layout: single
 classes: wide
+sidebar:
+  nav: adminnav
 header:
   overlay_image: /assets/images/tech.jpg
   caption: "Photo: [**John Schnobrich / Unsplash**]"
