@@ -13,6 +13,9 @@ Looking to find some fresh produce?  Need gluten-free flour, or anything else sp
 
 ## Nearby Supermarket Stock Reports
 
+Reminder: [Wash your hands, don't worry about sanitizing groceries](https://www.npr.org/sections/health-shots/2020/04/12/832269202/no-you-dont-need-to-disinfect-your-groceries-but-here-s-to-shop-safely).
+{: .pullrightbox }
+
 Click on a store to see reports, and then click on Make A Report on any store if you go out and notice anything!  Remember: reports come from you or your neighbors, so always double-check yourself by calling if something is important.
 
 <iframe width="100%" height="450px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/arlington-groceries-report_443024?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/en/map/arlington-groceries-report_443024">See full screen</a>, <i>please be patient if the map is slow!</i></p>

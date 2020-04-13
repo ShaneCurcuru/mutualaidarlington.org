@@ -1,0 +1,45 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+# Modified 202004-sc
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// If you are a CSS/design guru, please volunteer to improve my cheezy design! -sc
+.techvolunteer {
+  border-top:1px solid #ffcc00;
+  margin-top: 5px;
+}
+.techperson {
+  display: flex;
+}
+.techname {
+  flex: 3 1 70%;
+}
+.techname h3 {
+  line-height: 18px;
+}
+.techphoto {
+  height: 100px;
+  width: 100px;
+  margin-left: 5%;
+}
+.techphoto img {
+  height: 100px;
+  width: 100px;
+  margin-left: 5%;
+}
+.pullrightbox {
+  float: right;
+  width: 200px;
+  padding: 5px;
+  margin: 5px !important;
+  font-size: $type-size-6 !important; // Slightly smaller to stand out
+  border: 1px solid #717D7E; // Darker than theme to stand out
+  border-radius: 4px;
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125);
+}

@@ -1,6 +1,7 @@
 ---
 title: What Stores Are Open And When?
 layout: single
+excerpt: "Guides to Arlington stores that are open, including hours."
 sidebar:
   nav: defnav
 header:
@@ -8,13 +9,14 @@ header:
   caption: "Photo: [**Allie Smith / Unsplash**]"
 ---
 
-With the [state order for non-essential businesses to close](https://www.mass.gov/info-details/covid-19-essential-services), and with many stores holding "at-risk" or senior-only shopping hours, it's hard to know what's open!  Luckily, the town and some volunteers are working on this!
-
-Also: let neighbors know what shopping was like with our new [In Stock in local stores map](/instock)!
+With many stores holding "at-risk" or senior-only shopping hours, it's hard to know what's open when - there are town and volunteer resources to help.  If you're tired of traditional stores, see the [list of farmstands and wholesale distributors that now sell retail](/food/).  Also: let neighbors know what shopping was like with our new [In Stock in local stores map](/instock)!
 
 ## Arlington Business Open / Closed Listings
 
-There are currently three actively managed listings of businesses open in town!
+Reminder: [Wash your hands, don't worry about sanitizing groceries](https://www.npr.org/sections/health-shots/2020/04/12/832269202/no-you-dont-need-to-disinfect-your-groceries-but-here-s-to-shop-safely).
+{: .pullrightbox }
+
+There are three actively managed listings of businesses open in town!
 
 - The town's [Arlington Open Businesses](https://docs.google.com/spreadsheets/d/1o9EW1jBsm95ucDC2cCcpRVLtMPJVUbrJEg5fTyYrqwQ/) list comes directly from local businesses and includes operating hours, contact info, and delivery/curbside pickup availability. [_(More business owner resources)_](https://www.arlingtonma.gov/departments/planning-community-development/economic-development/covid-19-resources)
 - Patricia Harrigan Browne runs [Support Local Businesses](https://docs.google.com/spreadsheets/d/1H8XgJ5soHNKMIpXmyrfP3BHs0nHHx2Rb9IVxCRqIl9g/edit?fbclid=IwAR1d2LJ0RM7UBXgNRq74Vbueoxk3QbIMHSPOS5R4niP4LA9NAN21_RP-dvU) with a crowdsourced list of open Arlington stores. [_(featured in Your Arlington)_](https://www.yourarlington.com/easyblog/entry/19-biz/2730-helpbiz-031720.html).
