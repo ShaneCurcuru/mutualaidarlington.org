@@ -8,11 +8,21 @@ header:
   caption: "Photo: [**John Schnobrich / Unsplash**]"
 ---
 
-Working from home and can't connect?  Figuring out how to setup video calls?  Missing a cable, or need computer help?  We have lots of geek volunteers in Arlington - we're organizing a list for you!
+Working from home and can't connect?  Figuring out how to setup video calls?  Missing a cable, or need computer help?  We have lots of geek volunteers in Arlington you can reach out to.  There's even volunteers with Fix-It Clinic who can advise on fixing hardware and gadgets!
 
 ## Get Technology Help
 
-[View our list of technology volunteers](/techhelp) who may be able to help you.  Please remember: [these geeks are all volunteers](/techhelp) with busy lives, so give them time to respond, and be sure to say thanks!
+[View our list of computer technology volunteers](/techhelp) who may be able to help you.  Please remember: [these geeks are all volunteers](/techhelp) with busy lives, so give them time to respond, and be sure to say thanks!
+
+**Have a hardware or gadget problem?** If some other electronics around the house aren't working, and you're willing to try fixing it yourself, then the [Fixit Clinic](https://fixitclinic.blogspot.com/) <a href="https://www.facebook.com/FixitClinic/"><i class="fab fa-facebook"></i></a> has volunteers here in Arlington too!  Here's how:
+
+If you need electronic gadgets or tools fixed, fixed you can sign up to have a virtual fixit clinic session **if you**:
+
+- Have a computer and internet connection that will support video teleconferencing?
+- Can you show and describe the problem / recreate the problem in under five minutes?
+- Can you have some rudimentary disassembly tools at the ready?
+- Can you fill out the [Broken Item Fixit Report](http://bit.ly/brokenitemreport) afterwards?
+- **If yes to all steps above** then [register for a Virtual Fixit Clinic](http://bit.ly/fixitcheckin) and a Fixit Coach will reach about scheduling you for an upcoming Virtual Fixit Clinic.
 
 ## Volunteer To Help
 
@@ -33,4 +43,4 @@ There are plenty of lists of activities or remote learning for kids these days o
 
 [Email us your suggestions](mailto:MutualAidArlington@gmail.com?Subject=[MAA] Tech Suggestion) - we update this site frequently!
 
-> **Thanks to our geek volunteers!** <span style="color: #666699"><i class="fa fa-laptop"></i></span>
+**Thanks to our geek volunteers!** <span style="color: #666699"><i class="fa fa-laptop"></i></span>
