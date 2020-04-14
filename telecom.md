@@ -1,8 +1,6 @@
 ---
 title: Internet, Phone, Connectivity During COVID-19
-layout: single
-sidebar:
-  nav: defnav
+classes: wide
 header:
   overlay_image: /assets/images/tech.jpg
   caption: "Photo: [**John Schnobrich / Unsplash**]"

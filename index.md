@@ -1,20 +1,20 @@
 ---
-layout: single
 title: Neighbors Helping Neighbors in Arlington, MA
+layout: single
 classes: wide
 sidebar:
   nav: defnav
 ---
 
-**Mutual Aid Arlington** is here to connect neighbors with the many awesome volunteer groups here in Arlington, MA while [we are sheltering at home](https://arlingtonma.gov/covid19).  Here you'll find links to all the awesome organized volunteer groups, key resources like what stores are open or delivering, and ideas for keeping families and kids active and happy!  Our top pages are available in the menu to the left.
+We're here to connect you with all the awesome volunteer groups run by your neighbors, key resources like what stores are open or delivering, and ideas for keeping families and kids active and happy!  See the Toggle Menu on the left for everything.
 
-# Get Help or Volunteer
+# Resource Finder
 
-| [**Get Help**](/gethelp) <i class="fa fa-bullhorn"></i> | [**Volunteer**](/volunteer) <i class="fa fa-users"></i> | **Resources** <i class="fa fa-book-reader"></i> |
+| [**Get Help**](/gethelp/) <i class="fa fa-bullhorn"></i> | [**Volunteer**](/volunteer/) <i class="fa fa-users"></i> | **Resources** <i class="fa fa-book-reader"></i> |
 | --- | --- | --- | 
-| [Get Help From Local Volunteers](/gethelp) | [Volunteer To Help Neighbors](/volunteer) | [Setup A Volunteer Pod](/pods) |
-| [Facebook Groups Helping](#arlington-helps-on-facebook-) | [Tech Help Needed](/tech#volunteer-to-help)! | [Key State Resources](#official-government-sites-) | 
-| [Neighboring Town Aid](/local) | [Stay Active](/active) / [Spread Cheer!](/cheer) | [Science Resources](#reputable-science-resources-) | 
+| [Get Help From Local Volunteers](/gethelp/) | [Volunteer To Help Neighbors](/volunteer) | [Instock Grocery Tracker](/instock/) |
+| [Get Tech Help](/techhelp/) | [Setup A Volunteer Pod](/pods) | [What Stores Are Open?](/open/) | 
+| [Neighboring Town Aid](/local/) | [Stay Active](/active/) / [Spread Cheer!](/cheer/) | [Parents Resources](/parents/) | 
 
 ## Town Alerts <span style="color: #ffcc00"><i class="fa fa-exclamation-triangle"></i></span>
 
@@ -27,9 +27,9 @@ sidebar:
 
 ## Arlington Helps On Facebook <i class="fab fa-facebook"></i>
 
-There are several private [Facebook Groups with super-helpful Arlingtonians](https://menotomymatters.com/howto/covid-emergency/#resource-lists---where-to-get-help).  If you use Facebook, definitely sign up to join them!
+[Arlington Helps](https://www.arlingtonhelps.org) is an allied group of volunteers that provides many support services including [Neighborhood Pods](/pods/). There are several private [Facebook Groups with super-helpful Arlingtonians](https://menotomymatters.com/howto/covid-emergency/#resource-lists---where-to-get-help) too.
 
-We've got a [full list of Arlington stores/restaurants open and hours](/open) that are curated by the town and several volunteers.  For those without internet, there are many [discount programs to keep people connected](/telecom).
+We've got a [full list of Arlington stores/restaurants open and hours](/open/) that are curated by the town and several volunteers.  For those without internet, there are many [discount programs to keep people connected](/telecom/).
 
 ## Official Government Sites <i class="fa fa-flag-usa"></i>
 

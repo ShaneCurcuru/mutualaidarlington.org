@@ -1,8 +1,6 @@
 ---
 title: How To Get Technology Help From Arlington Neighbors
-layout: single
-sidebar:
-  nav: defnav
+classes: wide
 header:
   overlay_image: /assets/images/tech.jpg
   caption: "Photo: [**John Schnobrich / Unsplash**]"

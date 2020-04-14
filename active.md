@@ -1,8 +1,5 @@
 ---
-layout: single
-share: true
-sidebar:
-  nav: "defnav"
+classes: wide
 header:
   overlay_image: /assets/images/2020.03.24-0003-sm.jpg
   caption: "Photo: [**Copyright Kristin Chalmers Photography**]"

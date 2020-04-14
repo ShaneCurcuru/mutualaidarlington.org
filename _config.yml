@@ -64,6 +64,7 @@ defaults:
       type: pages
     values:
       layout: single
+      classes: wide
       author_profile: false
       share: true
       related: false

@@ -1,14 +1,15 @@
 ---
 title: How To Buy Groceries Not At The Store
-layout: single
-sidebar:
-  nav: defnav
+classes: wide
 header:
   overlay_image: /assets/images/food.jpg
   caption: "Photo: [**Jakub Kapusnak / Unsplash**](https://unsplash.com/)"
 ---
 
 For those uncomfortable or unable to shop at grocery stores in person, there are options out there beyond Amazon Fresh, Instacart, or Peapod.  Various mutual aid groups and Jen on Facebook are sharing links to restaurant wholesale distributors - and local farms! - that are now offering retail delivery or pickup.
+
+Reminder: [Wash your hands, don't worry too much about sanitizing groceries](https://www.npr.org/sections/health-shots/2020/04/12/832269202/no-you-dont-need-to-disinfect-your-groceries-but-here-s-to-shop-safely).
+{: .pullrightbox .notice--info }
 
 ## Where To Order Groceries And Food
 

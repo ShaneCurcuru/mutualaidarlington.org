@@ -2,8 +2,6 @@
 title: Get Technology Help From Arlington Neighbors
 layout: techhelp
 datafile: techhelp
-sidebar:
-  nav: defnav
 header:
   overlay_image: /assets/images/tech.jpg
   caption: "Photo: [**John Schnobrich / Unsplash**]"

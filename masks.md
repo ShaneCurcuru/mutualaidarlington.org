@@ -1,8 +1,6 @@
 ---
 title: Masks - Making Them, Using Them, Donating Them
-layout: single
-sidebar:
-  nav: defnav
+classes: wide
 header:
   overlay_image: /assets/images/masks.jpg
   caption: "Photo: [**Sharon McCutcheon / Unsplash**]"

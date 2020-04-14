@@ -1,8 +1,6 @@
 ---
 title: Neighbors Cheering Up Neighbors!
-layout: single
-sidebar:
-  nav: defnav
+classes: wide
 header:
   overlay_image: /assets/images/egg.jpg
   caption: "Photo: [**Hannah Tasker / Unsplash**]"

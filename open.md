@@ -1,9 +1,7 @@
 ---
 title: What Stores Are Open And When?
-layout: single
 excerpt: "Guides to Arlington stores that are open, including hours."
-sidebar:
-  nav: defnav
+classes: wide
 header:
   overlay_image: /assets/images/open.jpg
   caption: "Photo: [**Allie Smith / Unsplash**]"
@@ -13,8 +11,8 @@ With many stores holding "at-risk" or senior-only shopping hours, it's hard to k
 
 ## Arlington Business Open / Closed Listings
 
-Reminder: [Wash your hands, don't worry about sanitizing groceries](https://www.npr.org/sections/health-shots/2020/04/12/832269202/no-you-dont-need-to-disinfect-your-groceries-but-here-s-to-shop-safely).
-{: .pullrightbox }
+Reminder: [Wash your hands, don't worry too much about sanitizing groceries](https://www.npr.org/sections/health-shots/2020/04/12/832269202/no-you-dont-need-to-disinfect-your-groceries-but-here-s-to-shop-safely).
+{: .pullrightbox .notice--info }
 
 There are three actively managed listings of businesses open in town!
 

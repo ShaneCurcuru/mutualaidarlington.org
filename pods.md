@@ -1,8 +1,6 @@
 ---
 title: What Are Local Volunteer Pods?
-layout: single
-sidebar:
-  nav: defnav
+classes: wide
 header:
   overlay_image: /assets/images/heart.jpg
   caption: "Photo: [**Kelly Sikkema / Unsplash**]"

@@ -36,7 +36,6 @@ defnav:
         url: /tech
       - title: "Help Outside Arlington"
         url: /local
-        url: /local
   - title: "Resources"
     children: &resourcenav
       - title: "What's Open/Closed"
@@ -61,6 +60,8 @@ adminnav:
         url: /admin/
       - title: "Site Setup Notes"
         url: /setup/
+      - title: "Notes On Mapping"
+        url: /setup/maps/
       - title: "Missing Link"
         url: /404test/
   - title: "Get Help"
