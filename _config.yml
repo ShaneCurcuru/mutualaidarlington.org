@@ -25,6 +25,7 @@ analytics:
   provider: "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id: "UA-6070690-10"
+    anonymize_ip: true
 
 google:
   search_engine_id: 008313295041711467873:q1moeeucfad
