@@ -6,7 +6,7 @@ header:
   caption: "Photo: [**Jakub Kapusnak / Unsplash**](https://unsplash.com/)"
 ---
 
-For those uncomfortable or unable to shop at grocery stores in person, there are options out there beyond Amazon Fresh, Instacart, or Peapod.  Various mutual aid groups and Jen on Facebook are sharing links to restaurant wholesale distributors - and local farms! - that are now offering retail delivery or pickup.
+For those uncomfortable or unable to shop at grocery stores in person, there are options out there beyond Amazon Fresh, Instacart, or Peapod.  Many restaurant wholesale distributors - and local farms! - are now offering retail delivery or pickup, sometimes even curbside trunk service.  If you need to pickup food **now**, check out the [In-Stock Grocery Trackers](/instock/).
 
 Reminder: [Wash your hands, don't worry too much about sanitizing groceries](https://www.npr.org/sections/health-shots/2020/04/12/832269202/no-you-dont-need-to-disinfect-your-groceries-but-here-s-to-shop-safely).
 {: .pullrightbox .notice--info }
@@ -22,7 +22,8 @@ Reminder: [Wash your hands, don't worry too much about sanitizing groceries](htt
   - [Dark Horse Pub, Somerville](http://thedarkhorsepub.com/produce-boxes-20-share/) $20 produce box delivery
   - [Ball Sq Fine Wines, Somerville](https://www.ballsquarefinewines.com/sku32076_Katsiroubas-Produce-Box-EACH) $35 produce box delivery or contactless pickup
 - **Local Shops / Farmstands** - now offering either delivery or contactless pickup
-  - [Wilson Farm (Lexington, MA)](http://www.wilsonfarm.com/)  _Delivery:_ Order via Mercato for delivery or pickup. _Pickup:_ Go to flower counter to claim pickup orders. _Notes:_ **Currently Not Accepting Orders** 13-April
+  - [D'agostino's (Arlington Heights)](https://www.facebook.com/dagostinosfoods/) _Delivery:_ Order via phone (781) 646-4949 for deli or any of their groceries and either delivery >$50 or cubside pickup.
+  - [Wilson Farm (Lexington, MA)](http://www.wilsonfarm.com/)  _Delivery:_ Order via Mercato for delivery or pickup. _Pickup:_ Go to flower counter to claim pickup orders. _Notes:_ **Currently Not Accepting Orders** 17-April
   - [Verrill Farm (Concord, MA)](https://verrillfarm.com/)  _Notes:_ Open for regular shopping.
   - [Russo's Market (Watertown, MA)](https://russos.com)  _Pickup:_ Curbside: Russo's boxes are placed in your trunk. _Notes:_ Closed for in-person shopping.
   - [Dave's Fresh Pasta (Somerville, MA)](https://davesfreshpasta.com/)  _Delivery:_ Delivery of basic groceries; $10 charge. _Pickup:_ Curbside pickup of phone orders.
@@ -47,6 +48,7 @@ Reminder: [Wash your hands, don't worry too much about sanitizing groceries](htt
 - **Wholesale Distributors** - now offering bulk ordering to non-restaurants
   - [Baldor Foods (Massachusetts)](https://www.baldorfood.com/)  _Delivery:_ Delivery of a wide variety of products, usually in large quantities, with $250 minimum.
   - [New England Country Mart (Massachusetts)](ttps://newenglandcountrymart.com/)  _Delivery:_ Launching soon: home delivery packages from this wholesaler.
+  - [Imported Foods (Boston, MA)](https://shop.usepepper.com/pages/imported-foods) now delivers via the UsePepper app to Arlington.
 
 **Looking for something unusual?** [Eater Boston has a larger list](https://boston.eater.com/2020/3/27/21193968/boston-grocery-stores-meal-kit-deliveries) of local provisions purveyors who now sell to households.  More ideas around the Boston area (including local liquor stores that deliver!) are on the [Shop Local, Eat Local, Support Local](https://docs.google.com/spreadsheets/d/1reBqEY3ajA8Z7uJGvnYMS4BOJfN1r-TVa3wo3Euu1TY/edit?ts=5e7501c9&fbclid=IwAR2hq81c6A87M39e-gwPofxhqN9EJm5QBm0jQcsUuQjWBdhUK6cqzZipTYQ/preview) listing.
 
