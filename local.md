@@ -31,6 +31,7 @@ _For more eastern MA mutual aid finders, see below!_
 ## Mutual Aid Group Maps / Finders
 
 - **Massachusetts Local Resources**
+  - [Mass MEMA State Map of Resources](https://memamaps.maps.arcgis.com/apps/webappviewer/index.html?id=5867d881a9324121839605c56a3d7cc9) - lists various resources across the state - you can [submit missing resources](https://arcg.is/0yqnvn).
   - [Massachusetts Jobs With Justice listing of Mutual Aid Groups](https://www.massjwj.net/news/2020/3/17/cover-19-mutual-aid-networks)
   - [Massachusetts Mutual Aid Networks](http://tinyurl.com/mamutualaid) (Google Sheet, listing MA sites)
   - [Boston COVID-19 Community Care](http://bit.ly/COVID-BOS) (Google Sheet, listing MA groups, resources, advocacy, tips)
