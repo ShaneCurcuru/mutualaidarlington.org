@@ -20,11 +20,14 @@ Are the kids getting bored or crazy stuck at home?  So are the neighbors - and w
 
 ## Library Programs Online
 
-- NEW! Robbins Library cards can now get a [free Hoopla account for reading books online](https://buff.ly/2IYOj8G) if you sign up!  Follow [@RobbinsLib Twitter](https://twitter.com/RobbinsLib) too for regular online storytime hours.
-- See [Boston Public Library online resources](https://www.bpl.org/news/covid-19-update-march-16th/) like Kanopy, Hoopla, and lynda.com.
+Need *real* books *now*?  [See local bookstores offering delivery or pickup!](/books/).
+{: .pullrightbox .notice--info }
+
+- Robbins Library cards can now get a [free Hoopla account for reading books online](https://buff.ly/2IYOj8G) if you sign up!  Follow [@RobbinsLib Twitter](https://twitter.com/RobbinsLib) too for **regular online storytime hours**.
+- See [Boston Public Library online resources](https://www.bpl.org/news/covid-19-update-march-16th/) like Kanopy, Hoopla, and lynda.com - all accessible with your library card.
 - Try the [Minuteman Overdrive application](https://minuteman.overdrive.com/) to read on your device!  
 - Or see the newer [Libby library reader app](https://www.overdrive.com/apps/libby/?utm_origin=lightning&utm_page_genre=tout&utm_list=meet_libby&utm_content=libby_tout_learnmore_06019018) for Android/iPhone.
-- Don't have a library card, or lost yours?  [Register for a new Minuteman library number online](https://library.minlib.net/selfreg) or [get a BPL eCard online](https://www.bpl.org/ecard/)!
+- Don't have a library card, or lost yours?  [Register for a new Minuteman library number online](https://library.minlib.net/selfreg) or [get a BPL eCard online](https://www.bpl.org/ecard/) - both are free for Mass residents.
 
 ## Got More Ideas?
 
