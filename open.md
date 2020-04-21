@@ -4,7 +4,7 @@ excerpt: "Guides to Arlington stores that are open, including hours."
 classes: wide
 header:
   overlay_image: /assets/images/open.jpg
-  caption: "Photo: [**Allie Smith / Unsplash**]"
+  caption: "Photo: [**Allie Smith / Unsplash**](https://unsplash.com/)"
 ---
 
 With many stores holding "at-risk" or senior-only shopping hours, it's hard to know what's open when - there are town and volunteer resources to help.  If you're tired of traditional stores, see the [list of farmstands and wholesale distributors that now sell retail](/food/).  Also: let neighbors know what shopping was like with our new [In Stock in local stores map](/instock)!

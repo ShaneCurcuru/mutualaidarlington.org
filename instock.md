@@ -3,7 +3,7 @@ title: What's In Stock In Local Stores
 classes: wide
 header:
   overlay_image: /assets/images/instock.jpg
-  caption: "Photo: [**Mick Haupt / Unsplash**]"
+  caption: "Photo: [**Mick Haupt / Unsplash**](https://unsplash.com/@rocinante_11)"
 ---
 
 Looking to find some fresh produce?  Need gluten-free flour, or anything else special?  Just need some TP!?!?  Let's crowdsource reporting what's in stock in our [local supermarkets](/open/)!

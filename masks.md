@@ -3,7 +3,7 @@ title: Masks - Making Them, Using Them, Donating Them
 classes: wide
 header:
   overlay_image: /assets/images/masks.jpg
-  caption: "Photo: [**Sharon McCutcheon / Unsplash**]"
+  caption: "Photo: [**Sharon McCutcheon / Unsplash**](https://unsplash.com/photos/bEDh-PxXZ0c)"
 ---
 
 Now that the [CDC recommends wearing cloth masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html) when going out, we're all wondering where to get one for ourselves, or where to donate extra masks or Personal Protective Equipment (PPE) to those who need them.

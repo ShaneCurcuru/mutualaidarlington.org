@@ -3,7 +3,7 @@ title: How To Get Help From Arlington Neighbors
 classes: wide
 header:
   overlay_image: /assets/images/heart.jpg
-  caption: "Photo: [**Kelly Sikkema / Unsplash**]"
+  caption: "Photo: [**Kelly Sikkema / Unsplash**](https://unsplash.com/@kellysikkema)"
 ---
 
 Here's a list of all the groups offering volunteer help of various kinds for everyone in Arlington.  Nearby towns have their own [mutual aid groups offering help](/local) or see the [list of stores/restaurants open in Arlington](/open/) and [what groceries are in stock](/instock/).

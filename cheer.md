@@ -3,7 +3,7 @@ title: Neighbors Cheering Up Neighbors!
 classes: wide
 header:
   overlay_image: /assets/images/egg.jpg
-  caption: "Photo: [**Hannah Tasker / Unsplash**]"
+  caption: "Photo: [**Hannah Tasker / Unsplash**](https://unsplash.com/@hannahtasker)"
 ---
 
 Along with the many places to volunteer or get help these days, Arlington neighbors are spreading cheer in many social distancing appropriate ways.  Spring weather is here - get outside, [take a long walk](/active), and look for bits of cheer all around you.

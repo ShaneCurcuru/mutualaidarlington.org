@@ -3,7 +3,7 @@ title: Internet, Phone, Connectivity During COVID-19
 classes: wide
 header:
   overlay_image: /assets/images/tech.jpg
-  caption: "Photo: [**John Schnobrich / Unsplash**]"
+  caption: "Photo: [**John Schnobrich / Unsplash**](https://unsplash.com/@johnschno)"
 ---
 
 A brief survey of internet, phone, and similar companies offering discounts or payment plans during the crisis.  If you are a geek, [please volunteer to help maintain this site](/tech#volunteer-to-help)!

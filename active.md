@@ -3,7 +3,7 @@ title: Keep Active During COVID!
 classes: wide
 header:
   overlay_image: /assets/images/active.jpg
-  caption: "Photo: [**Joshua Ness / Unsplash**]"
+  caption: "Photo: [**Joshua Ness / Unsplash**](https://unsplash.com/@theexplorerdad)"
 ---
 
 Spring weather is here - it's time to get outside, take a walk, and look for [bits of cheer](/cheer) all around you.  Here are resources to keep you entertained and moving around if you're stuck at home.  **Remember:** The Town needs you to [#CoverYourFace and keep social distancing](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information) when you're out exercising - yes, even on the bike path please!

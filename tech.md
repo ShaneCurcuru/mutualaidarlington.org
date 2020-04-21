@@ -3,7 +3,7 @@ title: How To Get Technology Help From Arlington Neighbors
 classes: wide
 header:
   overlay_image: /assets/images/tech.jpg
-  caption: "Photo: [**John Schnobrich / Unsplash**]"
+  caption: "Photo: [**John Schnobrich / Unsplash**](https://unsplash.com/@johnschno)"
 ---
 
 Working from home and can't connect?  Figuring out how to setup video calls?  Missing a cable, or need computer help?  We have lots of geek volunteers in Arlington you can reach out to.  There's even volunteers with Fix-It Clinic who can advise on fixing hardware and gadgets!

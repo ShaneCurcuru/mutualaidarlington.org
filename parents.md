@@ -3,7 +3,7 @@ title: Resources For Parents Stuck At Home
 classes: wide
 header:
   overlay_image: /assets/images/parents.jpg
-  caption: "Photo: [**Robert Collins / Unsplash**]"
+  caption: "Photo: [**Robert Collins / Unsplash**](https://unsplash.com/@robbie36)"
 ---
 
 Are the kids getting bored or crazy stuck at home?  So are the neighbors - and we've got tons of parents here in Arlington suggesting activities - see [the cheer page for eggs and bears](/cheer), oh, my!
