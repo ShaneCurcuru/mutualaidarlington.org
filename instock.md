@@ -1,5 +1,6 @@
 ---
 title: What's In Stock In Local Stores
+description: Can't find cleaners, or flour, or yeast in stock? Here are ways to check stock before you go to the store.
 classes: wide
 header:
   overlay_image: /assets/images/instock.jpg

@@ -1,5 +1,6 @@
 ---
 title: Internet, Phone, Connectivity During COVID-19
+description: How to get online service with discounts in the age of coronavirus.
 classes: wide
 header:
   overlay_image: /assets/images/tech.jpg

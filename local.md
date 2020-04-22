@@ -1,5 +1,6 @@
 ---
 title: Mutual Aid Around Arlington
+description: Most neighboring towns have aid groups too - here's how to find them.
 classes: wide
 header:
   overlay_image: /assets/images/heart.jpg

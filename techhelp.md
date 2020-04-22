@@ -1,5 +1,6 @@
 ---
 title: Get Technology Help From Arlington Neighbors
+description: Tech support from your neighbors to you - software, Zoom conferencing, or email, we've got it covered.
 layout: techhelp
 datafile: techhelp
 header:

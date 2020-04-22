@@ -1,5 +1,6 @@
 ---
 title: How To Buy Groceries Not At The Store
+description: Can't get to the store, or just looking for different food? Here's where to order your groceries.
 classes: wide
 header:
   overlay_image: /assets/images/food.jpg

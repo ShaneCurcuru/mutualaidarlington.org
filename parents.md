@@ -1,5 +1,6 @@
 ---
 title: Resources For Parents Stuck At Home
+description: How to keep your kids active and engaged during COVID-19 in Arlington or online.
 classes: wide
 header:
   overlay_image: /assets/images/parents.jpg

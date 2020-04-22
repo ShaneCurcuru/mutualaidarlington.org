@@ -1,5 +1,6 @@
 ---
 title: Neighbors Cheering Up Neighbors!
+description: Coronavirus got you down? How to find and spread cheer while we #StayAtHome.
 classes: wide
 header:
   overlay_image: /assets/images/egg.jpg

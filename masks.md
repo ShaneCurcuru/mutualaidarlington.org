@@ -1,5 +1,6 @@
 ---
 title: Masks - Making Them, Using Them, Donating Them
+description: A guide to all the places near Arlington for sewing, donating, wearing, or getting masks and PPE.
 classes: wide
 header:
   overlay_image: /assets/images/masks.jpg

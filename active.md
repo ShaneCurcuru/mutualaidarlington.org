@@ -1,5 +1,6 @@
 ---
 title: Keep Active During COVID!
+description: Ideas for staying healthy and active during COVID-19 while you #StayAtHome.
 classes: wide
 header:
   overlay_image: /assets/images/active.jpg
