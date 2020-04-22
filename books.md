@@ -1,5 +1,6 @@
 ---
 title: Books, Books, Books!
+description: How to get books during the age of Coronavirus when libraries are closed.
 classes: wide
 header:
   overlay_image: /assets/images/books.jpg
