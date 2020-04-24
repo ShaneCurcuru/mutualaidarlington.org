@@ -33,16 +33,19 @@ We've got a [full list of Arlington stores/restaurants open and hours](/open/) t
 
 ## Official Government Sites <i class="fa fa-flag-usa"></i>
 
+- **Massachusetts Official Sites**
+  - [Mass Coronavirus information overview page](https://www.mass.gov/2019coronavirus) updated throughout the day; comprehensive links to all state resources
+  - [Mass Public Health COVID cases tracker](https://www.mass.gov/info-details/covid-19-response-reporting), including an [archive of detailed past counts](https://www.mass.gov/info-details/archive-of-covid-19-cases-in-massachusetts)
+  - [How to get tested](https://www.mass.gov/info-details/covid-19-testing), which is generally call your physician first (exceptions for first responders, grocery workers, etc.)
+  - [Mass Attorney General - Resources for dealing with debt](https://www.mass.gov/guides/resources-during-covid-19) - key rights for employees or those with debts
+  - [**Arlington** Town Government Updates](https://arlingtonma.gov/covid19), updated each afternoon, so check back; also [signup for important Arlington Alerts](https://www.arlingtonma.gov/communications-center)
+  - [**Arlington** **Schools** Enrichment Site](https://arlingtonenrich.wixsite.com/mysite) - new site with distance learning materials for kids in APS
 - [**IRS Tax Day** Officially Extended to July 15th](https://www.irs.gov/coronavirus), [Mass Dept. of Revenue follows suit](https://www.mass.gov/info-details/important-covid-19-coronavirus-response-update-from-dor) (official sites)
 - **US Centers for Disease Control**
   - [CDC COVID-19 Home Page](https://www.cdc.gov/coronavirus/2019-ncov/index.html), regularly updated
   - [Printable CDC Fact Sheets, including in Spanish and Chinese](https://www.cdc.gov/coronavirus/2019-ncov/communication/factsheets.html).
-- **Massachusetts Official Sites**
-  - [Mass Attorney General - Resources for dealing with debt](https://www.mass.gov/guides/resources-during-covid-19) - key rights for employees or those with debts
-  - [Mass Department of Public Health information page](https://www.mass.gov/2019coronavirus) lists local state resources
-  - [Mass Public Health COVID cases tracker](https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring) - official test results, updated 4PM daily
-  - [Arlington Town Government Updates](https://arlingtonma.gov/covid19), updated each afternoon, so check back.
-  - [Arlington **Schools** Enrichment Site](https://arlingtonenrich.wixsite.com/mysite) - new site with distance learning materials for kids in APS
+
+
 
 ## Reputable Science Resources <i class="fa fa-microscope"></i>
 

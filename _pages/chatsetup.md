@@ -2,6 +2,8 @@
 title: How To Setup LibraryHelp Chat On A Site
 permalink: /setup/chat/
 layout: single
+classes: 
+toc: true
 sidebar:
   nav: adminnav
 ---
@@ -40,9 +42,12 @@ For example, in Arlington, we already have some well-written and vetted **local*
 
 ## How To Integrate Chat In Your Site
 
-There are two ways to add chat to your site, once the librarians setup a portal for your group:
+Note: before integrating chat, you will need to request the librarians create a queue for your group.  Since they are volunteers, this is not yet open to groups in general; I think they are piloting with a handful of groups in the Boston area first to see how they can scale their volunteer pool.  Once setup, they will email you a link to the queue, and a code snippet you could use to embed within your website.
+
+There are three ways to add chat to your site, _after_ the librarians have setup a portal for your group:
 
 - Link to a custom page on their website.  This is simply linking to `https://www.covidresourcelibrarian.com/your-group-id` once it's setup.  Users would see their generic page with a chat window (TBD: Asking how much customization the group can provide).  The advantage here is that the librarians answering the chats would then have your local links to provide as answers too.
+- Link to a popup page of your-group-id.  This opens a new browser window with a minimal frame, just for the chat itself.
 - Integrate the chat widget directly into a `<div>` on your site.  They provide a simple iframe embed where you can do a little bit of customization.  The advantage here is that it fits inside your site, meaning the local connection feel is still there.
 
 ### Credits

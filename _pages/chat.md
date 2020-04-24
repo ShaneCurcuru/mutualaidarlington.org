@@ -10,7 +10,7 @@ header:
 
 Got questions but you're in a hurry?  You can chat with real live librarians who volunteer their time to help point you in the right direction!
 
-Ask a Librarian can't help deliver groceries or find TP in stock, but they might be able to point you to a page that does help.  They're librarians, after all, and they're really good at finding trusted and useful sources for you to do your own research on.
+Ask a Librarian can't help deliver groceries or find TP in stock, but they probably can point you to a page that does help.  They're librarians, after all, and they're really good at finding trusted and useful sources for you, just like at your local library.
 
 ## Ask A Librarian
 
