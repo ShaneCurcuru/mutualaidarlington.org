@@ -9,9 +9,12 @@ header:
 
 Now that the [CDC recommends wearing cloth masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html) when going out, we're all wondering where to get one for ourselves, or where to donate extra masks or Personal Protective Equipment (PPE) to those who need them.
 
+_Need a mask for home use?_ We're making a list of local Arlingtonians sewing cloth masks for sale to neighbors - stay tuned! 
+
 # Donate Masks Or PPE
 
 - [Donate Masks To Arlington](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information/donate-personal-protective-equipment) - the town has a simple form for listing what masks (N95, surgical, fabric) or PPE you can donate to first responders and hospitals, and [showcases how many donations have been made](https://datastudio.google.com/u/0/reporting/c8d77b51-3ddb-4b48-8158-5061f8fc3f13/page/cyCKB).
+- [MaskOn builds full masks for hospital use](https://maskson.org), and a local Arlingtonian is working with AHS students as a distribution point for them.
 - [Donate Masks To MA State](mass.gov/covid-ppxy) - Statewide portal coordinating mask and other PPE donations or sales with regional needs.
 - [Mask Match](https://www.mask-match.com/) - Works directly with healthcare peeps who need masks and individual donors, so you can mail masks directly to someone in need.
 - [GetUsPPE](https://getusppe.org/give/) - Map of hospitals and other locations that accept donations of PPE.
