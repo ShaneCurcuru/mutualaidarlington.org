@@ -12,19 +12,21 @@ In late April Jenny from the [COVID Resource Librarian volunteer group](https://
 
 ## What Is COVID Resource Librarian?
 
-Briefly: volunteer librarians are taking their existing "ask a librarian" chat system and creating COVID-specific portals to integrate with local aid groups for free.  As librarians, they're good at quickly finding relevant information online to help answer questions - and as librarians, they tend to be good at finding _vetted_ and _well-written_ information.  They use the existing [commercial LibraryH3lp chat system](https://libraryh3lp.com/) to provide this service, which many libraries use for normal work.
+Briefly: chat volunteers are taking an existing "ask a librarian" chat system and creating COVID-specific portals to integrate with local aid groups for free.  As chat volunteesr, they're good at quickly finding relevant information online to help answer questions - and they tend to be good at finding _vetted_ and _well-written_ information.  They use the existing [commercial LibraryH3lp chat system](https://libraryh3lp.com/) to provide this service, which many libraries use for normal work.  They are also working with existing professional librarians to get more volunteers to answer questions.
 
-Remember: these are librarians, not local volunteers.  They can help direct people chatting to useful resources or information - including local information about your group - but they can't do needs matching or any direct volunteering locally.  They can help funnel many questions to the right contact person in your group, which would help people more easily find where to go.
+Remember: these are knowledgeable volunteers (some are librarians, some are not) somewhere in the US, not local volunteers.  They can help direct people chatting to useful resources or information - including local information about your group - but they can't do needs matching or any direct volunteering locally.  They can help funnel many questions to the right contact person in your group, which would help people more easily find where to go.
 
 ## How Does The Chat Work
 
-LibraryH3lp provides a [simple chat interface](https://libraryh3lp.com/features) with a free widget, used by many local libraries to provide online help on their websites.  The widget is in an iframe and should work well on any normal browsers.  There is queue management, so librarians can keep track of where questions are coming from and can use localized resources depending on the question.  The librarians could either point people to a relevant CDC or scientific paper for general questions, or could point them directly to [Arlington Helps pods guide](https://www.arlingtonhelps.org/pods) if someone were asking about helping neighbors in town.
+LibraryH3lp provides a [simple chat interface](https://libraryh3lp.com/features) with a free widget, used by many local libraries to provide online help on their websites.  The widget is in an iframe and should work well on any normal browsers.  There is queue management, so their chat volunteers can keep track of where questions are coming from and can use localized resources depending on the question.  The chat volunteers could either point people to a relevant CDC or scientific paper for general questions, or could point them directly to [Arlington Helps pods guide](https://www.arlingtonhelps.org/pods) if someone were asking about helping neighbors in town.
 
 ### Staffed By Volunteers
 
-This service is run by volunteer librarians around the US.  They are only online certain hours, and there will likely be capacity limits or delays in getting answers sometimes.  When no librarian is online, the chat widget will redriect questioners to send an email to the librarians, who will then answer when back online.
+This service is run by chat volunteers around the US; in terms of scheduling (i.e. when they are available and timeliness of responses), they note: 
 
-Key question for some groups will be what timezone expectations are supported versus the local aid population.
+> We try to stay online as much as possible, but please bear with us if we are not online at all hours. We will do our best to reply to messages sent while we are offline within two hours, and by 10 am EST if sent after 10 pm EST. Our volunteers are currently located in the United States.
+
+When no chat volunteers are online, the chat widget will redriect questioners to send an email to the librarians, who will then answer when back online.  Personally, I've chatted with them several times during the day Eastern time and always gotten quick and helpful answers.
 
 ### Technology And Privacy
 
@@ -36,7 +38,7 @@ COVID Resource Librarians have their own [About page and policy for their chat s
 
 ## Provide Local Links To Common Questions
 
-While librarians are superheroes when it comes to helping people find resources, the real value in this system is customizing it for your own group.  Since each chat instance is tied to your local group's website, the librarians answering chats can provide both general resources, _as well as any resources your group provides_!  This is where the power could come for some groups.
+While librarians and other chat volunteesr are superheroes when it comes to helping people find resources, the real value in this system is customizing it for your own group.  Since each chat instance is tied to your local group's website, the librarians answering chats can provide both general resources, _as well as any resources your group provides_!  This is where the power could come for some groups.
 
 For example, in Arlington, we already have some well-written and vetted **local** resources, like [where to buy food](/food/), or how to contact the health department.  I plan to create a list of what I think will be common questions, and then provide a link to the resource to answer that question.  Some groups may have common questions like "Who do I ask to buy emergency groceries?" which should lead to the person being given a contact email address or intake form.
 
@@ -46,9 +48,11 @@ Note: **before** integrating chat, you will need to request the librarians creat
 
 There are three ways to add chat to your site, _after_ the librarians have setup a portal for your group:
 
-- Link to a custom page on their website.  This is simply linking to `https://www.covidresourcelibrarian.com/your-group-id` once it's setup.  Users would see their generic page with a chat window (TBD: Asking how much customization the group can provide).  The advantage here is that the librarians answering the chats would then have your local links to provide as answers too.
-- Link to a popup page of your-group-id.  This opens a new browser window with a minimal frame, just for the chat itself.
+- Link to a custom page on their website.  This is simply providing a link to `https://www.covidresourcelibrarian.com/your-group-id` from your site, which sends users to a new chat landing page. You can request that they customize your chat landing page with any of the following: name of your group, area that you serve, a short description of your group, link to your website, and your logo. 
+- Link to a popup page of your-group-id.  This opens a new small browser window with a minimal frame, just for the chat itself.  It _should_ work for most browsers, even for people who use normal pop-up blockers. 
 - Integrate the chat widget directly into a `<div>` on your site.  They provide a simple iframe embed where you can do a little bit of customization.  The advantage here is that it fits inside your site, meaning the local connection feel is still there.
+
+Note: I've found Jenny and the volunteers here very responsive, so they will try to customize things to work with your site if they can - just ask!
 
 ### Credits
 
