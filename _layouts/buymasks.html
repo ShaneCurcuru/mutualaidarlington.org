@@ -1,0 +1,34 @@
+---
+layout: single
+---
+
+{{content}}
+
+<hr/>
+
+<!-- FIELDS: email	name	filter	sizes	worn	design	picture	price -->
+<div class="volunteerlist">
+{% for itm in site.data[page.datafile] %}
+  <div class="techvolunteer">
+    <p>
+      <div class="techperson">
+        <div class="techname">
+          <h3>{{ itm.name }}</h3>
+          <br/><strong>Contact:</strong> <i class="fa fa-envelope-open-text"></i> <a href="mailto:{{ itm.email }}?Subject=[BuyMasks] Mask purchase request">{{ itm.email }}</a>
+        </div>
+        {% if itm.photo %}<div class="techphoto"><img src="{{ itm.photo }}" alt="Photo of mask design"></div>{% endif %}
+      </div>
+    </p>
+    <div class="techareas">
+      <strong>Masks sewn are: </strong><i class="fa fa-head-side-mask"></i>
+       <ul>
+        <li>{% if itm.filter == 'Yes' %}Masks have a pocket for a filter{% else %}No filter pocket{% endif %}</li>
+        <li>{% if itm.sizes == 'Yes' %}Masks made in different sizes; ask for details{% else %}One size fits all{% endif %}</li>
+        <li>Masks are worn by: {{ itm.worn }}</li>
+        <li>Description of mask design: {{ itm.design }}</li>
+        <li>Estimated price per mask: {{ itm.price }}</li>
+      </ul>
+    </div>
+  </div>
+{% endfor %}
+</div>
