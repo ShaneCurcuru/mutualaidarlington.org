@@ -28,11 +28,11 @@ Key question for some groups will be what timezone expectations are supported ve
 
 ### Technology And Privacy
 
-The chat widget itself should work on any regular browser, so other than being a tool meant for people already online, it should suit any mutual aid group.
+The chat widget itself should work on any regular browser, so other than being a tool meant for people already online, it should suit any mutual aid group.  The chat also works on mobile devices; and if there are technology issues, LibraryH3lp may be able to provide basic tech support to your core volunteers to ensure the system works well for you.
 
 The LibraryH3lp system is a commercial company with their own [privacy policy](https://libraryh3lp.com/privacy-notice).  By default chats are encrypted between the user and the librarians, and no signin or personal information is needed to use the chat tool.  Since this company supports professional librarians, they likely have a pretty good reputation for protecting privacy as a general statement.
 
-COVID Resource Librarians have their own account at LibraryH3lp, and may have their own privacy policy.  In particular, if your mutual aid group works with undocumented people or those who have a strong need for online privacy, you will need to clarify with the librarians exactly how any data is stored, including IP address and how long chat transcripts are saved on their system.
+COVID Resource Librarians have their own [About page and policy for their chat service](https://www.covidresourcelibrarian.com/about), and they have changed their settings to not store IP addresses.  However, if your mutual aid group works with undocumented people or those who have a strong and _specific_ need for complete online privacy, you will need to decide for yourself if this service is appropriate.  They do log chat text for their own internal use (presumably so they can provide better support to common questions).
 
 ## Provide Local Links To Common Questions
 
@@ -42,7 +42,7 @@ For example, in Arlington, we already have some well-written and vetted **local*
 
 ## How To Integrate Chat In Your Site
 
-Note: before integrating chat, you will need to request the librarians create a queue for your group.  Since they are volunteers, this is not yet open to groups in general; I think they are piloting with a handful of groups in the Boston area first to see how they can scale their volunteer pool.  Once setup, they will email you a link to the queue, and a code snippet you could use to embed within your website.
+Note: **before** integrating chat, you will need to request the librarians create a queue for your group.  Since they are volunteers, this is not yet open to groups in general; I think they are piloting with a handful of groups in the Boston area first to see how they can scale their volunteer pool.  Once setup, they will email you a link to the queue, and a code snippet you could use to embed within your website.
 
 There are three ways to add chat to your site, _after_ the librarians have setup a portal for your group:
 
