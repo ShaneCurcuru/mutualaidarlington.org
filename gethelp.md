@@ -24,6 +24,15 @@ Here's a list of all the groups offering volunteer help of various kinds for eve
 - **Phone, Internet** [Mass Lifeline services provide phone and internet](https://www.mass.gov/service-details/lifeline-services) at reduced rates to low-income families
 - More Regional Services are listed on [State Sen. Cindy Friedman's website](https://cindyfriedman.org/4thmiddlesex-covid19/).
 
+## State Programs For Food Assistance
+
+There are several new or improved state programs around food assistance - please let anyone who might qualify about these important benefits!
+
+- [Pandemic P-EBT](https://www.mass.gov/info-details/pandemic-ebt-p-ebt) now offers additional EBT food support for families where children qualify for free or reduced price school meals.
+- [Mass Legal Services](https://www.masslegalservices.org/DTA-COVID-19) has information on expanded SNAP benefits, and a helpful guide for other [COVID-19 related assistance in MA](https://www.masslegalservices.org/covid-19).
+- [Child Nutrition Outreach Program](https://meals4kids.org/summer) has details and maps of school districts providing school meals during the shutdown. 
+- [Mass DTAConnect SNAP](https://dtaconnect.eohhs.mass.gov/) allows you to apply for SNAP benefits if eligible.
+
 ## Hyper-Local Volunteers: Arlington Helps Pods
 
 The [Arlington Helps volunteer group](https://www.arlingtonhelps.org/) is helping many neighborhoods setup "[Pods](https://www.arlingtonhelps.org/pods)", or local volunteer communities centered around a few blocks or streets.  See what [volunteer pods are available](/pods/) so far to reach out to.
