@@ -14,9 +14,9 @@ layout: single
       <div class="techperson">
         <div class="techname">
           <h3>{{ itm.name }}</h3>
-          <br/><strong>Contact:</strong> <i class="fa fa-envelope-open-text"></i> <a href="mailto:{{ itm.email }}?Subject=[BuyMasks] Mask purchase request">{{ itm.email }}</a>
+          <br/><strong>Contact:</strong> <i class="fa fa-envelope-open-text"></i> <a href="javascript:obMail('{{ itm.email }}','Interested in purchasing masks...') " class="btn btn--primary">EMail Maskmaker</a>
         </div>
-        {% if itm.photo %}<div class="techphoto"><img src="{{ itm.photo }}" alt="Photo of mask design"></div>{% endif %}
+        {% if itm.photo %}<div class="maskphoto"><img src="{{ itm.photo }}" alt="Photo of mask design"></div>{% endif %}
       </div>
     </p>
     <div class="techareas">
@@ -32,3 +32,4 @@ layout: single
   </div>
 {% endfor %}
 </div>
+<script src="/assets/js/obmail.js"></script>
