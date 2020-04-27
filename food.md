@@ -15,8 +15,6 @@ Reminder: [Wash your hands, don't worry too much about sanitizing groceries](htt
 ## Where To Order Groceries And Food
 
 - [MA State guide and map to local farms](https://www.mass.gov/service-details/covid-19-how-where-to-buy-local) offering delivery or pickup.
-- **Local Dropoff Farm Share / CSA**
-  - **New!** [Farmer Dave's offers a 9 week CSA farm share](https://farmerdaves.csaware.com/store/csadetails.jsp) - Kristin Anderson has arranged a weekly drop-off of these shares on Fridays at 60 Lowell St, and the team is committed to keeping them sanitary. _Accepts EBT/SNAP payments for a full share! Call (978) 349-1952._
 - **Local Restaurants Doing Grocery Delivery**
   - [The Adventure Pub](https://theadventurepub.com/) now does delivery!
   - Want takeout instead? Check out the [Arlington Restaurant status here](/open).
@@ -24,7 +22,6 @@ Reminder: [Wash your hands, don't worry too much about sanitizing groceries](htt
   - [Ball Sq Fine Wines, Somerville](https://www.ballsquarefinewines.com/sku32076_Katsiroubas-Produce-Box-EACH) $35 produce box delivery or contactless pickup
 - **Local Shops / Farmstands** - now offering either delivery or contactless pickup
   - [D'agostino's (Arlington Heights)](https://www.facebook.com/dagostinosfoods/) _Delivery:_ Order via phone (781) 646-4949 for deli or any of their groceries and either delivery >$50 or cubside pickup.
-  - [Wilson Farm (Lexington, MA)](http://www.wilsonfarm.com/)  _Delivery:_ Order via Mercato for delivery or pickup. _Pickup:_ Go to flower counter to claim pickup orders. _Notes:_ **Currently Not Accepting Orders** 17-April
   - [Verrill Farm (Concord, MA)](https://verrillfarm.com/)  _Notes:_ Open for regular shopping.
   - [Russo's Market (Watertown, MA)](https://russos.com)  _Pickup:_ Curbside: Russo's boxes are placed in your trunk. _Notes:_ Closed for in-person shopping.
   - [Dave's Fresh Pasta (Somerville, MA)](https://davesfreshpasta.com/)  _Delivery:_ Delivery of basic groceries; $10 charge. _Pickup:_ Curbside pickup of phone orders.
@@ -32,7 +29,10 @@ Reminder: [Wash your hands, don't worry too much about sanitizing groceries](htt
   - [Iggy's Bakery (Cambridge, MA)](https://iggysdelivery.com)  _Delivery:_ Bakery items; no minimum; no delivery charge on $20+.
   - [Pemberton Farms (Cambridge, MA)](https://pembertonmarketplace.com)  _Delivery:_ Some delivery is offered through the marketplace. _Pickup:_ Normal in-person shopping.
   - [Formaggio Kitchen (Cambridge, MA)](https://www.formaggiokitchen.com/important-updates)  _Delivery:_ Delivery available; free over $100 orders. _Pickup:_ Curbside pickup of online orders.
+  - [Wilson Farm (Lexington, MA)](http://www.wilsonfarm.com/)  _Delivery:_ Order via Mercato for delivery or pickup. _Pickup:_ Go to flower counter to claim pickup orders. _Notes:_ **Currently Not Accepting Orders** 27-April
 - **Farms, Farm Coops, CSAs**
+  - [Farmer Dave's offers a 9 week CSA farm share](https://farmerdaves.csaware.com/store/csadetails.jsp) - Kristin Anderson has arranged a weekly drop-off of these shares on Fridays at 60 Lowell St, and the team is committed to keeping them sanitary. _Accepts EBT/SNAP payments for a full share! Call (978) 349-1952._
+  - [Wright-Locke Farm (Winchester, MA)](https://wlfarm.square.site/page-1) has weekly meal boxes of various sizes for weekends, including foods from Essex Catering, Mamadou's Artisan Bakery, Drew's Stews, Source Bakery, Red's Best Seafood, and OMG! Bakery.
   - [Mass Food Delivery (Massachusetts)](https://massfooddelivery.com)  _Delivery:_ Weekly farm shares delivered; $30 minimum and $10 charge.
   - [Red Fire Farm (Montague, MA)](https://www.redfirefarm.com)  _Delivery:_ Weekly farm shares delivered.
   - [Thatcher Farm (Milton, MA)](https://thatcherfarm.com/thatcher/home-delivery)  _Delivery:_ Weekly delivery service for dairy. bakery, some meats, and other items.
