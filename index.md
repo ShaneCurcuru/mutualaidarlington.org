@@ -8,24 +8,25 @@ sidebar:
 
 We're here to connect you with all the awesome volunteer groups run by your neighbors, key resources like what stores are open or delivering, and ideas for keeping families and kids active and happy!  See the Toggle Menu on the left for everything.
 
-# Resource Finder
+# Resource Finder /  Sitemap
 
 | [**Get Help**](/gethelp/) <i class="fa fa-bullhorn"></i> | [**Volunteer**](/volunteer/) <i class="fa fa-users"></i> | **Resources** <i class="fa fa-book-reader"></i> |
 | --- | --- | --- | 
 | [Get Help From Local Volunteers](/gethelp/) | [Volunteer To Help Neighbors](/volunteer) | [Instock Grocery Tracker](/instock/) |
-| [Get Tech Help](/techhelp/) | [Setup A Volunteer Pod](/pods) | [What Stores Are Open?](/open/) | 
-| [Neighboring Town Aid](/local/) | [Stay Active](/active/) / [Spread Cheer!](/cheer/) | [Parents Resources](/parents/) | 
+| [Get Tech Help](/techhelp/) | [Stay Active](/active/) / [Spread Cheer!](/cheer/) | [What's Open?](/open/) / [Ordering Food](/food/) | 
+| [Business Help](/business/) | [Mask How-To](/masks/) / [Buy A Mask](/buymasks/) | [Need Books?](/books/) | 
+| [Help outside Arlington](/local/) | [Setup A Volunteer Pod](/pods) | [Parents Resources](/parents/) | 
 
 ## Town Alerts <span style="color: #ffcc00"><i class="fa fa-exclamation-triangle"></i></span>
 
 - Take the [Amazing Arlington Community Needs Survey](https://docs.google.com/forms/d/e/1FAIpQLSc7WCfA2xb3jQdgOVQDwLX99-6kQ1Mfolu1W3XJ9-iK5siovg/viewform) **NEW 31-March!** What issues are you facing in the age of Coronavirus? How are you volunteering? Let the [town know in this new survey](https://docs.google.com/forms/d/e/1FAIpQLSc7WCfA2xb3jQdgOVQDwLX99-6kQ1Mfolu1W3XJ9-iK5siovg/viewform).
 - Read [important Town updates](https://twitter.com/arlingtonmagov) every afternoon: [https://arlingtonma.gov/covid19](https://arlingtonma.gov/covid19), or [sign up for email alerts & updates](https://www.arlingtonma.gov/communications-center)
-- **Business Owners** should [fill out the town survey on coronavirus impacts](https://www.arlingtonma.gov/departments/planning-community-development/economic-development/covid-19-resources)
+- **Business Owners** we [list resources for businesses](/business/)
 - Help [collect PFE/Masks for Town first responders](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-faqs-and-prevention-tips/help-locally)
 - **Town Election now June 6th** [Town elections officially postponed](https://www.arlingtonma.gov/Home/Components/News/News/10088/16?backlist=%2f), and Town Meeting will also be posponed (date TBD)
 - Robbins library posted an [amazing list of online resources for you](https://robbinslibrary.wordpress.com/2020/03/18/robbins-instructional-guides-are-now-online/)
 
-## Arlington Helps On Facebook <i class="fab fa-facebook"></i>
+## Arlington Helps
 
 [Arlington Helps](https://www.arlingtonhelps.org) is an allied group of volunteers that provides many support services including [Neighborhood Pods](/pods/). There are several private [Facebook Groups with super-helpful Arlingtonians](https://menotomymatters.com/howto/covid-emergency/#resource-lists---where-to-get-help) too.
 
