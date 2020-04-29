@@ -3,8 +3,8 @@ title: Resources For Arlington Businesses
 description: How to keep your Arlington business working while sheltering at home.
 classes: wide
 header:
-  overlay_image: /assets/images/books.jpg
-  caption: "Photo: [**Ed Robertson / Unsplash**](https://unsplash.com/@eddrobertson)"
+  overlay_image: /assets/images/business.jpg
+  caption: "Photo: [**Christiann Koepke / Unsplash**](https://unsplash.com/@christiannkoepke)"
 ---
 
 Run a small business and trying to figure out how to make it work here in Arlington?  There are some resources out there, and the town has several programs designed to help.  
@@ -30,7 +30,6 @@ Besides all the obvious ways to market to people staying home, there are several
   - [Vibrant Arlington](https://www.facebook.com/groups/2149484068477792/) runs local ads for local businesses, sharing your photos and ads each day _(by Stephanie Ford-Weems))
   - [Support Arlington Heights](https://www.facebook.com/groups/supportarlheights/) works to support the Heights business district, including events and planning for a vibrant shopping district. _(private group)_
   - [Arlington MA Small Business Group](https://www.facebook.com/groups/ArlingtonSmallBusiness/) is here to help make connections and promote small local businesses. _(public group)_
-
 
 ## Got More Ideas?
 
