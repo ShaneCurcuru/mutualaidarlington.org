@@ -7,7 +7,7 @@ sidebar:
   nav: adminnav
 ---
 
-Key technical tips on organizing tools to use for volunteering in your local community.  We also have resources on the non-technical side: [finding volunteers and organizing the human side of the work](/local).
+Key technical tips on organizing tools to use for volunteering in your local community.  We also have resources on the non-technical side: [finding volunteers and organizing the human side of the work](/local).  Read on for some organizational and [technical tips](#key-technical-tips).
 
 ## What Are Your Site's Goals?
 
@@ -47,6 +47,29 @@ There are plenty of guides for using [open source](https://opensource.org/licens
 
 Applying a license to your site is as simple as putting a license declaration in the footer of your webpages.
 
+## Key Technical Tips
+
+A growing collection of simple ways to make any online work more efficient.
+
+### Google Docs: Use Preview!
+
+Share Google Docs with your **core team** as usual; i.e. for people involved and who are likely to edit, use the standard `Share` button with whatever permissions - view, comment, edit - you want to give out.
+
+When sharing **publicly**, or as a **landing page**, share the /preview link instead!  The end user experience will be much better and faster overall.  It's simple: copy the URL from your Share button, and then edit the URL to swap out any /edit... portion with a /preview instead.  Then paste that URL in public.  For example, instead of using this URL:
+
+> https://docs.google.com/spreadsheets/d/1M9Y46lhZSVIRyE1Qh74Tj5uu91VKs5nhFCUudnFOqOg/edit#gid=776187552
+
+Edit the URL and change the `/edit#` stuff (whatever it is) to be just `/preview`
+
+> https://docs.google.com/spreadsheets/d/1M9Y46lhZSVIRyE1Qh74Tj5uu91VKs5nhFCUudnFOqOg/preview
+
+Go ahead and try those two URLs to see how the end user experience changes.  Remember: if you want the general public to add comments or edits, consider having a message in the sheet say "Please email us at X with your updates" - that allows you to take in changes, but also check them first.
+
+### GMail - Don't Share Passwords, Delegate
+
+Many groups use GMail as their official contact email.  You may be tempted to share the password for that email: **don't**.  Use [GMail's delegation feature](https://support.google.com/mail/answer/138350?hl=en) instead.  That way other team members can read and reply to your contact email, but you won't need to coordinate passwords or the like.
+
+Importantly, some groups sharing passwords have faced security problems when different volunteers are logging in to the account.  Gmail's security software eventually sees people logging in from different locations and may assume you're being hacked.  [Delegating email access](https://support.google.com/mail/answer/138350?hl=en) to other core volunteers won't trip security features.  It also makes a password compromise of your main contact email less likely.
 
 ## Using GitHub Pages
 
