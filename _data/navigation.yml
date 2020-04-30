@@ -40,18 +40,22 @@ defnav:
     children: &resourcenav
       - title: "Need books?"
         url: /books/
+      - title: "Libraries Online"
+        url: /libraries/
+      - title: "Ordering Groceries"
+        url: /food/
       - title: "What's Open/Closed"
         url: /open/
       - title: "What's In Stock"
         url: /instock/
-      - title: "Ordering Groceries"
-        url: /food/
       - title: "Business Help"
         url: /business/
       - title: "Stay Active"
         url: /active/
       - title: "All About Masks"
         url: /masks/
+      - title: "Buy Masks!"
+        url: /buymasks/
       - title: "More Resources"
         url: /tools/
       - title: "Meet The Admins"
@@ -64,6 +68,8 @@ adminnav:
         url: /admin/
       - title: "Site Setup Notes"
         url: /setup/
+      - title: "Chat Service"
+        url: /setup/maps/
       - title: "Notes On Mapping"
         url: /setup/maps/
       - title: "Missing Link"

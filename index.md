@@ -14,7 +14,7 @@ We're here to connect you with all the awesome volunteer groups run by your neig
 | --- | --- | --- | 
 | [Get Help From Local Volunteers](/gethelp/) | [Volunteer To Help Neighbors](/volunteer) | [Instock Grocery Tracker](/instock/) |
 | [Get Tech Help](/techhelp/) | [Stay Active](/active/) / [Spread Cheer!](/cheer/) | [What's Open?](/open/) / [Ordering Food](/food/) | 
-| [Business Help](/business/) | [Mask How-To](/masks/) / [Buy A Mask](/buymasks/) | [Need Books?](/books/) | 
+| [Business Help](/business/) | [Mask How-To](/masks/) / [Buy A Mask](/buymasks/) | [Need Books?](/books/) [Libraries!](/libraries/) | 
 | [Help outside Arlington](/local/) | [Setup A Volunteer Pod](/pods) | [Parents Resources](/parents/) | 
 
 ## Town Alerts <span style="color: #ffcc00"><i class="fa fa-exclamation-triangle"></i></span>
