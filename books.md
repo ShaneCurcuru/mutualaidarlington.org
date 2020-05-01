@@ -9,6 +9,8 @@ header:
 
 Have you finished reading everything on your bookshelf?  Started reading ingredient lists while waiting for [your library Overdrive book](/parents/#library-programs-online) to come in?  Tired of waiting for Amazon to actually ship anything non-essential?  Check out these bookstores still selling.
 
+[**Save Indie Bookstores!**](https://www.saveindiebookstores.com/?utm_source=Weekly+Harvard+Book+Store+Newsletter+%7C+News+and+Events&utm_campaign=0515f4f8c6-050120) If you're avoiding Amazon and other big stores on May 1st, it's also the perfect time to [donate to help independent booksellers](https://www.saveindiebookstores.com/?utm_source=Weekly+Harvard+Book+Store+Newsletter+%7C+News+and+Events&utm_campaign=0515f4f8c6-050120) this week!
+
 ## Local Bookstores Still Selling
 
 Most independent booksellers are now use [Bookshop.org](http://bookshop.org/) to fullfill their orders.  Bookshop.org then shares a profit percentage with the local store - a key way to support your independent bookshop during stay-at-home orders!  
