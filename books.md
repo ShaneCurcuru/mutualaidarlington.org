@@ -20,6 +20,7 @@ Most independent booksellers are now use [Bookshop.org](http://bookshop.org/) to
 - [Book Ends](https://bookendswinchester.indielite.org/) in Winchester center only has a [Bookshop.org portal](https://bookshop.org/shop/bookendswinchester)
 - [Porter Square Books](https://www.portersquarebooks.com/porter-square-books-and-covid-19) is taking some shipping orders, with a delay
 - [Harvard Book Store](http://www.harvard.com/updates_on_covid-19) is only using their [Bookshop.org portal](https://bookshop.org/shop/harvardbookstore)
+- [More Than Words](https://mtwyouth.org) is selling online, and all proceeds go to their youth work initiatives - they're also still accepting book donations at their Waltham location.
 
 ## Used Bookstores Worth Buying From
 
