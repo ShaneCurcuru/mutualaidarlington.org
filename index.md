@@ -17,6 +17,19 @@ We're here to connect you with all the awesome volunteer groups run by your neig
 | [Business Help](/business/) | [Mask How-To](/masks/) / [Buy A Mask](/buymasks/) | [Need Books?](/books/) [Libraries!](/libraries/) | 
 | [Help outside Arlington](/local/) | [Setup A Volunteer Pod](/pods) | [Parents Resources](/parents/) | 
 
+## Arlington Helps
+
+<div class="pullrightbox notice--info">
+  <noscript>Live chat requires Javascript to work.</noscript>
+  Got questions? Chat here!
+  <div class="needs-js">chat loading...</div>
+</div>
+
+
+[Arlington Helps](https://www.arlingtonhelps.org) is an allied group of volunteers that provides many support services including [Neighborhood Pods](/pods/). There are several private [Facebook Groups with super-helpful Arlingtonians](https://menotomymatters.com/howto/covid-emergency/#resource-lists---where-to-get-help) too.
+
+We've got a [full list of Arlington stores/restaurants open and hours](/open/) that are curated by the town and several volunteers.  For those without internet, there are many [discount programs to keep people connected](/telecom/).
+
 ## Town Alerts <span style="color: #ffcc00"><i class="fa fa-exclamation-triangle"></i></span>
 
 - Take the [Amazing Arlington Community Needs Survey](https://docs.google.com/forms/d/e/1FAIpQLSc7WCfA2xb3jQdgOVQDwLX99-6kQ1Mfolu1W3XJ9-iK5siovg/viewform) **NEW 31-March!** What issues are you facing in the age of Coronavirus? How are you volunteering? Let the [town know in this new survey](https://docs.google.com/forms/d/e/1FAIpQLSc7WCfA2xb3jQdgOVQDwLX99-6kQ1Mfolu1W3XJ9-iK5siovg/viewform).
@@ -25,12 +38,6 @@ We're here to connect you with all the awesome volunteer groups run by your neig
 - Help [collect PFE/Masks for Town first responders](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-faqs-and-prevention-tips/help-locally)
 - **Town Election now June 6th** [Town elections officially postponed](https://www.arlingtonma.gov/Home/Components/News/News/10088/16?backlist=%2f), and Town Meeting will also be posponed (date TBD)
 - Robbins library posted an [amazing list of online resources for you](https://robbinslibrary.wordpress.com/2020/03/18/robbins-instructional-guides-are-now-online/)
-
-## Arlington Helps
-
-[Arlington Helps](https://www.arlingtonhelps.org) is an allied group of volunteers that provides many support services including [Neighborhood Pods](/pods/). There are several private [Facebook Groups with super-helpful Arlingtonians](https://menotomymatters.com/howto/covid-emergency/#resource-lists---where-to-get-help) too.
-
-We've got a [full list of Arlington stores/restaurants open and hours](/open/) that are curated by the town and several volunteers.  For those without internet, there are many [discount programs to keep people connected](/telecom/).
 
 ## Official Government Sites <i class="fa fa-flag-usa"></i>
 
@@ -46,8 +53,6 @@ We've got a [full list of Arlington stores/restaurants open and hours](/open/) t
   - [CDC COVID-19 Home Page](https://www.cdc.gov/coronavirus/2019-ncov/index.html), regularly updated
   - [Printable CDC Fact Sheets, including in Spanish and Chinese](https://www.cdc.gov/coronavirus/2019-ncov/communication/factsheets.html).
 
-
-
 ## Reputable Science Resources <i class="fa fa-microscope"></i>
 
 - [COVID19 Tracker](https://covidtracking.com/) - best overall US dashboard of case numbers with strong research
@@ -61,16 +66,25 @@ We've got a [full list of Arlington stores/restaurants open and hours](/open/) t
 - [New York Times coverage on COVID-19](https://www.nytimes.com/news-event/coronavirus) is now **free for all** (not paywalled).
 - [Johns Hopkins data visualizations and maps](https://systems.jhu.edu/research/public-health/ncov/) about the spread of COVID-19 
 
-### Need Your Help <i class="fa fa-exclamation"></i>
+## Need Your Help <i class="fa fa-exclamation"></i>
 
 I'm [actively looking for collaborators](/tech#volunteer-to-help) to help turn this site into a master jump-off point to better publicise the many different volunteer groups and efforts in Arlington.  Email me or [see the CONTRIBUTING guide](https://github.com/ShaneCurcuru/mutualaidarlington.org/blob/master/CONTRIBUTING.md).  I'm also happy to add links to any organized volutneer groups in town, as well as supporting both the Amazing Arlington campaign the town is running, as well as the [Arlington Helps volunteers](https://www.arlingtonhelps.org/)!
 
-## Credits
+### Credits
 
 Arlington has a number of great volunteer groups that have been self-organizing individual lists - of people able to drive, where to get supplies, or the like - so many thanks to those volunteering.  But we need a way to coordinate between them all.  This site takes inspiration from one just a town over from us, the [Mutual Aid Medford And Somerville Network](https://mutualaidmamas.com/).  Thanks to them for coming up with a structure and for suggestions on how to duplicate their framework!
 
-## Looking For Another Arlington?
+### Looking For Another Arlington?
 
 This site is for Arlington, MA - if you have a similar site for any other Arlingtons out there, let us know and we'll link to you too!
 
 [Arlington, VA](https://health.arlingtonva.us/covid-19-coronavirus-updates/) | [Arlington, TX](https://www.arlingtontx.gov/coronavirus) | [Arlington Heights, IL](https://www.vah.com/our_community/WhatsNew/coronavirus) | [Upper Arlington, OH](https://upperarlingtonoh.gov/coronavirus-awareness-preparedness/)
+
+<!-- Place this script as near to the end of your BODY as possible. see /admin/chatsetup.md for details -->
+<script type="text/javascript">
+  (function() {
+    var x = document.createElement("script"); x.type = "text/javascript"; x.async = true;
+    x.src = (document.location.protocol === "https:" ? "https://" : "http://") + "libraryh3lp.com/js/libraryh3lp.js?15091";
+    var y = document.getElementsByTagName("script")[0]; y.parentNode.insertBefore(x, y);
+  })();
+</script>

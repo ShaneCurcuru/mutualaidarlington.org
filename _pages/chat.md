@@ -14,7 +14,7 @@ Ask a Librarian can't help deliver groceries or find TP in stock, but they proba
 
 ## Ask A Librarian
 
-If you've got questions for a librarian, but can't get to Robbins or Fox libraries these days, then try asking a volunteer librarian here!
+If you've got questions for a librarian, but can't get to Robbins or Fox libraries these days, then try asking a volunteer librarian or researcher in the chat below!
 
 <div class="libraryh3lp" style="" data-lh3-jid="mutualaidarlington@chat.libraryh3lp.com">
   <iframe src="https://libraryh3lp.com/chat/mutualaidarlington@chat.libraryh3lp.com?skin=31832" frameborder="1" style="width: 450px; height: 300px; border: 3px solid #717D7E;"></iframe>
@@ -23,7 +23,4 @@ If you've got questions for a librarian, but can't get to Robbins or Fox librari
 
 ## Reminder: All Chats Are Logged
 
-The Ask A Librarian chat is staffed by professional librarians volunteering their time from around the US, not by local Arlington, MA librarians or volunteers.  They may have their own data privacy policy, and their chat tool above may log IP addresses and may save chats for their own internal work. 
-
-
-**Thank your local librarians too!**
+The Ask A Librarian chat is staffed by librarians or researchers volunteering their time from around the US, not by local Arlington, MA volunteers.  They may have their own data privacy policy, and their chat tool above may log IP addresses and may save chats for their own internal work. 
