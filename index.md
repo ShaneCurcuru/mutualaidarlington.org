@@ -20,9 +20,17 @@ We're here to connect you with all the awesome volunteer groups run by your neig
 ## Arlington Helps
 
 <div class="pullrightbox notice--info">
-  <noscript>Live chat requires Javascript to work.</noscript>
-  Got questions? Chat here!
-  <div class="needs-js">chat loading...</div>
+  <div class="needs-js">Sorry, chat requires JavaScript.</div>
+  <div class="libraryh3lp" jid="mutualaidarlington@chat.libraryh3lp.com" style="display: none;">
+    <a href="#"
+    onclick="window.open('https://libraryh3lp.com/chat/mutualaidarlington@chat.libraryh3lp.com?skin=31832',
+    'chat', 'resizable=1,width=275,height=300'); return false;">
+      Click to chat!
+    </a>
+  </div>
+  <div class="libraryh3lp" style="display: none;">
+    Sorry! Our volunteer chat monitors are offline; <a href="mailto:MutualAidArlington@gmail.com?Subject=[MAA] Chat Index Question">email the site admin</a> instead.
+  </div>
 </div>
 
 

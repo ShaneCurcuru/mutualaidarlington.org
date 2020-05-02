@@ -54,16 +54,23 @@ There are three ways to add chat to your site, _after_ the librarians have setup
 
 Note: I've found Jenny and the volunteers here very responsive, so they will try to customize things to work with your site if they can - just ask!
 
-## Sample Embed
+## Sample Embed With Offline Email
 
 <div class="pullrightbox notice--info">
-  <noscript>Live chat requires Javascript to work.</noscript>
-  Got questions? Chat here!
-  <div class="needs-js">chat loading...</div><!-- Place this div in your web page where you want your chat widget to appear. -->
+  <div class="needs-js">Sorry, chat requires JavaScript.</div>
+  <div class="libraryh3lp" jid="mutualaidarlington@chat.libraryh3lp.com" style="display: none;">
+    <a href="#"
+    onclick="window.open('https://libraryh3lp.com/chat/mutualaidarlington@chat.libraryh3lp.com?skin=31832',
+    'chat', 'resizable=1,width=275,height=300'); return false;">
+      Click to chat!
+    </a>
+  </div>
+  <div class="libraryh3lp" style="display: none;">
+    Sorry! Our volunteer chat monitors are offline; <a href="mailto:MutualAidArlington@gmail.com?Subject=[MAA] Chat Question">email the site admin</a> instead.
+  </div>
 </div>
 
 This is a sample embedded chat bubble that opens a pop-out chat box which works on desktop or mobile.  Be sure to check the script element below for how the our queue is loaded, and the ?query string that determines some skin settings.
-
 
 <!-- Place this script as near to the end of your BODY as possible. -->
 <script type="text/javascript">
