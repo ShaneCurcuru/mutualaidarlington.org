@@ -20,6 +20,9 @@ Reminder: [Wash your hands, don't worry too much about sanitizing groceries](htt
   - Want takeout instead? Check out the [Arlington Restaurant status here](/open).
   - [Dark Horse Pub, Somerville](http://thedarkhorsepub.com/produce-boxes-20-share/) $20 produce box delivery
   - [Ball Sq Fine Wines, Somerville](https://www.ballsquarefinewines.com/sku32076_Katsiroubas-Produce-Box-EACH) $35 produce box delivery or contactless pickup
+
+{% include chatbox.html %}
+
 - **Local Shops / Farmstands** - now offering either delivery or contactless pickup
   - [D'agostino's (Arlington Heights)](https://www.facebook.com/dagostinosfoods/) _Delivery:_ Order via phone (781) 646-4949 for deli or any of their groceries and either delivery >$50 or cubside pickup.
   - [Verrill Farm (Concord, MA)](https://verrillfarm.com/)  _Notes:_ Open for regular shopping.
@@ -60,3 +63,5 @@ Reminder: [Wash your hands, don't worry too much about sanitizing groceries](htt
 [Email us your suggestions](mailto:MutualAidArlington@gmail.com?Subject=[MAA] Food Suggestion) - we update this site frequently!
 
 > **Yum, yum, what's for dinner!** <span style="color: #006600"><i class="fa fa-utensils"></i></span>
+
+{% include chatjs.html %}

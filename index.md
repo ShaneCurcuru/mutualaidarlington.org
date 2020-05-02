@@ -19,20 +19,7 @@ We're here to connect you with all the awesome volunteer groups run by your neig
 
 ## Arlington Helps
 
-<div class="pullrightbox notice--info">
-  <div class="needs-js">Sorry, chat requires JavaScript.</div>
-  <div class="libraryh3lp" jid="mutualaidarlington@chat.libraryh3lp.com" style="display: none;">
-    <a href="#"
-    onclick="window.open('https://libraryh3lp.com/chat/mutualaidarlington@chat.libraryh3lp.com?skin=31832',
-    'chat', 'resizable=1,width=275,height=300'); return false;">
-      Click to chat!
-    </a>
-  </div>
-  <div class="libraryh3lp" style="display: none;">
-    Sorry! Our volunteer chat monitors are offline; <a href="mailto:MutualAidArlington@gmail.com?Subject=[MAA] Chat Index Question">email the site admin</a> instead.
-  </div>
-</div>
-
+{% include chatbox.html %}
 
 [Arlington Helps](https://www.arlingtonhelps.org) is an allied group of volunteers that provides many support services including [Neighborhood Pods](/pods/). There are several private [Facebook Groups with super-helpful Arlingtonians](https://menotomymatters.com/howto/covid-emergency/#resource-lists---where-to-get-help) too.
 
@@ -88,11 +75,4 @@ This site is for Arlington, MA - if you have a similar site for any other Arling
 
 [Arlington, VA](https://health.arlingtonva.us/covid-19-coronavirus-updates/) | [Arlington, TX](https://www.arlingtontx.gov/coronavirus) | [Arlington Heights, IL](https://www.vah.com/our_community/WhatsNew/coronavirus) | [Upper Arlington, OH](https://upperarlingtonoh.gov/coronavirus-awareness-preparedness/)
 
-<!-- Place this script as near to the end of your BODY as possible. see /admin/chatsetup.md for details -->
-<script type="text/javascript">
-  (function() {
-    var x = document.createElement("script"); x.type = "text/javascript"; x.async = true;
-    x.src = (document.location.protocol === "https:" ? "https://" : "http://") + "libraryh3lp.com/js/libraryh3lp.js?15091";
-    var y = document.getElementsByTagName("script")[0]; y.parentNode.insertBefore(x, y);
-  })();
-</script>
+{% include chatjs.html %}

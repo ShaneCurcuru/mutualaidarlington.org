@@ -9,6 +9,8 @@ header:
 
 Now that many local towns require masks, and the [CDC recommends wearing cloth masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html) when going out, we're all wondering where to get one for ourselves, or where to donate extra masks or Personal Protective Equipment (PPE) to those who need them.
 
+{% include chatbox.html %}
+
 _Need a mask for home use?_ See the [list of local Arlingtonians sewing cloth masks for sale](/buymasks/) to neighbors! 
 
 ## Donate Masks Or PPE
@@ -53,3 +55,5 @@ Arlington town government has issued a “[Wear A Face Covering in Public" Advis
 [Email us your suggestions](mailto:MutualAidArlington@gmail.com?Subject=[MAA] Masks Suggestion) - we update this site frequently!
 
 > **Save N95 masks for the hospitals!** <span style="color: #00ccff"><i class="fa fa-head-side-mask"></i></span>
+
+{% include chatjs.html %}
