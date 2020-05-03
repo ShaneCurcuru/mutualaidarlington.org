@@ -22,7 +22,7 @@ Don't have a library card, or lost yours?  [Register for a new Minuteman library
  
 - [MLN or MINLIB - Minuteman Library Network](https://www.minlib.net/) - the regional network of libraries, allowing you to use your library card across Massachusetts (well, now across all their online services)
 - [Overdrive](https://minuteman.overdrive.com/) lets you "check out" books from your library network on your ereader, smartphone, or laptop.
-- [Libby](https://www.overdrive.com/apps/libby/?utm_origin=lightning&utm_page_genre=tout&utm_list=meet_libby&utm_content=libby_tout_learnmore_06019018) is a newer app version of Overdrive that many people like, especially on iPhone/Android devices.
+- [Libby](https://www.overdrive.com/apps/libby/?utm_origin=lightning&utm_page_genre=tout&utm_list=meet_libby&utm_content=libby_tout_learnmore_06019018) is a newer app version of Overdrive that many people like, especially on iPhone/Android devices.  [David Coletta of the Arlington List has Libby tips](https://medium.com/@davidcoletta/how-to-sign-into-an-lea-partner-library-with-your-minuteman-library-network-card-5a07a0a1214?sk=931ac4c9a236069cf1cea1b43a6d9790).
 - [Hoopla](https://www.hoopladigital.com/) works as an app or in your browser, and lets you stream movies and ebooks with your library card.
 - [Kanopy](https://robbinslibrary.kanopy.com/) is a free streaming service for movies - documentaries, award winners, and foriegn or cult films.
 - **NEW** [Acorn TV](https://robbinslibrary.wordpress.com/2020/04/15/introducing-acorn-tv/) allows you to stream selected Britsh shows and movies with your card.

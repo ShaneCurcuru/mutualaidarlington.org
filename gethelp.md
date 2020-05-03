@@ -11,6 +11,7 @@ Here's a list of all the groups offering volunteer help of various kinds for eve
 <a name="food"></a>
 ## Arlington Groups Offering Help
 
+- **NEW!** **Food** Arlington schools now offer [free weekly delivery of breakfast/lunch to any student](https://docs.google.com/document/d/1N-II-XOUuP5rHPEyhJ-MplPD3QDSIbiirG2TAtpZMtI/preview), dropped off on Wednesdays at home.  Contact schoollunch@arlington.k12.ma.us for details.  Available for _all_ Arlington students.
 - **Everything** [**Arlington Helps**](https://www.arlingtonhelps.org/) - [Anonymously request help](https://www.arlingtonhelps.org/need-help) like shopping, supplies, or checkins.  *contact:* [https://www.facebook.com/groups/201015774573867/](https://www.facebook.com/groups/201015774573867/) 
 - **Food** [Arlington EATS](https://www.arlingtoneats.org/) - Need food? They have weekly market, emergency, senior, and school vacation lunch programs. (Website) *contact:* [https://www.arlingtoneats.org/help/contact-us/](https://www.arlingtoneats.org/help/contact-us/)
 - **Food** [Food Link MA](https://www.foodlinkma.org/) - FoodLink MA provides hotline and coordination with local food pantries. (Website) *contact:* [info@foodlinkma.org](info@foodlinkma.org)
