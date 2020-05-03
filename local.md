@@ -9,6 +9,10 @@ header:
 
 Most towns around Arlington also have Mutual Aid groups - self-organizing, indpendent volunteers helping neighbors out, either on a town/city-wide scale, or just a few blocks.  Here's a listing of all groups in neighboring towns, plus more resources for organizing yourself.
 
+## Legal Resources
+
+Got questions about evictions, rent, worker's rights, or the like?  Check out the [Mass Attorney General's page](https://www.mass.gov/orgs/office-of-attorney-general-maura-healey), which has links to state law, legal help, and many legal updates due to Coronavirus shutdowns. 
+
 ## Nearby Mutual Aid Groups
 
 - **Belmont** Mass Helps Out [intake form for needs/volunteers](https://docs.google.com/forms/d/1itDu3CTo-ERvEp7jcurB0kWn8ZsBbcO8tHUss_9Ryq0/viewform?ts=5e6ae392&edit_requested=true), and [volunteer coordination team](https://docs.google.com/document/d/1djeFj6JnJ_aId3rdoeZJqWxzv1bv2G3r2J6cq3iCTxg/edit).  See also: [Official Belmont Town Government Updates](https://www.belmont-ma.gov/home/urgent-alerts/covid-19-information-for-the-town-of-belmont-find-all-updates-here)
