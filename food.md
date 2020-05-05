@@ -32,9 +32,10 @@ Reminder: [Wash your hands, don't worry too much about sanitizing groceries](htt
   - [Iggy's Bakery (Cambridge, MA)](https://iggysdelivery.com)  _Delivery:_ Bakery items; no minimum; no delivery charge on $20+.
   - [Pemberton Farms (Cambridge, MA)](https://pembertonmarketplace.com)  _Delivery:_ Some delivery is offered through the marketplace. _Pickup:_ Normal in-person shopping.
   - [Formaggio Kitchen (Cambridge, MA)](https://www.formaggiokitchen.com/important-updates)  _Delivery:_ Delivery available; free over $100 orders. _Pickup:_ Curbside pickup of online orders.
-  - [Wilson Farm (Lexington, MA)](http://www.wilsonfarm.com/)  _Delivery:_ Order via Mercato for delivery or pickup. _Pickup:_ Go to flower counter to claim pickup orders. _Notes:_ **Currently Not Accepting Orders** 27-April
+  - [Wilson Farm (Lexington, MA)](http://www.wilsonfarm.com/)  _Delivery:_ Order via Mercato for delivery or pickup. _Pickup:_ **NEW!** Pickups are now _behind_ the farm on the lower level - follow signs down the driveway past the floral shop around back. _Notes:_ Delivery or pickup times vary depending on the day; keep trying if no times are available.
 - **Farms, Farm Coops, CSAs**
   - A [master list of New England farms that deliver](https://farmsthataredelivering.com) to MA; be sure to check with individual websites for details.  A great way to support farmers directly!
+  - [Somerville Winter Farmer's Market](https://www.somwintermarket.org/) offers pre-order only for weekly pickups from a wide variety of vendors in their location.
   - [Farmer Dave's offers a 9 week CSA farm share](https://farmerdaves.csaware.com/store/csadetails.jsp) - Kristin Anderson has arranged a weekly drop-off of these shares on Fridays at 60 Lowell St, and the team is committed to keeping them sanitary. _Accepts EBT/SNAP payments for a full share! Call (978) 349-1952._
   - [Wright-Locke Farm (Winchester, MA)](https://wlfarm.square.site/page-1) has weekly meal boxes of various sizes for weekends, including foods from Essex Catering, Mamadou's Artisan Bakery, Drew's Stews, Source Bakery, Red's Best Seafood, and OMG! Bakery.
   - [Mass Food Delivery (Massachusetts)](https://massfooddelivery.com)  _Delivery:_ Weekly farm shares delivered; $30 minimum and $10 charge.
@@ -48,11 +49,11 @@ Reminder: [Wash your hands, don't worry too much about sanitizing groceries](htt
   - [Buenas Empanadas (Somerville, MA)](https://www.buenas.co/fuckcorona)  _Delivery:_ Weekly delivery of empanadas.
   - [Jaju Pierogis (Somerville, MA)](http://www.jajupierogi.com/)  _Delivery:_ Occasional deliveries of “Polish comfort food” kits.
   - [Hooked Fish Shop (Somerville, MA)](https://eathooked.com/free-fresh-fish-delivery/)  _Delivery:_ Mid-week delivery of fish straight from the pier; no charge via EverGreen Delivery.
-  - [In Season Food Shop (Somerville, MA)](https://www.inseasonfoodshop.com)  _Pickup:_ Safe shopping by appointment only at Bow Street Markets.
+  - [In Season Food Shop (Somerville, MA)](https://www.inseasonfoodshop.com)  _Pickup:_ Safe shopping by appointment only at various stores at [Bow Street Markets](https://www.bowmarketsomerville.com/).
   - [Boston Smoked Fish (Boston, MA)](https://www.bostonsmokedfish.com/shop)  _Delivery:_ Smoked fish deliveries; no charge over $50.
 - **Wholesale Distributors** - now offering bulk ordering to non-restaurants
   - [Baldor Foods (Massachusetts)](https://www.baldorfood.com/)  _Delivery:_ Delivery of a wide variety of products, usually in large quantities, with $250 minimum.
-  - [New England Country Mart (Massachusetts)](ttps://newenglandcountrymart.com/)  _Delivery:_ Launching soon: home delivery packages from this wholesaler.
+  - [New England Country Mart (Massachusetts)](https://newenglandcountrymart.com/)  _Delivery:_ Launching soon: home delivery packages from this wholesaler.
   - [Imported Foods (Boston, MA)](https://shop.usepepper.com/pages/imported-foods) now delivers via the UsePepper app to Arlington.
   - [Produce Box Direct - Costa (Boston, MA)](https://produceboxdirect.com/collections/boston-massachusetts) offers $25 veggie or fruit boxes for pickup from Costa in Boston (Reports note they're pretty big boxes).
   - [Accardi Foods](https://www.accardifoods.com) now offers boxes and meal kits with a variety of Italian specialties, as well as some wholesale products to retail customers. 

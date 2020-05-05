@@ -26,6 +26,10 @@ Need *real* books *now*?  [See local bookstores offering delivery or pickup!](/b
 
 Please read our [complete guide to online library services](/libraries/), including language learning, e-books three ways, and streaming British TV, critically acclaimed movies, and more.
 
+## State School Gudiance
+
+The state has issued [guidance to school districts](http://www.doe.mass.edu/covid19/learn-at-home.html) for the remainder of the year.  There are [links to various educational resources](http://www.doe.mass.edu/covid19/learn-at-home.html) there as well.
+
 ## Got More Ideas?
 
 [Email us your suggestions](mailto:MutualAidArlington@gmail.com?Subject=[MAA] Parents Suggestion) - we update this site frequently!

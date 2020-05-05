@@ -6,7 +6,16 @@ header:
   caption: "Photo: [**Kelly Sikkema / Unsplash**](https://unsplash.com/@kellysikkema)"
 ---
 
-Here's a list of all the groups offering volunteer help of various kinds for everyone in Arlington.  Nearby towns have their own [mutual aid groups offering help](/local) or see the [list of stores/restaurants open in Arlington](/open/) and [what groceries are in stock](/instock/).
+Here's a list of all the groups offering volunteer help of various kinds for everyone in Arlington.  Nearby towns have their own [mutual aid groups offering help](/local/) or see the [list of stores/restaurants open in Arlington](/open/).
+
+## Key Town Resource Lists
+
+The town has collected several key resource lists with direct links to town or state programs or law changes in each of these key areas.
+
+- [Landlord/renter laws, affordable housing, and utilities bills assistance](https://www.arlingtonma.gov/departments/planning-community-development/affordable-housing-in-arlington/covid-19-resources-housing)
+- [Employment and Financial assistance](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information/employment-financial-assistance), including filing for unemployment, local grants, and Mass Hire jobs program
+- [Town programs for businesses and CARES act tips](https://www.arlingtonma.gov/departments/planning-community-development/economic-development/covid-19-resources), including advice for restaurants and performers
+- [Mental health and wellbeing resources](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information/mental-health-wellbeing) - a wide variety are available for all
 
 <a name="food"></a>
 ## Arlington Groups Offering Help
