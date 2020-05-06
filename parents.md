@@ -19,6 +19,8 @@ Are the kids getting bored or crazy stuck at home?  So are the neighbors - and w
 - Join the "Arlington Parents (Arlington, Massachusetts)" Facebook group (private, requires approval which comes within a day or so).
 - Scroll through this giant [Google Spreadsheet of Education companies offering free subscriptions during COVID](http://amazingeducationalresources.com/)
 
+Hundreds of [museum exhibitions are online now](https://artsandculture.google.com/partner) too - while many of the images and video tours may be more for adults, there are sure to be some for kids too!
+
 ## Library Programs Online
 
 Need *real* books *now*?  [See local bookstores offering delivery or pickup!](/books/).
