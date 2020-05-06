@@ -15,6 +15,8 @@ _Need a pro mask or want to volunteer to sew?_ See our [overall mask and PPE gui
 
 _Are you sewing masks locally for sale?_  [Get listed here with this signup form](https://forms.gle/ADXukbsJRNXvr3Ps5)!
 
+{% include chatbox.html %}
+
 ## Cloth Masks Available For Sale Locally
 
 All volunteer sewers are making masks in Arlington or immediately surrounding neighborhoods, so pickup/dropoff is easy.  All prices and sales are strictly up to mask-makers.  Remember: these folks are your neighbors, doing this in their spare time, so please be patient if you contact them!
