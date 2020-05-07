@@ -7,18 +7,17 @@ header:
   caption: "Photo: [**Allie Smith / Unsplash**](https://unsplash.com/)"
 ---
 
-With many stores holding "at-risk" or senior-only shopping hours, it's hard to know what's open when - there are town and volunteer resources to help.  If you're tired of traditional stores, see the [list of farmstands and wholesale distributors that now sell retail](/food/).  Also: let neighbors know what shopping was like with our new [In Stock in local stores map](/instock)!
+With many stores holding "at-risk" or senior-only shopping hours, it's hard to know what's open when - there are town and volunteer resources to help.  If you're tired of traditional stores, see the [list of farmstands and wholesale distributors that now sell retail](/food/).  Also: let neighbors know what shopping was like with our new [In Stock in local stores map](/instock/)!
 
 ## Arlington Business Open / Closed Listings
 
-Reminder: [Wash your hands, don't worry too much about sanitizing groceries](https://www.npr.org/sections/health-shots/2020/04/12/832269202/no-you-dont-need-to-disinfect-your-groceries-but-here-s-to-shop-safely).
-{: .pullrightbox .notice--info }
+{% include chatbox.html %}
 
 There are three actively managed listings of businesses open in town!
 
+- Hungry?  Gary Goldsmith's [Arlington **Restaurant Status**](https://bit.ly/ArlingtonRestaurantStatus) lists where you can still get takeout or delivery. [_(featured in Your Arlington)_](https://www.yourarlington.com/easyblog/entry/19-biz/2736-takeout-032620.html)
 - The town's [Arlington Open Businesses](https://docs.google.com/spreadsheets/d/1o9EW1jBsm95ucDC2cCcpRVLtMPJVUbrJEg5fTyYrqwQ/) list comes directly from local businesses and includes operating hours, contact info, and delivery/curbside pickup availability. [_(More business owner resources)_](https://www.arlingtonma.gov/departments/planning-community-development/economic-development/covid-19-resources)
 - Patricia Harrigan Browne runs [Support Local Businesses](https://docs.google.com/spreadsheets/d/1H8XgJ5soHNKMIpXmyrfP3BHs0nHHx2Rb9IVxCRqIl9g/edit?fbclid=IwAR1d2LJ0RM7UBXgNRq74Vbueoxk3QbIMHSPOS5R4niP4LA9NAN21_RP-dvU) with a crowdsourced list of open Arlington stores. [_(featured in Your Arlington)_](https://www.yourarlington.com/easyblog/entry/19-biz/2730-helpbiz-031720.html).
-- Hungry?  Gary Goldsmith's [Arlington Restaurant Status](https://bit.ly/ArlingtonRestaurantStatus) lists where you can still get takeout or delivery. [_(featured in Your Arlington)_](https://www.yourarlington.com/easyblog/entry/19-biz/2736-takeout-032620.html)
 - Outside of Arlington, [MassLive has a large list of store changes due to COVID](https://www.masslive.com/coronavirus/2020/03/coronavirus-shutdowns-whats-open-whats-closed-in-massachusetts.html).
 
 ## At-Risk And Senior Only Shopping Hours
@@ -47,3 +46,5 @@ Many businesses, especially larger stores, have set aside specific hours in the 
 [Email us your suggestions](mailto:MutualAidArlington@gmail.com?Subject=[MAA] Open Suggestion) - we update this site frequently!
 
 > **Support Local Businesses - buy gift cards!** <span style="color: #339933"><i class="fa fa-credit-card"></i></span>
+
+{% include chatjs.html %}

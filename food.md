@@ -7,9 +7,9 @@ header:
   caption: "Photo: [**Jakub Kapusnak / Unsplash**](https://unsplash.com/@foodiesfeed)"
 ---
 
-For those uncomfortable or unable to shop at grocery stores in person, there are options out there beyond Amazon Fresh, Instacart, or Peapod.  Many restaurant wholesale distributors - and local farms! - are now offering retail delivery or pickup, sometimes even curbside trunk service.  If you need to pickup food **now**, check out the [In-Stock Grocery Trackers](/instock/).
+Need groceries but don't want to shop in person?  There are options out there beyond Amazon Fresh, Instacart, or Peapod.  Many restaurant wholesale distributors - and local farms! - are now offering retail delivery or pickup.  If you need food **now**, check out the [In-Stock Grocery Trackers](/instock/), or for takeout meals, see [Gary's Arlington Restaurant Status](/open/) list!
 
-Reminder: [Wash your hands, don't worry too much about sanitizing groceries](https://www.npr.org/sections/health-shots/2020/04/12/832269202/no-you-dont-need-to-disinfect-your-groceries-but-here-s-to-shop-safely).
+Worried about food security? [Neighbors want to help!](/gethelp/#food).
 {: .pullrightbox .notice--info }
 
 ## Where To Order Groceries And Food
