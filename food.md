@@ -9,7 +9,7 @@ header:
 
 Need groceries but don't want to shop in person?  There are options out there beyond Amazon Fresh, Instacart, or Peapod.  Many restaurant wholesale distributors - and local farms! - are now offering retail delivery or pickup.  If you need food **now**, check out the [In-Stock Grocery Trackers](/instock/), or for takeout meals, see [Gary's Arlington Restaurant Status](/open/) list!
 
-Worried about food security? [Neighbors want to help!](/gethelp/#food).
+Worried about food security? [Neighbors want to help!](/gethelp/#food)
 {: .pullrightbox .notice--info }
 
 ## Where To Order Groceries And Food
@@ -33,6 +33,9 @@ Worried about food security? [Neighbors want to help!](/gethelp/#food).
   - [Pemberton Farms (Cambridge, MA)](https://pembertonmarketplace.com)  _Delivery:_ Some delivery is offered through the marketplace. _Pickup:_ Normal in-person shopping.
   - [Formaggio Kitchen (Cambridge, MA)](https://www.formaggiokitchen.com/important-updates)  _Delivery:_ Delivery available; free over $100 orders. _Pickup:_ Curbside pickup of online orders.
   - [Wilson Farm (Lexington, MA)](http://www.wilsonfarm.com/)  _Delivery:_ Order via Mercato for delivery or pickup. _Pickup:_ **NEW!** Pickups are now _behind_ the farm on the lower level - follow signs down the driveway past the floral shop around back. _Notes:_ Delivery or pickup times vary depending on the day; keep trying if no times are available.
+
+{% include social.html %}
+
 - **Farms, Farm Coops, CSAs**
   - A [master list of New England farms that deliver](https://farmsthataredelivering.com) to MA; be sure to check with individual websites for details.  A great way to support farmers directly!
   - [Somerville Winter Farmer's Market](https://www.somwintermarket.org/) offers pre-order only for weekly pickups from a wide variety of vendors in their location.
