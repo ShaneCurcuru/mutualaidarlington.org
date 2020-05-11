@@ -6,6 +6,8 @@ header:
   caption: "Photo: [**Kelly Sikkema / Unsplash**](https://unsplash.com/@kellysikkema)"
 ---
 
+{% include chatbox.html %}
+
 Here's a list of all the groups offering volunteer help of various kinds for everyone in Arlington.  Nearby towns have their own [mutual aid groups offering help](/local/) or see the [list of stores/restaurants open in Arlington](/open/).
 
 ## Key Town Resource Lists
@@ -52,3 +54,5 @@ The [Arlington Helps volunteer group](https://www.arlingtonhelps.org/) is helpin
 [Email us your suggestions](mailto:MutualAidArlington@gmail.com?Subject=[MAA] Get help Suggestion) - we update this site frequently!
 
 > **Neighbors are here to help!** <span style="color: #ff0000"><i class="fa fa-heart"></i></span>
+
+{% include chatjs.html %}
