@@ -6,6 +6,8 @@ header:
   caption: "Photo: [**Kelly Sikkema / Unsplash**]"
 ---
 
+{% include chatbox.html %}
+
 Here's a soon-to-be comprehensive list of all the groups you can volunteer with to help of various kinds here in Arlington.  These are focused specifically on Arlington; there are also [mutual aid groups in neighboring towns](/local).
 
 ## Arlington Volunteer Groups Need You!
@@ -28,3 +30,5 @@ The [Arlington Helps volunteer group](https://www.arlingtonhelps.org/) is helpin
 [Email us your suggestions](mailto:MutualAidArlington@gmail.com?Subject=[MAA] Volunteer Suggestion) - we update this site frequently!
 
 > **Thanks for helping your neighbors!** <span style="color: #cc0000"><i class="fa fa-hands-helping"></i></span>
+
+{% include chatjs.html %}

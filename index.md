@@ -6,6 +6,8 @@ sidebar:
   nav: defnav
 ---
 
+{% include chatbox.html %}
+
 We're here to connect you with all the awesome volunteer groups run by your neighbors, key resources like what stores are open or delivering, and ideas for keeping families and kids active and happy!  See the Toggle Menu on the left for everything.
 
 # Resource Finder /  Sitemap
@@ -18,8 +20,6 @@ We're here to connect you with all the awesome volunteer groups run by your neig
 | [Help outside Arlington](/local/) | [Setup A Volunteer Pod](/pods) | [Parents Resources](/parents/) | 
 
 ## Arlington Helps
-
-{% include chatbox.html %}
 
 [Arlington Helps](https://www.arlingtonhelps.org) is an allied group of volunteers that provides many support services including [Neighborhood Pods](/pods/). There are several private [Facebook Groups with super-helpful Arlingtonians](https://menotomymatters.com/howto/covid-emergency/#resource-lists---where-to-get-help) too.
 
