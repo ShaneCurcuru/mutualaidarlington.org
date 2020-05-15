@@ -8,7 +8,7 @@ header:
 
 {% include chatbox.html %}
 
-Here's a list of all the groups offering volunteer help of various kinds for everyone in Arlington.  Nearby towns have their own [mutual aid groups offering help](/local/) or see the [list of stores/restaurants open in Arlington](/open/).
+Here's a list of all the groups offering volunteer help of various kinds for everyone in Arlington.  Nearby towns have their own [mutual aid groups offering help](/local/) or see the [list of stores/restaurants open in Arlington](/open/).  The town has now partnered with [AFC to offer COVID-19 testing to residents in some cases](https://www.yourarlington.com/arlington-archives/town-school/town-news/health/17114-testing-051420).
 
 ## Key Town Resource Lists
 

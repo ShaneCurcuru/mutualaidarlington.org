@@ -27,6 +27,7 @@ We've got a [full list of Arlington stores/restaurants open and hours](/open/) t
 
 ## Town Alerts <span style="color: #ffcc00"><i class="fa fa-exclamation-triangle"></i></span>
 
+- The town has now partnered with [AFC locally to offer COVID-19 testing to residents in some cases](https://www.yourarlington.com/arlington-archives/town-school/town-news/health/17114-testing-051420).
 - Take the [Amazing Arlington Community Needs Survey](https://docs.google.com/forms/d/e/1FAIpQLSc7WCfA2xb3jQdgOVQDwLX99-6kQ1Mfolu1W3XJ9-iK5siovg/viewform) **NEW 31-March!** What issues are you facing in the age of Coronavirus? How are you volunteering? Let the [town know in this new survey](https://docs.google.com/forms/d/e/1FAIpQLSc7WCfA2xb3jQdgOVQDwLX99-6kQ1Mfolu1W3XJ9-iK5siovg/viewform).
 - Read [important Town updates](https://twitter.com/arlingtonmagov) every afternoon: [https://arlingtonma.gov/covid19](https://arlingtonma.gov/covid19), or [sign up for email alerts & updates](https://www.arlingtonma.gov/communications-center)
 - **Business Owners** we [list resources for businesses](/business/)
