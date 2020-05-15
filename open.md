@@ -7,7 +7,7 @@ header:
   caption: "Photo: [**Allie Smith / Unsplash**](https://unsplash.com/)"
 ---
 
-With many stores holding "at-risk" or senior-only shopping hours, it's hard to know what's open when - there are town and volunteer resources to help.  If you're tired of traditional grocery stores, see the [list of farmstands and wholesale distributors that now sell retail](/food/).  Also: let neighbors know what shopping was like with our new [In Stock in local stores map](/instock/)!
+With many stores holding "at-risk" or senior-only shopping hours, it's hard to know what's open when - there are town and volunteer resources to help.  If you're tired of traditional grocery stores, see the [list of farmstands and wholesale distributors that now sell retail](/food/).  Also: let neighbors know what shopping was like with our new [In Stock in local stores map](/instock/)!  Staying close to home?  Play [Arlington Shop Local Bingo](https://www.arlingtonma.gov/Home/Components/News/News/10172/2651?backlist=/departments/planning-community-development) when you shop!
 
 ## Arlington Business Open / Closed Listings
 

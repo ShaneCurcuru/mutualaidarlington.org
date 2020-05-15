@@ -22,7 +22,7 @@ Worried about food security? [Neighbors want to help!](/gethelp/#food)
   - [Ball Sq Fine Wines, Somerville](https://www.ballsquarefinewines.com/sku32076_Katsiroubas-Produce-Box-EACH) $35 produce box delivery or contactless pickup
 
 {% include chatbox.html %}
-
+- Staying close to home?  Play [Arlington Shop Local Bingo](https://www.arlingtonma.gov/Home/Components/News/News/10172/2651?backlist=/departments/planning-community-development) when you shop!
 - **Local Shops / Farmstands** - now offering either delivery or contactless pickup
   - [D'agostino's (Arlington Heights)](https://www.facebook.com/dagostinosfoods/) _Delivery:_ Order via phone (781) 646-4949 for deli or any of their groceries and either delivery >$50 or cubside pickup.
   - [Verrill Farm (Concord, MA)](https://verrillfarm.com/)  _Notes:_ Open for regular shopping.
