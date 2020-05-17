@@ -19,8 +19,8 @@ If you need electronic gadgets or tools fixed, fixed you can sign up to have a v
 - Have a computer and internet connection that will support video teleconferencing?
 - Can you show and describe the problem / recreate the problem in under five minutes?
 - Can you have some rudimentary disassembly tools at the ready?
-- Can you fill out the [Broken Item Fixit Report](http://bit.ly/brokenitemreport) afterwards?
-- **If yes to all steps above** then [register for a Virtual Fixit Clinic](http://bit.ly/fixitcheckin) and a Fixit Coach will reach about scheduling you for an upcoming Virtual Fixit Clinic.
+- Can you fill out the [Broken Item Fixit Report](https://bit.ly/brokenitemreport) afterwards?
+- **If yes to all steps above** then [register for a Virtual Fixit Clinic](https://bit.ly/fixitcheckin) and a Fixit Coach will reach about scheduling you for an upcoming Virtual Fixit Clinic.
 
 ## Volunteer To Help
 

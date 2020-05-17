@@ -44,13 +44,13 @@ Worried about food security? [Neighbors want to help!](/gethelp/#food)
   - [Mass Food Delivery (Massachusetts)](https://massfooddelivery.com)  _Delivery:_ Weekly farm shares delivered; $30 minimum and $10 charge.
   - [Red Fire Farm (Montague, MA)](https://www.redfirefarm.com)  _Delivery:_ Weekly farm shares delivered.
   - [Thatcher Farm (Milton, MA)](https://thatcherfarm.com/thatcher/home-delivery)  _Delivery:_ Weekly delivery service for dairy. bakery, some meats, and other items.
-  - [Brookford Farm (Canterbury, NH)](http://www.brookfordfarm.com/online-ordering)  _Delivery:_ Tuesday weekly deliveries of dairy, organic veggies, and some meats; $75 minimum order.
+  - [Brookford Farm (Canterbury, NH)](https://www.brookfordfarm.com/online-ordering)  _Delivery:_ Tuesday weekly deliveries of dairy, organic veggies, and some meats; $75 minimum order.
 - **Specialty Shops**
   - [Stillman Quality Meats (Hardwick, MA)](https://www.stillmanqualitymeats.com/homedelivery)  _Delivery:_ Weekly deliveries of meat; $50 minimum, $12 delivery fee.
   - [Walden Local Meats (Western Mass)](https://waldenlocalmeat.com/faqs/)  _Delivery:_ Monthly CSA share of wide variety of meats.
   - [Neighborhood Produce (Somerville, MA)](https://www.nbrhoodproduce.com/)  _Pickup:_ Call for store pickup; 48 hour turnaround.
   - [Buenas Empanadas (Somerville, MA)](https://www.buenas.co/fuckcorona)  _Delivery:_ Weekly delivery of empanadas.
-  - [Jaju Pierogis (Somerville, MA)](http://www.jajupierogi.com/)  _Delivery:_ Occasional deliveries of “Polish comfort food” kits.
+  - [Jaju Pierogis (Somerville, MA)](https://www.jajupierogi.com/)  _Delivery:_ Occasional deliveries of “Polish comfort food” kits.
   - [Hooked Fish Shop (Somerville, MA)](https://eathooked.com/free-fresh-fish-delivery/)  _Delivery:_ Mid-week delivery of fish straight from the pier; no charge via EverGreen Delivery.
   - [In Season Food Shop (Somerville, MA)](https://www.inseasonfoodshop.com)  _Pickup:_ Safe shopping by appointment only at various stores at [Bow Street Markets](https://www.bowmarketsomerville.com/).
   - [Boston Smoked Fish (Boston, MA)](https://www.bostonsmokedfish.com/shop)  _Delivery:_ Smoked fish deliveries; no charge over $50.

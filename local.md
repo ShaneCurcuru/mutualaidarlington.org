@@ -29,7 +29,7 @@ Got questions about evictions, rent, worker's rights, or the like?  Check out th
 - [Allston / Brighton Mutual Aid](https://docs.google.com/document/d/1elvhLVePZdLRpTWgNKNYKYacu9wI__7ILMerXPUZjSg/edit?fbclid=IwAR3-SuJl0vthhJfsHhhwhqwE0GPVYak6gl1o6TwfZuZF6QhfkWk5DhxSAi4) (Google Doc)
 - [Charles River Mutual Aid](https://crmutualaid.com/) (includes BU) (website)
 - [Mutual Aid JP & Roxbury](https://bit.ly/jpmutualaid?fbclid=IwAR1sIc6mfwlXqohl61LcdSWZNTDjZoJFpYyC7WALIDX8u1yyBIPIbPdaV4o) (MAMAS style Google Docs)
-- [South Boston Mutual Aid](http://sbneighborhoodaid.com/) (website with resources and needs matching)
+- [South Boston Mutual Aid](https://www.sbneighborhoodaid.com/) (website with resources and needs matching)
 
 _For more eastern MA mutual aid finders, see below!_
 
@@ -38,8 +38,8 @@ _For more eastern MA mutual aid finders, see below!_
 - **Massachusetts Local Resources**
   - [Mass MEMA State Map of Resources](https://memamaps.maps.arcgis.com/apps/webappviewer/index.html?id=5867d881a9324121839605c56a3d7cc9) - lists various resources across the state - you can [submit missing resources](https://arcg.is/0yqnvn).
   - [Massachusetts Jobs With Justice listing of Mutual Aid Groups](https://www.massjwj.net/news/2020/3/17/cover-19-mutual-aid-networks)
-  - [Massachusetts Mutual Aid Networks](http://tinyurl.com/mamutualaid) (Google Sheet, listing MA sites)
-  - [Boston COVID-19 Community Care](http://bit.ly/COVID-BOS) (Google Sheet, listing MA groups, resources, advocacy, tips)
+  - [Massachusetts Mutual Aid Networks](https://tinyurl.com/mamutualaid) (Google Sheet, listing MA sites)
+  - [Boston COVID-19 Community Care](https://bit.ly/COVID-BOS) (Google Sheet, listing MA groups, resources, advocacy, tips)
 - **US-wide Resources**
   - [AARP's supported Mutual Aid Group Finder](https://aarpmutualaid.org/)
   - [Google Spreadsheet of various mutual aid groups across US](https://docs.google.com/spreadsheets/d/1M9Y46lhZSVIRyE1Qh74Tj5uu91VKs5nhFCUudnFOqOg/edit#gid=776187552).
