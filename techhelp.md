@@ -1,10 +1,11 @@
 ---
 title: Get Technology Help From Arlington Neighbors
+description: Tech support from your neighbors to you - software, Zoom conferencing, or email, we've got it covered.
 layout: techhelp
 datafile: techhelp
 header:
   overlay_image: /assets/images/tech.jpg
-  caption: "Photo: [**John Schnobrich / Unsplash**]"
+  caption: "Photo: [**John Schnobrich / Unsplash**](https://unsplash.com/@johnschno)"
 ---
 
 Working from home and can't connect?  Figuring out how to setup video calls?  Missing a cable, or need computer help?  We have lots of geek volunteers in Arlington - here's a starting list!

@@ -1,5 +1,6 @@
 ---
 title: Mutual Aid Around Arlington
+description: Most neighboring towns have aid groups too - here's how to find them.
 classes: wide
 header:
   overlay_image: /assets/images/heart.jpg
@@ -8,9 +9,13 @@ header:
 
 Most towns around Arlington also have Mutual Aid groups - self-organizing, indpendent volunteers helping neighbors out, either on a town/city-wide scale, or just a few blocks.  Here's a listing of all groups in neighboring towns, plus more resources for organizing yourself.
 
+## Legal Resources
+
+Got questions about evictions, rent, worker's rights, or the like?  Check out the [Mass Attorney General's page](https://www.mass.gov/orgs/office-of-attorney-general-maura-healey), which has links to state law, legal help, and many legal updates due to Coronavirus shutdowns. 
+
 ## Nearby Mutual Aid Groups
 
-- **Belmont** Mass Helps Out [intake form for needs/volunteers](https://docs.google.com/forms/d/1itDu3CTo-ERvEp7jcurB0kWn8ZsBbcO8tHUss_9Ryq0/viewform?ts=5e6ae392&edit_requested=true), and [volunteer coordination team](https://docs.google.com/document/d/1djeFj6JnJ_aId3rdoeZJqWxzv1bv2G3r2J6cq3iCTxg/edit).  See also: [Official Belmont Town Government Updates](https://www.belmont-ma.gov/home/urgent-alerts/covid-19-information-for-the-town-of-belmont-find-all-updates-here)
+- **Belmont** has the [Belmont Helps volunteer needs matching group](https://www.belmonthelps.org), as well as donation programs and mask-making.  See also: [Official Belmont Town Government Updates](https://www.belmont-ma.gov/home/urgent-alerts/covid-19-information-for-the-town-of-belmont-find-all-updates-here)
 - **Medford / Somerville** have an [amazing MAMAS group](https://mutualaidmamas.com/) (Google Docs) includes instructions on how to replicate their structure for other groups. [Notes on how they map pods](https://docs.google.com/document/d/1qv54kkGwJVe3YawxcGc9XaTNRtGIIO3MtfldC8V4HWo/edit).  See also: [Official Medford City Government Updates](http://www.medfordma.org/coronavirus-information/), [Official Somerville City Updates](https://www.somervillema.gov/coronavirus)
 - **Lexingon** has [Welcome to Mutual Aid Lexington](https://docs.google.com/document/d/1n7Qre55HQ8fFYC9D3BLQ1x5NWXrilNapylo2FAbaXm4/edit) (Google Doc based on MAMAS)  See also: [Official Lexington Town Government Updates](https://www.lexingtonma.gov/public-health/pages/everything-you-need-know-during-covid-19-state-emergency)
 - **Waltham** has[ Welcome to Mutual Aid Waltham (MAW)](https://docs.google.com/document/d/1JO5HsAb2GYWxEJKkF9yj4aMTmosfBghPEMi_fgdnAUI/edit) (Google Doc based on MAMAS)  See also: [Official Waltham City Government Updates](https://www.city.waltham.ma.us/covid-19)
@@ -31,6 +36,7 @@ _For more eastern MA mutual aid finders, see below!_
 ## Mutual Aid Group Maps / Finders
 
 - **Massachusetts Local Resources**
+  - [Mass MEMA State Map of Resources](https://memamaps.maps.arcgis.com/apps/webappviewer/index.html?id=5867d881a9324121839605c56a3d7cc9) - lists various resources across the state - you can [submit missing resources](https://arcg.is/0yqnvn).
   - [Massachusetts Jobs With Justice listing of Mutual Aid Groups](https://www.massjwj.net/news/2020/3/17/cover-19-mutual-aid-networks)
   - [Massachusetts Mutual Aid Networks](https://tinyurl.com/mamutualaid) (Google Sheet, listing MA sites)
   - [Boston COVID-19 Community Care](https://bit.ly/COVID-BOS) (Google Sheet, listing MA groups, resources, advocacy, tips)

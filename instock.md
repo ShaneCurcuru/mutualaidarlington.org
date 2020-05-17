@@ -1,9 +1,10 @@
 ---
 title: What's In Stock In Local Stores
+description: Can't find cleaners, or flour, or yeast in stock? Here are ways to check stock before you go to the store.
 classes: wide
 header:
   overlay_image: /assets/images/instock.jpg
-  caption: "Photo: [**Mick Haupt / Unsplash**]"
+  caption: "Photo: [**Mick Haupt / Unsplash**](https://unsplash.com/@rocinante_11)"
 ---
 
 Looking to find some fresh produce?  Need gluten-free flour, or anything else special?  Just need some TP!?!?  Let's crowdsource reporting what's in stock in our [local supermarkets](/open/)!
@@ -13,7 +14,9 @@ Looking to find some fresh produce?  Need gluten-free flour, or anything else sp
 Reminder: [Wash your hands, don't worry too much about sanitizing groceries](https://www.npr.org/sections/health-shots/2020/04/12/832269202/no-you-dont-need-to-disinfect-your-groceries-but-here-s-to-shop-safely).
 {: .pullrightbox .notice--info }
 
-See current reports below, or click on Make A Report on any store if you go shopping and notice anything!  Remember: reports come from you or your neighbors, so always double-check yourself by calling if something is important.
+If you're looking for stores outside Arlington, try [Shortage Scout](https://www.shortagescout.com), where you can make reports and search for nearby stores that have TP, cleaners, or more in stock.
+
+For Arlngton, see current reports below, or click on Make A Report on any store if you go shopping and notice anything!  Remember: reports come from you or your neighbors, so always double-check yourself by calling if something is important.
 
 - [Stop & Shop](https://stores.stopandshop.com/ma/arlington/905-massachusetts-avenue) Arlington - [Make a Report!](https://forms.gle/6EcqzbhtgWCiNH4k8) or [see current reports](https://docs.google.com/spreadsheets/d/1yF06PoxLKpBys5ql-WEwdvU_-rWY9GoG2lIXnrKiouU/).
 - [Trader Joes](https://locations.traderjoes.com/ma/arlington/505/) Arlington - [Make a Report!](https://forms.gle/AYehDZpKdWsZzYqJ8) or [see current reports](https://docs.google.com/spreadsheets/d/1fSx_1oio9Uc4OtGXghu9nw8Ob4MxjZ0BfyymyQOBX_Y/).

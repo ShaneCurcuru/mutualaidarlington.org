@@ -1,22 +1,18 @@
 ---
 title: Neighbors Cheering Up Neighbors!
+description: Coronavirus got you down? How to find and spread cheer while we #StayAtHome.
 classes: wide
 header:
   overlay_image: /assets/images/egg.jpg
-  caption: "Photo: [**Hannah Tasker / Unsplash**]"
+  caption: "Photo: [**Hannah Tasker / Unsplash**](https://unsplash.com/@hannahtasker)"
 ---
 
 Along with the many places to volunteer or get help these days, Arlington neighbors are spreading cheer in many social distancing appropriate ways.  Spring weather is here - get outside, [take a long walk](/active), and look for bits of cheer all around you.
 
-## Signup For An Easter Egg Hunt! <i class="fa fa-egg"></i>
-
-Inspired by Jennifer and Jaclyn in the Arlington Parents Facebook group, we're having an <span style="color: #F69CC4"><i class="fa fa-egg"></i></span> easter egg <span style="color: #7799CC"><i class="fa fa-egg"></i></span> hunt - [**Sign up** to display an egg here](https://forms.gle/UWUezQw6bjxhgZmc6)!  Don't forget to display your egg for both Easter Sunday on the 12th, but also Orthodox Easter April 19th!
-
-Our bunnies only repaint the map once a day, so please be patient if your egg hasn't shown up yet!  If you are on a mobile device, [try the **mobile** Google map instead](https://www.google.com/maps/d/u/0/edit?mid=1W-OedSghfmcBeqJienrOMFi1qQGd4zhU)!
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1W-OedSghfmcBeqJienrOMFi1qQGd4zhU" width="640" height="480"></iframe>
-
 ## We're Going On A Bear Hunt! <i class="fa fa-paw"></i>
+
+Run out of books to read?  [Shop local bookstores offering delivery](/books/).
+{: .pullrightbox .notice--info }
 
 Dori on the A-list has started an amazing group of bear-lovers for kids to keep their eyes out for.  Like the children's story ([told on video](https://www.youtube.com/watch?v=Waoa3iG3bZ4)!), neighbors are putting teddy bears (and other things) in their windows or porches as a scavenger hunt for families to look out for when taking a walk.  Check out the current bear sightings around town!
 

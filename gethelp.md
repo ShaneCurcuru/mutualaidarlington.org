@@ -3,14 +3,26 @@ title: How To Get Help From Arlington Neighbors
 classes: wide
 header:
   overlay_image: /assets/images/heart.jpg
-  caption: "Photo: [**Kelly Sikkema / Unsplash**]"
+  caption: "Photo: [**Kelly Sikkema / Unsplash**](https://unsplash.com/@kellysikkema)"
 ---
 
-Here's a list of all the groups offering volunteer help of various kinds for everyone in Arlington.  Nearby towns have their own [mutual aid groups offering help](/local) or see the [list of stores/restaurants open in Arlington](/open/) and [what groceries are in stock](/instock/).
+{% include chatbox.html %}
+
+Here's a list of all the groups offering volunteer help of various kinds for everyone in Arlington.  Nearby towns have their own [mutual aid groups offering help](/local/) or see the [list of stores/restaurants open in Arlington](/open/).  The town has now partnered with [AFC to offer COVID-19 testing to residents in some cases](https://www.yourarlington.com/arlington-archives/town-school/town-news/health/17114-testing-051420).
+
+## Key Town Resource Lists
+
+The town has collected several key resource lists with direct links to town or state programs or law changes in each of these key areas.
+
+- [Landlord/renter laws, affordable housing, and utilities bills assistance](https://www.arlingtonma.gov/departments/planning-community-development/affordable-housing-in-arlington/covid-19-resources-housing)
+- [Employment and Financial assistance](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information/employment-financial-assistance), including filing for unemployment, local grants, and Mass Hire jobs program
+- [Town programs for businesses and CARES act tips](https://www.arlingtonma.gov/departments/planning-community-development/economic-development/covid-19-resources), including advice for restaurants and performers
+- [Mental health and wellbeing resources](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information/mental-health-wellbeing) - a wide variety are available for all
 
 <a name="food"></a>
 ## Arlington Groups Offering Help
 
+- **NEW!** **Food** Arlington schools now offer [free weekly delivery of breakfast/lunch to any student](https://docs.google.com/document/d/1N-II-XOUuP5rHPEyhJ-MplPD3QDSIbiirG2TAtpZMtI/preview), dropped off on Wednesdays at home.  Contact schoollunch@arlington.k12.ma.us for details.  Available for _all_ Arlington students.
 - **Everything** [**Arlington Helps**](https://www.arlingtonhelps.org/) - [Anonymously request help](https://www.arlingtonhelps.org/need-help) like shopping, supplies, or checkins.  *contact:* [https://www.facebook.com/groups/201015774573867/](https://www.facebook.com/groups/201015774573867/) 
 - **Food** [Arlington EATS](https://www.arlingtoneats.org/) - Need food? They have weekly market, emergency, senior, and school vacation lunch programs. (Website) *contact:* [https://www.arlingtoneats.org/help/contact-us/](https://www.arlingtoneats.org/help/contact-us/)
 - **Food** [Food Link MA](https://www.foodlinkma.org/) - FoodLink MA provides hotline and coordination with local food pantries. (Website) *contact:* [info@foodlinkma.org](info@foodlinkma.org)
@@ -24,6 +36,15 @@ Here's a list of all the groups offering volunteer help of various kinds for eve
 - **Phone, Internet** [Mass Lifeline services provide phone and internet](https://www.mass.gov/service-details/lifeline-services) at reduced rates to low-income families
 - More Regional Services are listed on [State Sen. Cindy Friedman's website](https://cindyfriedman.org/4thmiddlesex-covid19/).
 
+## State Programs For Food Assistance
+
+There are several new or improved state programs around food assistance - please let anyone who might qualify about these important benefits!
+
+- [Pandemic P-EBT](https://www.mass.gov/info-details/pandemic-ebt-p-ebt) now offers additional EBT food support for families where children qualify for free or reduced price school meals.
+- [Mass Legal Services](https://www.masslegalservices.org/DTA-COVID-19) has information on expanded SNAP benefits, and a helpful guide for other [COVID-19 related assistance in MA](https://www.masslegalservices.org/covid-19).
+- [Child Nutrition Outreach Program](https://meals4kids.org/summer) has details and maps of school districts providing school meals during the shutdown. 
+- [Mass DTAConnect SNAP](https://dtaconnect.eohhs.mass.gov/) allows you to apply for SNAP benefits if eligible.
+
 ## Hyper-Local Volunteers: Arlington Helps Pods
 
 The [Arlington Helps volunteer group](https://www.arlingtonhelps.org/) is helping many neighborhoods setup "[Pods](https://www.arlingtonhelps.org/pods)", or local volunteer communities centered around a few blocks or streets.  See what [volunteer pods are available](/pods/) so far to reach out to.
@@ -33,3 +54,5 @@ The [Arlington Helps volunteer group](https://www.arlingtonhelps.org/) is helpin
 [Email us your suggestions](mailto:MutualAidArlington@gmail.com?Subject=[MAA] Get help Suggestion) - we update this site frequently!
 
 > **Neighbors are here to help!** <span style="color: #ff0000"><i class="fa fa-heart"></i></span>
+
+{% include chatjs.html %}

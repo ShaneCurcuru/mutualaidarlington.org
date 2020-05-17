@@ -15,43 +15,51 @@ defnav:
   - title: "Get Help"
     children: &helpnav
       - title: "Groups Offering Help"
-        url: /gethelp
+        url: /gethelp/
       - title: "Get Cheerful!"
-        url: /cheer
+        url: /cheer/
       - title: "Kids Activities"
-        url: /parents
+        url: /parents/
       - title: "Town Help"
         url: http://arlingtonma.gov/covid19
       - title: "Help With Tech"
-        url: /techhelp
+        url: /techhelp/
       - title: "Free Internet"
-        url: /telecom
+        url: /telecom/
   - title: "Volunteer!"
     children: &volunteernav
       - title: "Volunteer Groups"
-        url: /volunteer
+        url: /volunteer/
       - title: "Neighborhood Pods"
-        url: /pods
+        url: /pods/
       - title: "Tech Volunteers"
-        url: /tech
+        url: /tech/
       - title: "Help Outside Arlington"
-        url: /local
+        url: /local/
   - title: "Resources"
     children: &resourcenav
-      - title: "What's Open/Closed"
-        url: /open
-      - title: "What's In Stock"
-        url: /instock
+      - title: "Need books?"
+        url: /books/
+      - title: "Libraries Online"
+        url: /libraries/
       - title: "Ordering Groceries"
-        url: /food
+        url: /food/
+      - title: "What's Open/Closed"
+        url: /open/
+      - title: "What's In Stock"
+        url: /instock/
+      - title: "Business Help"
+        url: /business/
       - title: "Stay Active"
-        url: /active
+        url: /active/
       - title: "All About Masks"
-        url: /masks
+        url: /masks/
+      - title: "Buy Masks!"
+        url: /buymasks/
       - title: "More Resources"
-        url: /tools
+        url: /tools/
       - title: "Meet The Admins"
-        url: /admin
+        url: /admin/
 
 adminnav:
   - title: "Admin Corner"
@@ -60,6 +68,8 @@ adminnav:
         url: /admin/
       - title: "Site Setup Notes"
         url: /setup/
+      - title: "Chat Service"
+        url: /setup/maps/
       - title: "Notes On Mapping"
         url: /setup/maps/
       - title: "Missing Link"
