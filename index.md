@@ -64,7 +64,7 @@ We've got a [full list of Arlington stores/restaurants open and hours](/open/) t
 
 ## Need Your Help <i class="fa fa-exclamation"></i>
 
-I'm [actively looking for collaborators](/tech#volunteer-to-help) to help turn this site into a master jump-off point to better publicise the many different volunteer groups and efforts in Arlington.  Email me or [see the CONTRIBUTING guide](https://github.com/ShaneCurcuru/mutualaidarlington.org/blob/master/CONTRIBUTING.md).  I'm also happy to add links to any organized volutneer groups in town, as well as supporting both the Amazing Arlington campaign the town is running, as well as the [Arlington Helps volunteers](https://www.arlingtonhelps.org/)!
+I'm [actively looking for collaborators](/tech#volunteer-to-help) to help turn this site into a master jump-off point to better publicise the many different volunteer groups and efforts in Arlington.  Email me or [see the CONTRIBUTING guide](https://github.com/ShaneCurcuru/mutualaidarlington.org/blob/master/CONTRIBUTING.md).  I'm also happy to add links to any organized volunteer groups in town, as well as supporting both the Amazing Arlington campaign the town is running, as well as the [Arlington Helps volunteers](https://www.arlingtonhelps.org/)!
 
 ### Credits
 
