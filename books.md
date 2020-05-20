@@ -9,8 +9,6 @@ header:
 
 Have you finished reading everything on your bookshelf?  Started reading ingredient lists while waiting for [your library Overdrive book](/parents/#library-programs-online) to come in?  Tired of waiting for Amazon to actually ship anything non-essential?  Check out these bookstores still selling.
 
-[**Save Indie Bookstores!**](https://www.saveindiebookstores.com/?utm_source=Weekly+Harvard+Book+Store+Newsletter+%7C+News+and+Events&utm_campaign=0515f4f8c6-050120) If you're avoiding Amazon and other big stores on May 1st, it's also the perfect time to [donate to help independent booksellers](https://www.saveindiebookstores.com/?utm_source=Weekly+Harvard+Book+Store+Newsletter+%7C+News+and+Events&utm_campaign=0515f4f8c6-050120) this week!
-
 ## Local Bookstores Still Selling
 
 Most independent booksellers are now use [Bookshop.org](http://bookshop.org/) to fullfill their orders.  Bookshop.org then shares a profit percentage with the local store - a key way to support your independent bookshop during stay-at-home orders!  
@@ -33,11 +31,13 @@ Yes, Virginia, used books are just as good as new.  Here are some worthwhile use
 - [Abe Books](https://www.abebooks.com/books/used-books.shtml) has everything, including textbooks
 - [ALibris](https://www.alibris.com/books) sells their own books as well as having portals for local bookshops.
 
-## Little Free Libraries And Book Swaps
+## Little Free Libraries And Book Swaps In Town
 
 Did you know there are 20 [Little Free Libraries in Arlington](https://littlefreelibrary.org/ourmap/) alone?  These tiny little houses offer free books for trading anytime.  See the [map of all locations](https://littlefreelibrary.org/ourmap/).
 
-If you want to swap books with neighbors, [Everything Is Free Arlington](https://www.facebook.com/groups/EIFArlingtonMA/) (a private FB group; you'll need to be approved as a town resident) is still allowing people to post ISO for books, or to trade books and other essential items.  [EIF Arlington](https://www.facebook.com/groups/EIFArlingtonMA/) is one of the friendliest communities around here too!
+If you want to swap books with neighbors, there are two Facebook groups all about swapping (private groups; you'll need to be approved to view):
+- [Everything Is Free Arlington](https://www.facebook.com/groups/EIFArlingtonMA/) is a very friendly community all about posting ISO or free items, including books.
+- [Arlington, MA READERS](https://www.facebook.com/groups/729539601120439/) is a new group dedicated to book swapping, and there's plenty of traffic.
 
 ## Got More Ideas?
 
