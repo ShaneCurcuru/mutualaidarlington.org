@@ -7,7 +7,7 @@ header:
   caption: "Photo: [**Kelly Sikkema / Unsplash**]"
 ---
 
-Most towns around Arlington also have Mutual Aid groups - self-organizing, indpendent volunteers helping neighbors out, either on a town/city-wide scale, or just a few blocks.  Here's a listing of all groups in neighboring towns, plus more resources for organizing yourself.
+Most towns around Arlington also have Mutual Aid groups - self-organizing, indpendent volunteers helping neighbors out, either on a town/city-wide scale, or just a few blocks.  Here's a listing of all groups in neighboring towns to Arlington.  Next door in Medford/Somerville, the MAMAS group has also drawn up an [excellent categorized list of hundreds of aid links](https://docs.google.com/spreadsheets/d/1BUKO9JnlO7JOg0RCnN0dLVym4ZE0zrn2LfuNXgNrC1M/preview), both for volunteers and those in need.
 
 ## Legal Resources
 
@@ -49,6 +49,7 @@ _For more eastern MA mutual aid finders, see below!_
 
 ## Mutual Aid Group How-Tos And Resources
 
+- **Local** [MAMAS local group listing of tons of resources](https://docs.google.com/spreadsheets/d/1BUKO9JnlO7JOg0RCnN0dLVym4ZE0zrn2LfuNXgNrC1M/preview) - from our neighbors in Medford & Somerville, helpful links to volunteer, request help, and share with neighbors.
 - **Comprehensive** [Database of Localized Resources During COVID 19 Outbreak](https://docs.google.com/spreadsheets/u/1/d/1HEdNpLB5p-sieHVK-CtS8_N7SIUhlMpY6q1e8Je0ToY/htmlview?fbclid=IwAR0Q3_OAZpzpgl4HE4SGrQrtltEcbhIM_TyWYnP-I_5nZOtJg3VLC9HLfyM#gid=1604093003) - this is a mult-tab Google Spreadsheet with the largest list of links I've seen anywhere.
 - [**Technical** website tips for mutual aid groups](/setup)
 - [**Mutual Aid 101** #WeGotOurBlock comprehensive how-to guide](https://gdoc.pub/doc/e/2PACX-1vRMxV09kdojzMdyOfapJUOB6Ko2_1iAfIm8ELeIgma21wIt5HoTqP1QXadF01eZc0ySrPW6VtU_veyp), based on [MAMAS Medford/Somerville guide](https://mutualaidmamas.com/)
