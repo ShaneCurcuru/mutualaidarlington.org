@@ -22,7 +22,7 @@ Most independent booksellers are now use [Bookshop.org](http://bookshop.org/) to
 
 ## Used Bookstores Worth Buying From
 
-Can't wait for shipping?  [There are tons of online library programs](/parents/#library-programs-online).
+Can't wait for shipping?  [There are tons of online library programs](/parents/#library-programs-online), and Arlingtonian [Steve Rothman has a great explainer about online libraries](https://sites.google.com/site/arlingtonbookgroup/home/digital-book-guide)! 
 {: .pullrightbox .notice--info }
 
 Yes, Virginia, used books are just as good as new.  Here are some worthwhile used booksellers to check out.

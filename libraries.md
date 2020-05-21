@@ -18,6 +18,8 @@ Just want to know everything thats available? Check out [Minuteman Library Netwo
 
 Don't have a library card, or lost yours?  [Register for a new Minuteman library number online](https://library.minlib.net/selfreg) or [get a BPL eCard online](https://www.bpl.org/ecard/) - both are free for Mass residents.
 
+Wondering how it all works?  Arlingtonian [Steve Rothman has a clear guide](https://sites.google.com/site/arlingtonbookgroup/home/digital-book-guide) about what Robbins online tools are what and how to use them!
+
 ## Library Programs Glossary And Resource Lists
  
 - [MLN or MINLIB - Minuteman Library Network](https://www.minlib.net/) - the regional network of libraries, allowing you to use your library card across Massachusetts (well, now across all their online services)
