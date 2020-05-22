@@ -27,6 +27,7 @@ The town has collected several key resource lists with direct links to town or s
 - **Food** [Arlington EATS](https://www.arlingtoneats.org/) - Need food? They have weekly market, emergency, senior, and school vacation lunch programs. (Website) *contact:* [https://www.arlingtoneats.org/help/contact-us/](https://www.arlingtoneats.org/help/contact-us/)
 - **Food** [Food Link MA](https://www.foodlinkma.org/) - FoodLink MA provides hotline and coordination with local food pantries. (Website) *contact:* [info@foodlinkma.org](info@foodlinkma.org)
 - **Food** [Project Bread Food Source Hotline](http://www.projectbread.org/get-help/) also at 1-800-645-8333 TTY: 1-800-377-1292 provides referrals to all food sources across Massachusetts.
+- **Food** [Pandemic EBT has been expanded](https://www.map-ebt.org/), and now offers more assistance whether or not you have [DTA benefits](https://www.mass.gov/orgs/department-of-transitional-assistance) (SNAP, TAFDC).
 - **Food - store reports** [Log your own experience in grocery stores](/instock/), or discuss in the [Local InStock And Needed Essentials](https://www.facebook.com/groups/251705095861238/about/) - new Facebook group for posting reports of what's still in stock in stores or to swap items
 - **Pets** <i id="pets" class="fa fa-cat"></i> [Arlington Pet Food Pantry](https://www.facebook.com/Arlington-Pet-Food-Pantry-102579731353594/) - Fido or Fluffy hungry? Ask for food or see if there are donated supplies for your pet family. (Facebook Group) *contact:* [leeanna@pallett.com](mailto:leeanna@pallett.com)
 - **Pets** <i class="fa fa-dog"></i> [MSPCA Statewide list of Pet food pantries](https://www.mspca.org/animal_protection/massachusetts-food-pantries/)
@@ -41,7 +42,7 @@ The town has collected several key resource lists with direct links to town or s
 
 There are several new or improved state programs around food assistance - please let anyone who might qualify about these important benefits!
 
-- [Pandemic P-EBT](https://www.mass.gov/info-details/pandemic-ebt-p-ebt) now offers additional EBT food support for families where children qualify for free or reduced price school meals.
+- [Pandemic P-EBT](https://www.mass.gov/info-details/pandemic-ebt-p-ebt) now offers additional EBT food support for families where children qualify for free or reduced price school meals. **UPDATE** [P-EBT is expanded](https://www.map-ebt.org/), and they offer more benefits, whether or not you have DTA benefits (SNAP, TAFDC) - in partnership with [Project Bread](http://www.projectbread.org/).
 - [Mass Legal Services](https://www.masslegalservices.org/DTA-COVID-19) has information on expanded SNAP benefits, and a helpful guide for other [COVID-19 related assistance in MA](https://www.masslegalservices.org/covid-19).
 - [Child Nutrition Outreach Program](https://meals4kids.org/summer) has details and maps of school districts providing school meals during the shutdown. 
 - [Mass DTAConnect SNAP](https://dtaconnect.eohhs.mass.gov/) allows you to apply for SNAP benefits if eligible.
