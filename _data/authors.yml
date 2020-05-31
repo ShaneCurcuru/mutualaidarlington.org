@@ -1,0 +1,16 @@
+Shane:
+  name: "Shane Curcuru"
+  bio: "Site Admin"
+  avatar: "/assets/images/shane.png"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:MutualAidArlington@gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/AidArlington"
+
+Robin:
+  name: "Robin S."
+  bio: "Arlington neighbor and Oncology Doctor"
+  avatar: /assets/images/robins-avatar.jpg
