@@ -22,7 +22,8 @@ Worried about food security? [Neighbors want to help!](/gethelp/#food)
   - [Ball Sq Fine Wines, Somerville](https://www.ballsquarefinewines.com/sku32076_Katsiroubas-Produce-Box-EACH) $35 produce box delivery or contactless pickup
 
 {% include chatbox.html %}
-- Staying close to home?  Play [Arlington Shop Local Bingo](https://www.arlingtonma.gov/Home/Components/News/News/10172/2651?backlist=/departments/planning-community-development) when you shop!
+
+<div id='local'></div>
 - **Local Shops / Farmstands** - now offering either delivery or contactless pickup
   - [D'agostino's (Arlington Heights)](https://www.facebook.com/dagostinosfoods/) _Delivery:_ Order via phone (781) 646-4949 for deli or any of their groceries and either delivery >$50 or cubside pickup.
   - [Verrill Farm (Concord, MA)](https://verrillfarm.com/)  _Notes:_ Open for regular shopping.
@@ -36,6 +37,7 @@ Worried about food security? [Neighbors want to help!](/gethelp/#food)
 
 {% include social.html %}
 
+<div id='farms'></div>
 - **Farms, Farm Coops, CSAs**
   - A [master list of New England farms that deliver](https://farmsthataredelivering.com) to MA; be sure to check with individual websites for details.  A great way to support farmers directly!
   - [Somerville Winter Farmer's Market](https://www.somwintermarket.org/) offers pre-order only for weekly pickups from a wide variety of vendors in their location.
@@ -45,6 +47,8 @@ Worried about food security? [Neighbors want to help!](/gethelp/#food)
   - [Red Fire Farm (Montague, MA)](https://www.redfirefarm.com)  _Delivery:_ Weekly farm shares delivered.
   - [Thatcher Farm (Milton, MA)](https://thatcherfarm.com/thatcher/home-delivery)  _Delivery:_ Weekly delivery service for dairy. bakery, some meats, and other items.
   - [Brookford Farm (Canterbury, NH)](https://www.brookfordfarm.com/online-ordering)  _Delivery:_ Tuesday weekly deliveries of dairy, organic veggies, and some meats; $75 minimum order.
+
+<div id='specialty'></div>
 - **Specialty Shops**
   - [Stillman Quality Meats (Hardwick, MA)](https://www.stillmanqualitymeats.com/homedelivery)  _Delivery:_ Weekly deliveries of meat; $50 minimum, $12 delivery fee.
   - [Walden Local Meats (Western Mass)](https://waldenlocalmeat.com/faqs/)  _Delivery:_ Monthly CSA share of wide variety of meats.
@@ -54,6 +58,8 @@ Worried about food security? [Neighbors want to help!](/gethelp/#food)
   - [Hooked Fish Shop (Somerville, MA)](https://eathooked.com/free-fresh-fish-delivery/)  _Delivery:_ Mid-week delivery of fish straight from the pier; no charge via EverGreen Delivery.
   - [In Season Food Shop (Somerville, MA)](https://www.inseasonfoodshop.com)  _Pickup:_ Safe shopping by appointment only at various stores at [Bow Street Markets](https://www.bowmarketsomerville.com/).
   - [Boston Smoked Fish (Boston, MA)](https://www.bostonsmokedfish.com/shop)  _Delivery:_ Smoked fish deliveries; no charge over $50.
+
+<div id='wholesale'></div>
 - **Wholesale Distributors** - now offering bulk ordering to non-restaurants
   - [Baldor Foods (Massachusetts)](https://www.baldorfood.com/)  _Delivery:_ Delivery of a wide variety of products, usually in large quantities, with $250 minimum.
   - [New England Country Mart (Massachusetts)](https://newenglandcountrymart.com/)  _Delivery:_ Launching soon: home delivery packages from this wholesaler.
