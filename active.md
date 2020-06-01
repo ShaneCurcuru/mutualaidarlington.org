@@ -11,6 +11,7 @@ Spring weather is here - it's time to get outside, take a walk, and look for [bi
 
 ## Keep Active!
 
+- <i class="fa fa-walking"></i> [Interactive photo map of Arlington's Open Spaces](http://ow.ly/cACn50zUzqt) - an amazing resource from Arlington Open Space committee!
 - [Circumnavigate Arlington](#circumnavigate-arlington-)!  See how courtesy of A-list writer George Stephans below.
 - There are more local maps for walkers with great routes:
   - Arlington's own [Open Space Committee has simple local walks](https://arlingtonma.gov/openspace)
@@ -18,7 +19,6 @@ Spring weather is here - it's time to get outside, take a walk, and look for [bi
   - Head next door for some [great walks in Belmont](https://walkboston.org/2012/03/19/belmont-walking-map/)
 - Just [step outside at 6PM and say hello to your neighbors](https://twitter.com/arlingtonmagov/status/1244338726601478151) with the town #Arlington6At6 program!
 - [Go on a bear hunt](/cheer#bear) with kids around town.
-- [Spy some Easter eggs](/cheer#eggs) for Easter and next weekend for Orthodox Easter.
 
 ## Circumnavigate Arlington <i class="fa fa-hiking"></i>
 
