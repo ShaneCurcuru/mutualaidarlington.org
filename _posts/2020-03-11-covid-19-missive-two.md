@@ -4,7 +4,7 @@ author: Robin
 categories:
   - robinscorner
 ---
-This is Robin S., the cancer doc who is posting about Covid. Events are picking up speed.
+This is Robin Schoenthaler, the cancer doc who is posting about Covid. Events are picking up speed.
 
 I am posting not out of panic, but out of a resigned perspective as I look at how we are going to have to live our radically changed lives for the next while. 
 

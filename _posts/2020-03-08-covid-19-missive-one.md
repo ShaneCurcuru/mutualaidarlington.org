@@ -5,7 +5,7 @@ categories:
   - robinscorner
 ---
 
-My name is Robin S., I'm a long-time Boston cancer doc. I have been trying to translate information about COVID-19 into easy-to-understand facts. 
+My name is Robin Schoenthaler, I'm a long-time Boston cancer doc. I have been trying to translate information about COVID-19 into easy-to-understand facts. 
 
 We are about to move into a catastrophic health care crisis and I will periodically post updates. This is not about blame, or controversies, or politics and please don't comment about those issues. This is about the facts I have been able to tease out of the medical literature and scientific sources.
 

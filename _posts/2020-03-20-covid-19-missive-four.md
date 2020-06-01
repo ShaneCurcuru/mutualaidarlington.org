@@ -5,7 +5,7 @@ categories:
   - robinscorner
 ---
 
-This is Robin S., the cancer-doctor-who-writes-about-Covid. I've been asked for updates. I have no good updates. It was such a beautiful spring day but here we are, standing on the cusp of one of the worst events of our lives.
+This is Robin Schoenthaler, the cancer-doctor-who-writes-about-Covid. I've been asked for updates. I have no good updates. It was such a beautiful spring day but here we are, standing on the cusp of one of the worst events of our lives.
 
 Testing has increased some (more centers, more tests), and now there are many more cases in MA (413 cases, 58 hospitalized and now for the first time, today a death). When I last wrote you on March 14 it was 138 cases. Soon the numbers will be unimaginably high. The China/Italy statistics seem to be holding steady: 15% need hospitalization because the pneumonia is so bad people can't breathe. Many need ventilators. When dozens (hundreds?) arrive on one day at our hospitals it will be terrible beyond imagining. It will be just like Italy.
 
