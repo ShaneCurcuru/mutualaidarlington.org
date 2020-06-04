@@ -43,6 +43,7 @@ The town has collected several key resource lists with direct links to town or s
 There are several new or improved state programs around food assistance - please let anyone who might qualify about these important benefits!
 
 - [Pandemic P-EBT](https://www.mass.gov/info-details/pandemic-ebt-p-ebt) now offers additional EBT food support for families where children qualify for free or reduced price school meals. **UPDATE** [P-EBT is expanded](https://www.map-ebt.org/), and they offer more benefits, whether or not you have DTA benefits (SNAP, TAFDC) - in partnership with [Project Bread](http://www.projectbread.org/).
+  - **IMPORTANT** Read these [detailed instructions on activating your P-EBT card](https://drive.google.com/drive/folders/1_iED25tnSdQyQ-3IbHGPYYK2ZXoaZ8XP) ([en español](https://drive.google.com/file/d/1XMFWqCwo8ksS1taxa-kZ1B1vy8QX98yu/view?usp=sharing)) - you need **both** letters and your _case number_, **not** SSN.
 - [Mass Legal Services](https://www.masslegalservices.org/DTA-COVID-19) has information on expanded SNAP benefits, and a helpful guide for other [COVID-19 related assistance in MA](https://www.masslegalservices.org/covid-19).
 - [Child Nutrition Outreach Program](https://meals4kids.org/summer) has details and maps of school districts providing school meals during the shutdown. 
 - [Mass DTAConnect SNAP](https://dtaconnect.eohhs.mass.gov/) allows you to apply for SNAP benefits if eligible.
