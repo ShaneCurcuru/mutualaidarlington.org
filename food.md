@@ -9,6 +9,8 @@ header:
 
 Need groceries but don't want to shop in person?  There are options out there beyond Amazon Fresh, Instacart, or Peapod.  Many restaurant wholesale distributors - and local farms! - are now offering retail delivery or pickup.  If you need food **now**, check out the [In-Stock Grocery Trackers](/instock/), or for takeout meals, see [Gary's Arlington Restaurant Status](/open/) list!
 
+**UPDATE** [Arlington Farmer's Market is **open**](https://www.farmersmarketarlington.org/)!  And they accept SNAP benefits!  Be sure to check out their new regulations for keeping safe during the pandemic, and [Your Arlington coverage of the opening](https://yourarlington.com/events/17164-farmers-20.html).
+
 Worried about food security? [Neighbors want to help!](/gethelp/#food)
 {: .pullrightbox .notice--info }
 
