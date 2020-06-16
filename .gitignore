@@ -2,6 +2,11 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-.vscode/launch.json
 Gemfile.lock
 Gemfile
+.bundle/
+.DS_Store
+.vscode/
+
+
+
