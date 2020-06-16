@@ -9,10 +9,13 @@ header:
 
 Are the kids getting bored or crazy stuck at home?  So are the neighbors - and we've got tons of parents here in Arlington suggesting activities - see [the cheer page for eggs and bears](/cheer), oh, my!
 
-**Remember:** social distancing includes kids.  While the school playgrounds may feel appealing, please keep your kids safe!
+**Remember:** social distancing includes kids. Playgrounds are open - please read [Town guidance on use of playgrounds](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information/closures-restrictions-and-advisories) (open, but please stay safe!)
 
-## Things To Do With Kids
+## Things To Do With Kids This Summer
 
+- Contribute to the [Epic Adventures of Fox and Owl](http://artsarlington.org/programs/fox-festival-2/fox-festival-2020/) by Arts Arlington and the Friends of Fox Library offers a number of participatory (remote) events this summer.
+- The [Arlington Center for the Arts](https://www.acarts.org/summer-arts-camps) still has a summer camp program, with a mix of online classes to start, with in-person classes later.
+- [Arlington Children's Theater](https://act.arlington.ma.us/programs/summerprogramming/) is offering multiweek online classes with performances at the end.
 - [Arlington's own Parent and Youth resources](https://www.arlingtonma.gov/departments/health-human-services/arlington-youth-health-safety-coalition-ayhsc/resources) - while in-person classes may be closed, there are still resources to check out, along with coverage from [Your Arlington about library programs continuing](https://www.yourarlington.com/arlington-archives/residents/ideas-fun/102-library/16858-remote-031620.html).
 - [Arlington Community Education](http://www.arlingtoncommunityed.org/) has a list of great local things to do. 
 - Check out [Boston Mamas weekly curated events](https://www.bostonmamas.com/blog/virtual-weekly-events) in the region.
@@ -32,6 +35,8 @@ Please read our [complete guide to online library services](/libraries/), includ
 ## State School Gudiance
 
 The state has issued [guidance to school districts](http://www.doe.mass.edu/covid19/learn-at-home.html) for the remainder of the year.  There are [links to various educational resources](http://www.doe.mass.edu/covid19/learn-at-home.html) there as well.
+
+Interested in Homeschooling? Check out the local [Advocates for Home Education in Mass](https://www.ahem.info/index.html)!
 
 ## Got More Ideas?
 
