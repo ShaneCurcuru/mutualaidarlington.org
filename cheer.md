@@ -7,7 +7,7 @@ header:
   caption: "Photo: [**Hannah Tasker / Unsplash**](https://unsplash.com/@hannahtasker)"
 ---
 
-Along with the many places to volunteer or get help these days, Arlington neighbors are spreading cheer in many social distancing appropriate ways.  Spring weather is here - get outside, [take a long walk](/active), and look for bits of cheer all around you.
+Along with the many places to volunteer or get help these days, Arlington neighbors are spreading cheer in many social distancing appropriate ways.  Get outside while it's still summer, [take a long walk](/active), and look for bits of cheer all around you.
 
 ## We're Going On A Bear Hunt! <i class="fa fa-paw"></i>
 

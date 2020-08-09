@@ -1,13 +1,17 @@
 ---
-title: Guide For Online Librarires
-description: How to keep reading books from the library when they're closed.
+title: Guide For Robbins Library
+description: How to keep reading books from the library during Coronavirus.
 classes: wide
 header:
   overlay_image: /assets/images/libraries.jpg
   caption: "Photo: [**Susan Yin / Unsplash**](https://unsplash.com/@syinq)"
 ---
 
-Need to get your reading fix but don't want to [**buy** more books](/books/)?  While Robbins, Fox, and other libraries may be closed physically, they have tons of online resources for you.
+Need to get your reading fix but don't want to [**buy** more books](/books/)?  While Robbins, Fox, and other libraries may be closed to walk ins, they have tons of online resources for you, and have new pickup borrowing programs.
+
+- [Robbins library offers contactless pickup](https://www.robbinslibrary.org/borrowing-items/#) for book reservations online.
+- Return library books at the outside drop boxes at either Robbins or Fox.  Note: it will take 3+ days for the books to get scanned back into the system!
+- Want to read, but not sure what?  Fill out the [Library Grab Bag request form](https://www.robbinslibrary.org/borrowing-items/library-grab-bag/), and librarians will find you books!
 
 ## Library Programs Online
 

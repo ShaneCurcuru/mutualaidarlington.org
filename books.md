@@ -7,7 +7,7 @@ header:
   caption: "Photo: [**Ed Robertson / Unsplash**](https://unsplash.com/@eddrobertson)"
 ---
 
-Have you finished reading everything on your bookshelf?  Started reading ingredient lists while waiting for [your library Overdrive book](/parents/#library-programs-online) to come in?  Tired of waiting for Amazon to actually ship anything non-essential?  Check out these bookstores still selling.
+Have you finished reading everything on your bookshelf?  Started reading ingredient lists while waiting for [your library Overdrive book](/parents/#library-programs-online) to come in or for you [Robbins Library pickup time](https://www.robbinslibrary.org/borrowing-items/#) to be here?  Tired of waiting for Amazon to actually ship anything non-essential?  Check out these bookstores still selling.
 
 ## Local Bookstores Still Selling
 

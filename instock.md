@@ -7,14 +7,14 @@ header:
   caption: "Photo: [**Mick Haupt / Unsplash**](https://unsplash.com/@rocinante_11)"
 ---
 
-Looking to find some fresh produce?  Need gluten-free flour, or anything else special?  Just need some TP!?!?  Let's crowdsource reporting what's in stock in our [local supermarkets](/open/)!
+Looking to find some fresh produce?  Need gluten-free flour, or anything else special?  Just need some TP!?!?  While stock levels for most things are getting better, some things (like wipes in plastic canisters) are still hard to find.
 
 ## Nearby Supermarket Stock Reports
 
 Reminder: [Wash your hands, don't worry too much about sanitizing groceries](https://www.npr.org/sections/health-shots/2020/04/12/832269202/no-you-dont-need-to-disinfect-your-groceries-but-here-s-to-shop-safely).
 {: .pullrightbox .notice--info }
 
-If you're looking for stores outside Arlington, try [Shortage Scout](https://www.shortagescout.com), where you can make reports and search for nearby stores that have TP, cleaners, or more in stock.
+If you're looking for stores outside Arlington, try [Shortage Scout](https://www.shortagescout.com), where you can make reports and search for nearby stores that have TP, cleaners, or more in stock.  If you're on Facebook, checkout the [BELMONT, WATERTOWN, ARLINGTON and CAMBRIDGE: INSTOCK AND NEEDED ESSENTIALS](https://www.facebook.com/groups/251705095861238/) group.
 
 For Arlngton, see current reports below, or click on Make A Report on any store if you go shopping and notice anything!  Remember: reports come from you or your neighbors, so always double-check yourself by calling if something is important.
 

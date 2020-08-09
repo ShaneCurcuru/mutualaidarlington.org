@@ -7,12 +7,12 @@ header:
   caption: "Photo: [**Joshua Ness / Unsplash**](https://unsplash.com/@theexplorerdad)"
 ---
 
-Spring weather is here - it's time to get outside, take a walk, and look for [bits of cheer](/cheer) all around you.  Here are resources to keep you entertained and moving around if you're stuck at home.  **Remember:** The Town needs you to [#CoverYourFace and keep social distancing](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information) when you're out exercising - yes, even on the bike path please!
+Summer is here and it's hot - [stay safe in the heat](https://www.arlingtonma.gov/Home/Components/News/News/10395/1525?backlist=%2fdepartments%2fhealth-human-services) and drink lots of water while you go out and [look for cheer](/cheer).  Here are resources to keep you entertained and moving around if you're stuck at home.  **Remember:** The Town needs you to [#CoverYourFace and keep social distancing](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information) when you're out exercising - yes, even on the bike path please!  And wear bug repellent or avoid dawn/dusk, since [Arlington mosquitoes may have West Nile Virus](https://www.arlingtonma.gov/Home/Components/News/News/10405/1525?backlist=%2fdepartments%2fhealth-human-services%2fhealth-department) (ew!).
 
 ## Keep Active!
 
 - <i class="fa fa-walking"></i> [Interactive photo map of Arlington's Open Spaces](http://ow.ly/cACn50zUzqt) - an amazing resource from Arlington Open Space committee!
-- [Circumnavigate Arlington](#circumnavigate-arlington-)!  See how courtesy of A-list writer George Stephans below.
+- <i class="fa fa-globe"></i> [Circumnavigate Arlington](#circumnavigate-arlington-)!  See how courtesy of A-list writer George Stephans below.
 - There are more local maps for walkers with great routes:
   - Arlington's own [Open Space Committee has simple local walks](https://arlingtonma.gov/openspace)
   - Walk Boston has some [short guided walks in Arlington](https://bit.ly/Arlington_Walking_Map)
