@@ -3,28 +3,23 @@ title: Neighbors Cheering Up Neighbors!
 description: Coronavirus got you down? How to find and spread cheer while we #StayAtHome.
 classes: wide
 header:
-  overlay_image: /assets/images/egg.jpg
-  caption: "Photo: [**Hannah Tasker / Unsplash**](https://unsplash.com/@hannahtasker)"
+  overlay_image: /assets/images/halloween.jpg
+  caption: "Photo: [**Ehud Neuhaus / Unsplash**](https://unsplash.com/@paramir)"
 ---
 
-Along with the many places to volunteer or get help these days, Arlington neighbors are spreading cheer in many social distancing appropriate ways.  Get outside while it's still summer, [take a long walk](/active), and look for bits of cheer all around you.
+Along with the many places to volunteer or get help these days, Arlington neighbors are spreading cheer in many social distancing appropriate ways.  It's still warm enough to [take a long walk](/active), and look for bits of cheer all around you.
 
-## We're Going On A Bear Hunt! <i class="fa fa-paw"></i>
+## Are You Spooking Up For Halloween! <i class="fa fa-skull"></i>
 
-Run out of books to read?  [Shop local bookstores offering delivery](/books/).
-{: .pullrightbox .notice--info }
+Are you still decorating for Halloween and providing treats - somehow - to give away safely?  Let families know you'll still be providing frights for Halloween night by [signing up](https://forms.gle/n7DjQaEqEbuiUaZU8) for our Halloween map below!  Please remember to provide treats and do your Halloween walking responsibly, and Wear A Mask <i class="fa fa-head-side-mask"></i> - not just a costume one!
 
-Dori on the A-list has started an amazing group of bear-lovers for kids to keep their eyes out for.  Like the children's story ([told on video](https://www.youtube.com/watch?v=Waoa3iG3bZ4)!), neighbors are putting teddy bears (and other things) in their windows or porches as a scavenger hunt for families to look out for when taking a walk.  Check out the current bear sightings around town!
+<iframe src="https://www.google.com/maps/d/embed?mid=1P6-rRkIdbLX2AWCd4WboPgL0G68G_8at&usp=sharing" width="640" height="480" id="halloween"></iframe>
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1i52Bg9JQqeFBloewUP4pN1BjmjFg3nxK&hl=en" width="640" height="480"></iframe>
+**Sign Up For Halloween Decorating**
 
-**Does Your Bear Want To Play?**
+You can [sign up to let people know](https://forms.gle/n7DjQaEqEbuiUaZU8) you're decorating and handing out treats for Halloween - [enter your spooky household name and address here](https://forms.gle/n7DjQaEqEbuiUaZU8)!
 
-Thanks for contributing to the Hunt!  There's a [whole website devoted to Arlington Bears and friends](https://sites.google.com/view/arlington-bear-hunt)!  Please ask your bears to follow our three rules:
-
-- Please update your listing if your bear goes into hibernation, so no-one worries if they aren't found.
-- If you spot an “unregistered” bear, [add its general location to the list](https://tinyurl.com/u59mm5y) (e.g. “Gray house on Fairmont”), but do NOT include the address without permission from the bear-er.
-- Please share on social media! We've only been showcasing this on A-list and FB so far. Happy hunting!
+Note: our skeletons are weary from the zombies constantly asking them if they can catch COVID (zombies are forgetful) so it may take them a little while to update the map - probably only once per night - so please be patient!
 
 ## Faces Of Arlington <i class="fa fa-camera"></i>
 
