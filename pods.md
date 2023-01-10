@@ -10,9 +10,9 @@ header:
 
 ## Volunteer To Setup An Arlington Helps Pod
 
-[Arlington Helps](arlingtonhelps.org) is asking for folks to sign up as **Neighborhood Point People**, where you’d take on the responsibility of reaching out to your neighbors, moderating a neighborhood group chat or phone tree (on WhatsApp or another communication tool), and staying in touch with the other point people for resource sharing.
+[Arlington Helps](https://www.arlingtonhelps.org/) is asking for folks to sign up as **Neighborhood Point People**, where you’d take on the responsibility of reaching out to your neighbors, moderating a neighborhood group chat or phone tree (on WhatsApp or another communication tool), and staying in touch with the other point people for resource sharing.
 
-If you have the capacity to take on this role, please let [Arlington Helps organizers](https://www.arlingtonhelps.org/pods) know ASAP by filling out [this survey](https://docs.google.com/forms/d/e/1FAIpQLSeBp1E8eVqW1OqDKWHoygncmGdjNieRRVBexVavlRg9YP6U7A/viewform), and they will set you up with a [toolkit](https://tinyurl.com/how-to-pod-arlington) of how to get started.
+If you have the capacity to take on this role, please let [Arlington Helps organizers](https://www.arlingtonhelps.org/pods) know, and they will set you up with a [toolkit](https://tinyurl.com/how-to-pod-arlington) of how to get started.
 
 ## Looking to join your Neighborhood Pod?
 
