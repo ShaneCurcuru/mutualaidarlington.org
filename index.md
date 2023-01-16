@@ -14,10 +14,9 @@ We're here to connect you with all the awesome volunteer groups run by your neig
 
 | [**Get Help**](/gethelp/) <i class="fa fa-bullhorn"></i> | [**Volunteer**](/volunteer/) <i class="fa fa-users"></i> | **Resources** <i class="fa fa-book-reader"></i> |
 | --- | --- | --- | 
-| [Get Help From Local Volunteers](/gethelp/) | [Volunteer To Help Neighbors](/volunteer) | [Get COVID Testing](https://www.mass.gov/covid-19-testing)
-) |
-| [Get Tech Help](/techhelp/) | [Stay Active](/active/) / [Spread Cheer!](/cheer/) | [Get Vaccinated](https://vaxfinder.mass.gov/) | 
-| [Business Help](/business/) | [Mask How-To](/masks/) / [Need Books?](/books/) [Libraries!](/libraries/) | 
+| [Get Help From Local Volunteers](/gethelp/) | [Volunteer To Help Neighbors](/volunteer) | [Get COVID Testing](https://www.mass.gov/covid-19-testing) |
+| [Get Tech Help](/techhelp/) | [Stay Active](/active/) | [Get Vaccinated](https://vaxfinder.mass.gov/) | 
+| [Business Help](/business/) | [Need Books?](/books/) | [Get Good Masks](/masks/) | 
 | [Help outside Arlington](/local/) | [Setup A Volunteer Pod](/pods) | [Parents Resources](/parents/) | 
 
 ## Connect With Arlington, MA Town Alerts
