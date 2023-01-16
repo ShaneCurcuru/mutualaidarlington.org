@@ -16,12 +16,8 @@ defnav:
     children: &helpnav
       - title: "Groups Offering Help"
         url: /gethelp/
-      - title: "Get Cheerful!"
-        url: /cheer/
-      - title: "Kids Activities"
-        url: /parents/
       - title: "Town Help"
-        url: http://arlingtonma.gov/covid19
+        url: https://arlingtonma.gov/covid19
       - title: "Help With Tech"
         url: /techhelp/
       - title: "Free Internet"
@@ -46,16 +42,12 @@ defnav:
         url: /food/
       - title: "What's Open/Closed"
         url: /open/
-      - title: "What's In Stock"
-        url: /instock/
       - title: "Business Help"
         url: /business/
       - title: "Stay Active"
         url: /active/
       - title: "All About Masks"
         url: /masks/
-      - title: "Buy Masks!"
-        url: /buymasks/
       - title: "More Resources"
         url: /tools/
       - title: "Meet The Admins"

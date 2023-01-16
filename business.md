@@ -9,11 +9,12 @@ header:
 
 Run a small business and trying to figure out how to make it work here in Arlington?  There are some resources out there, and the town has several programs designed to help.  
 
-## New Town Business Dashboard
+## Town Business Dashboard & Resources
 
-The town planning department has just released a new [local business dashboard](https://www.arlingtonma.gov/departments/planning-community-development/economic-development/arlington-business-guide) with new features like resarch tools for customer bases, competition, and trends, and a local start-up guide.  If you haven't waded through the town website, there are plenty of resources in there for businesses.
+Businesses can find resources in [Arlington's Economic Development department](https://www.arlingtonma.gov/departments/planning-community-development/economic-development).
 
-- **NEW** [Apply for a temporary outdoor business permit](https://www.arlingtonma.gov/Home/Components/News/News/10324/16) for restaurants, fitness, and arts related businesses.
+The town planning department has just released a new [local business dashboard](https://www.arlingtonma.gov/departments/planning-community-development/economic-development/business-resources) with new features like resarch tools for customer bases, competition, and trends, and a local start-up guide.  If you haven't waded through the town website, there are plenty of resources in there for businesses.
+
 - [COVID-19 Pandemic specific resource lists](https://www.arlingtonma.gov/departments/planning-community-development/economic-development/covid-19-resources) with local details about CARES Act / PPP loans, and SBA resource centers, as well as links for nonprofits.
 - [Planning & Community Development](https://www.arlingtonma.gov/departments/planning-community-development/economic-development) department homepage.
 - Restaurants selling groceries may now [submit fast-track applications](https://www.arlingtonma.gov/Home/Components/News/News/10149/1525?backlist=%2fdepartments%2fhealth-human-services).  If your restaurant is selling groceries alongside takeout, [let us know](https://mutualaidarlington.org/food/)!

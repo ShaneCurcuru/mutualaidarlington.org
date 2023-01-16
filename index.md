@@ -14,16 +14,27 @@ We're here to connect you with all the awesome volunteer groups run by your neig
 
 | [**Get Help**](/gethelp/) <i class="fa fa-bullhorn"></i> | [**Volunteer**](/volunteer/) <i class="fa fa-users"></i> | **Resources** <i class="fa fa-book-reader"></i> |
 | --- | --- | --- | 
-| [Get Help From Local Volunteers](/gethelp/) | [Volunteer To Help Neighbors](/volunteer) | [Instock Grocery Tracker](/instock/) |
-| [Get Tech Help](/techhelp/) | [Stay Active](/active/) / [Spread Cheer!](/cheer/) | [What's Open?](/open/) / [Ordering Food](/food/) | 
-| [Business Help](/business/) | [Mask How-To](/masks/) / [Buy A Mask](/buymasks/) | [Need Books?](/books/) [Libraries!](/libraries/) | 
+| [Get Help From Local Volunteers](/gethelp/) | [Volunteer To Help Neighbors](/volunteer) | [Get COVID Testing](https://www.mass.gov/covid-19-testing)
+) |
+| [Get Tech Help](/techhelp/) | [Stay Active](/active/) / [Spread Cheer!](/cheer/) | [Get Vaccinated](https://vaxfinder.mass.gov/) | 
+| [Business Help](/business/) | [Mask How-To](/masks/) / [Need Books?](/books/) [Libraries!](/libraries/) | 
 | [Help outside Arlington](/local/) | [Setup A Volunteer Pod](/pods) | [Parents Resources](/parents/) | 
 
-## Arlington Helps
+## Connect With Arlington, MA Town Alerts
 
-[Arlington Helps](https://www.arlingtonhelps.org) is an allied group of volunteers that provides many support services including [Neighborhood Pods](/pods/). There are several private [Facebook Groups with super-helpful Arlingtonians](https://menotomymatters.com/howto/covid-emergency/#resource-lists---where-to-get-help) too.
+Town government continues to provide support for residents impacted by COVID.
 
-We've got a [full list of Arlington stores/restaurants open and hours](/open/) that are curated by the town and several volunteers.  For those without internet, there are many [discount programs to keep people connected](/telecom/).
+- [Sign up for Town Alerts](https://www.arlingtonma.gov/connect-6), using whatever channels you prefer.
+- New to Arlington, MA? Read the [town guide for new residents](https://www.arlingtonma.gov/connect/i-m-a-new-resident), and welcome!
+- Current [Arlington Health Department notes on COVID issues](https://arlingtonma.gov/covid19).
+- Kids in school? [Arlington Public Schools have a COVID portal](https://www.arlington.k12.ma.us/apps/pages/index.jsp?uREC_ID=2884354&type=d&pREC_ID=2332439) for current policies.
+
+
+
+## Pre-2022 Content for Arlington during COVID
+## Arlington Helps Volunteers
+
+[Arlington Helps](https://tinyurl.com/arlington-cv-support-fb-group) is an allied group of volunteers that provides various kinds of support services in their Facebook group. There are several other private [Facebook Groups with super-helpful Arlingtonians](https://menotomymatters.com/howto/covid-emergency/#resource-lists---where-to-get-help) too.
 
 ## Town Alerts <span style="color: #ffcc00"><i class="fa fa-exclamation-triangle"></i></span>
 

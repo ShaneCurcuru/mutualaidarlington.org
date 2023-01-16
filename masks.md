@@ -1,19 +1,25 @@
 ---
-title: Masks - Making Them, Using Them, Donating Them
-description: A guide to all the places near Arlington for sewing, donating, wearing, or getting masks and PPE.
+title: Masks - Safely Buying Secure Masks
+description: Pointers to reputable sites for surgical/N95/KN95 PPE masks.
 classes: wide
 header:
   overlay_image: /assets/images/masks.jpg
   caption: "Photo: [**Sharon McCutcheon / Unsplash**](https://unsplash.com/photos/bEDh-PxXZ0c)"
 ---
 
-Now that many local towns require masks, and the [CDC recommends wearing cloth masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html) when going out, we're all wondering where to get one for ourselves, or where to donate extra masks or Personal Protective Equipment (PPE) to those who need them.
+## 2022 COVID Continues Update
 
-{% include chatbox.html %}
+Even as most municipalities have dropped all mask requirements, many folks still want to keep safe when out shopping.  While it's not as hard to find masks these days, ensure you're buying from reputable suppliers with these resources.
 
-_Need a mask for home use?_ See the [list of local Arlingtonians sewing cloth masks for sale](/buymasks/) to neighbors! 
+- [Project N95 is a great place to buy your own masks](https://www.projectn95.org/), as well as help donate them to those in need.
+- The [CDC lists approved N95 respirator manufacturers](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/n95list1-a.html) and specific products.
+- Thge NY Time's [Wirecutter team rates the top cloth-covered filter masks](https://www.nytimes.com/wirecutter/reviews/best-cloth-face-masks/), for those who want style with protection.
 
+
+## Pre-2022 Content for Arlington during COVID
 ## Donate Masks Or PPE
+
+Now that many local towns require masks, and the [CDC recommends wearing cloth masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html) when going out, we're all wondering where to get one for ourselves, or where to donate extra masks or Personal Protective Equipment (PPE) to those who need them.
 
 - [Donate Masks To Arlington](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information/donate-personal-protective-equipment) - the town has a simple form for listing what masks (N95, surgical, fabric) or PPE you can donate to first responders and hospitals, and [showcases how many donations have been made](https://datastudio.google.com/u/0/reporting/c8d77b51-3ddb-4b48-8158-5061f8fc3f13/page/cyCKB).
 - [MaskOn builds full masks for hospital use](https://maskson.org), and a local Arlingtonian is working with AHS students as a distribution point for them.
@@ -36,7 +42,7 @@ With many of the regular retailers sold out, or backordered, it takes some plann
 
 Remember to [**always put your mask on safely**](https://www.sfcdcp.org/communicable-disease/healthy-habits/how-to-put-on-and-remove-a-face-mask/) - a contaminated mask (from handling the inside with dirty fingers) doesn't help as much.
 
-## Masks Required In Public Spaces
+## Masks Required In Public Spaces - pre-2021
 
 Arlington town government has issued a “[Wear A Face Covering in Public" Advisory](https://www.arlingtonma.gov/departments/health-human-services/health-department/coronavirus-information) in public for all residents over the age of 5.  See how other local towns and cites are handling this guidance about [staying safe in public from the CDC](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html).
 
