@@ -1,23 +1,23 @@
 ---
 title: Books, Books, Books!
-description: How to get books during the age of Coronavirus when libraries are closed.
+description: How to get books during the age of Coronavirus.
 classes: wide
 header:
   overlay_image: /assets/images/books.jpg
   caption: "Photo: [**Ed Robertson / Unsplash**](https://unsplash.com/@eddrobertson)"
 ---
 
-Have you finished reading everything on your bookshelf?  Started reading ingredient lists while waiting for [your library Overdrive book](/parents/#library-programs-online) to come in or for you [Robbins Library pickup time](https://www.robbinslibrary.org/borrowing-items/#) to be here?  Tired of waiting for Amazon to actually ship anything non-essential?  Check out these bookstores still selling.
+Have you finished reading everything on your bookshelf?  Started reading ingredient lists while waiting for [your library Overdrive book](/parents/#library-programs-online) to come in or for you [Robbins Library pickup time](https://www.robbinslibrary.org/borrowing-items/#) to be here?  Tired of waiting for Amazon to actually ship anything non-essential?  Check out these other bookstores and places to find books.
 
-## Local Bookstores Still Selling
+## Local Bookstores
 
-Most independent booksellers are now use [Bookshop.org](http://bookshop.org/) to fullfill their orders.  Bookshop.org then shares a profit percentage with the local store - a key way to support your independent bookshop during stay-at-home orders!  
+While it's fun to wander store bookshelves in our local stores, sometimes it's convenient to order online.  Most shops use [Bookshop.org](http://bookshop.org/) to fullfill online orders.  Bookshop.org then shares profits with the local stores - a key way to support your independent bookshop!
 
-- [The Book Rack](http://www.book-rack.com/covid-update/) still offers local delivery for a $1 fee, and has a [Bookshop.org portal](http://www.bookshop.org/shop/bookrack)
-- [Belmont Books](https://www.belmontbooks.com/message-concerning-temporary-closure?shane), in downtown Belmont, is only selling through [their Bookshop.org portal](https://bookshop.org/shop/belmontbooks) (but shipping was quick for me!)
-- [Book Ends](https://bookendswinchester.indielite.org/) in Winchester center only has a [Bookshop.org portal](https://bookshop.org/shop/bookendswinchester)
-- [Porter Square Books](https://www.portersquarebooks.com/porter-square-books-and-covid-19) is taking some shipping orders, with a delay
-- [Harvard Book Store](http://www.harvard.com/updates_on_covid-19) is only using their [Bookshop.org portal](https://bookshop.org/shop/harvardbookstore)
+- [The Book Rack](http://www.book-rack.com//) still offers local delivery for a $1 fee, and has a [Bookshop.org portal](http://www.bookshop.org/shop/bookrack)
+- [Belmont Books](https://www.belmontbooks.com/), with a cafe also sells through [their Bookshop.org portal](https://bookshop.org/shop/belmontbooks)
+- [Book Ends](https://bookendswinchester.indielite.org/) in Winchester center and [Bookshop.org portal](https://bookshop.org/shop/bookendswinchester)
+- [Porter Square Books](https://www.portersquarebooks.com/porter-square-books-and-covid-19)
+- [Harvard Book Store](http://www.harvard.com/) has a [Bookshop.org portal](https://bookshop.org/shop/harvardbookstore)
 - [More Than Words](https://mtwyouth.org) is selling online, and all proceeds go to their youth work initiatives - they're also still accepting book donations at their Waltham location.
 
 ## Used Bookstores Worth Buying From
