@@ -9,6 +9,15 @@ header:
 
 Looking to find some fresh produce?  Need gluten-free flour, or anything else special?  Just need some TP!?!?  While stock levels for most things are getting better, some things (like wipes in plastic canisters) are still hard to find.
 
+## UPDATE: Where To Get Free Stuff
+
+While supply chains have mostly caught up, there's still plenty of need in town for various kinds of things.  Several groups make it easy to give away things that you might not need, but is still too nice to throw away.
+
+- [Neighborhood Free Shelves](https://www.freeshelves.org/) - neighbors organizing shelves on their street to swap free stuff (give or take as you desire).
+- [Everything Is Free Arlington](https://www.facebook.com/groups/EIFArlingtonMA/) - an active and thriving Facebook group of people giving away stuff for free, just about anything you can imagine.
+- [Buy Nothing Arlington/Lexington](https://www.facebook.com/groups/406546909499910) - a Facebook group focused on recycling and repurposing things between neighbors, all for free.
+- [Arlngton DPW's own Swap Shed](https://www.arlingtonma.gov/departments/public-works/recycling-trash-composting/swap-shed) - Check the schedule for what weekend hours they're open; it's a free swap shed with some great stuff.
+
 ## Nearby Supermarket Stock Reports
 
 Reminder: [Wash your hands, don't worry too much about sanitizing groceries](https://www.npr.org/sections/health-shots/2020/04/12/832269202/no-you-dont-need-to-disinfect-your-groceries-but-here-s-to-shop-safely).

@@ -6,7 +6,11 @@ header:
   caption: "Photo: [**Kelly Sikkema / Unsplash**]"
 ---
 
-**Pods are hyperlocal text message groups or phone trees of you and your neighbors.** Since not everyone has access to online communication, neighborhood pods are how we reach more people. 
+**Pods are hyperlocal text message groups or phone trees of you and your neighbors.** Since not everyone has access to online communication, neighborhood pods and other efforts below are how to connect and help your local neighbors. 
+
+## Got Stuff To Share With Neighbors? Use Free Shelves!
+
+Volunteers in town are organizing [Neighborhood Free Shelves](https://www.freeshelves.org/) on their streets.  Have stuff you don't need, but is too good to throw out?  Looking for something useful, but can't afford it (or no time to shop)?  Talk with your neighbors about setting up your own Free Shelves - a local version of the [popular Everything Is Free](https://mutualaidarlington.org/books/#little-free-libraries-and-book-swaps-in-town) [group on Facebook](https://www.facebook.com/groups/EIFArlingtonMA/)!
 
 ## Volunteer To Setup An Arlington Helps Pod
 
