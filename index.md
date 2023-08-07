@@ -6,8 +6,6 @@ sidebar:
   nav: defnav
 ---
 
-{% include chatbox.html %}
-
 We're here to connect you with all the awesome volunteer groups run by your neighbors, key resources like what stores are open or delivering, and ideas for keeping families and kids active and happy!  See the Toggle Menu on the left for everything.
 
 # Resource Finder /  Sitemap
@@ -15,7 +13,7 @@ We're here to connect you with all the awesome volunteer groups run by your neig
 | [**Get Help**](/gethelp/) <i class="fa fa-bullhorn"></i> | [**Volunteer**](/volunteer/) <i class="fa fa-users"></i> | **Resources** <i class="fa fa-book-reader"></i> |
 | --- | --- | --- | 
 | [Get Help From Local Volunteers](/gethelp/) | [Volunteer To Help Neighbors](/volunteer) | [Get COVID Testing](https://www.mass.gov/covid-19-testing) |
-| [Get Tech Help](/techhelp/) | [Stay Active](/active/) | [Get Vaccinated](https://vaxfinder.mass.gov/) | 
+| [Arlington News](https:/yourarlington.com/) | [Stay Active](/active/) | [Get Vaccinated](https://vaxfinder.mass.gov/) | 
 | [Business Help](/business/) | [Need Books?](/books/) | [Get Good Masks](/masks/) | 
 | [Help outside Arlington](/local/) | [Setup A Volunteer Pod](/pods) | [Parents Resources](/parents/) | 
 
@@ -23,7 +21,7 @@ We're here to connect you with all the awesome volunteer groups run by your neig
 
 Town government continues to provide support for residents impacted by COVID.
 
-- [Sign up for Town Alerts](https://www.arlingtonma.gov/connect-6), using whatever channels you prefer.
+- [Sign up for Town Alerts](https://www.arlingtonma.gov/connect/arlington-alerts), using whatever channels you prefer.
 - New to Arlington, MA? Read the [town guide for new residents](https://www.arlingtonma.gov/connect/i-m-a-new-resident), and welcome!
 - Current [Arlington Health Department notes on COVID issues](https://arlingtonma.gov/covid19).
 - Kids in school? [Arlington Public Schools have a COVID portal](https://www.arlington.k12.ma.us/apps/pages/index.jsp?uREC_ID=2884354&type=d&pREC_ID=2332439) for current policies.
